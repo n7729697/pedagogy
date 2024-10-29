@@ -6,7 +6,7 @@ import seaborn as sns
 # Set the font to Times New Roman
 plt.rcParams['font.family'] = 'Times New Roman'
 # Load the CSV results into a DataFrame
-df = pd.read_csv('/home/xuezhi/Desktop/aspect_sentiment_analysis_results.csv')
+df = pd.read_csv('/your/abas/csv/path') # Change to your .txt files directory
 # Sort data by rank
 df = df.sort_values(by='name')
 # Display the first few rows to verify the data

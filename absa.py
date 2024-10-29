@@ -14,7 +14,7 @@ nlp = spacy.load('en_core_web_sm')
 sid = SentimentIntensityAnalyzer()
 
 # Example text for processing
-folder_path = '/home/xuezhi/Desktop/raw/Sweden'  # Path to your .txt file
+folder_path = '/path/to/your/folder'  # Change to your .txt files directory
 
 # Define the aspects to analyze
 aspects = ['engage', 'privacy', 'access', 'teaching', 'learning']

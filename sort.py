@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Example csv for processing
-folder_path = '/home/xuezhi/Desktop/raw'  # Path to your .csv file
+folder_path = '/your/csv/files/path'  # Path to your .csv file
 
 # Initialize a new DataFrame to store results
 results = pd.DataFrame(columns=['Filename'] + [f'Term_{i+1}' for i in range(10)])
