@@ -1,0 +1,149 @@
+Generative AI Tools
+We encourage you to spend some time exploring the generative AI tools in this resource hub. It’s important to get a sense of any technology’s capabilities and limitations before you integrate it into your teaching. Also, trying these technologies yourself may help you get a sense of how your students are using generative AI.
+
+Before you start using AI tools in your teaching, make sure to review MIT Sloan’s Guiding Principles for the Use of Generative AI in Courses.
+
+The tools we’ve curated in this resource hub fall into these categories:
+
+AI Writing and Content Creation Tools: Large language models accessed through tools like ChatGPT and Claude can help generate written content, provide grammar suggestions, summarize texts, and more. Our overview of AI writing assistants covers the types of support they can provide along with important ethical considerations. While not a substitute for human writing, these tools can help accelerate drafting and revision.
+AI Data Analysis and Quantitative Tools: Complex data sets are now more understandable thanks to AI analytics and visualization platforms. Explore options like IBM Watson and ToolsAI to see how algorithms can help process, interpret, and generate insights based on quantitative data. Consider use cases for statistical modeling, data visualization, and other applications while keeping key limitations in mind.
+AI Image Generation Tools: Models like DALL-E 3 and Stable Diffusion enable the creation of original images, videos, and other multimedia just by describing desired outputs. With experimentation, they may enable you to transform your visual media workflows.
+While you explore each platform’s potential, make sure to closely monitor for quality, bias, and responsible usage.
+
+Ethical Considerations
+The emergence of powerful generative AI systems presents exciting possibilities for enhancing teaching and learning. However, integrating these technologies into teaching also raises important ethical questions. Three key areas of concern are data privacy, AI-generated falsehoods, and bias in AI systems.
+
+Data Privacy
+Make sure to treat unsecured AI systems like public platforms. As a general rule, and in accordance with MIT’s Written Information Security Policy, you should never enter any data or input that is confidential or sensitive into publicly accessible generative AI tools. This includes (but is not limited to) individual names, physical or email addresses, identification numbers, and specific medical, HR, financial records, as well as proprietary company details and any research or organizational data that are not publicly available. If in doubt, please consult with MIT Sloan Technology Services Office of Information Security.
+
+Note that some of this data is also governed by FERPA (Family Educational Rights and Privacy Act), the federal law in the United States that mandates the protection of students’ educational records (U.S. Department of Education), as well as various international privacy regulations including the European GDPR and Chinese PIPL.
+
+Microsoft Copilot provides the MIT Sloan community with data-protected access to AI tools GPT-4 and DALLE-3. Chat data is not shared with Microsoft or used to train their AI models. Access Microsoft Copilot by logging in with your MIT Kerberos account at https://copilot.microsoft.com/. To learn more, see What is Microsoft Copilot (AI Chat)?
+
+Beyond never sharing sensitive data with publicly available AI systems, we recommend that you remove or change any details that can identify you or someone else in any documents or text that you upload or provide as input. If there’s something you wouldn’t want others to know or see, it’s best to keep it out of the AI system altogether (Nield, 2023). This is not just about personal details, but also proprietary information (including ideas, algorithms or code), unpublished research, or sensitive communications.
+
+It’s also essential to recognize that once data is entered into most AI systems, it’s challenging—if not impossible—to remove it (Heikkilä, 2023). Always exercise caution and make sure any information you provide aligns with your comfort level and understanding of its potential long-term presence in the AI system, as well as with MIT’s privacy and security requirements.
+
+Falsehoods and Bias
+There are well-documented issues around AI systems generating content that includes falsehoods (“hallucinations”) and harmful bias (Germain, 2023; Nicoletti & Bass, 2023). Educators have a responsibility to monitor AI output, address problems promptly, and encourage critical thinking about AI’s limitations.
+
+We encourage you to review our resources on protecting privacy, integrating AI responsibly into your course, and mitigating AI’s issues with hallucinations and bias:
+
+Navigating Data Privacy: Using generative AI tools to enhance your teaching requires a strong commitment to data privacy. This article outlines considerations for protecting your and students’ privacy when using publicly available generative AI tools for teaching and learning. These include avoiding sharing sensitive data, treating AI inputs carefully, and customizing privacy settings.
+Practical Strategies for Teaching with AI: This guide offers strategies for harnessing AI tools to augment education while addressing AI biases and hallucinations, guiding student engagement with AI tools, and developing AI literacy.
+When AI Gets It Wrong: Addressing AI Hallucinations and Bias: This article provides an overview of the biases and inaccuracies currently common in generative AI outputs. It outlines strategies for identifying and mitigating the impact of problematic AI content.
+By proactively addressing ethical considerations and AI’s limitations, we can realize the promise of generative AI while upholding principles of fairness, accuracy, and transparency.
+
+AI-Powered Teaching Strategies
+Thinking about using generative AI in your teaching but not sure where to start? In this section, we’ll walk through several simple strategies for implementing research-based teaching best practices with the help of generative AI tools. These approaches are grounded in the principles of Universal Design for Learning (UDL) and insights from the learning sciences. You can use the strategies as-is or think about creative ways to adapt them to your own courses.
+
+1. Use AI to Generate Concrete Examples
+Teaching often involves explaining abstract concepts or theories. While these are essential for academic understanding, they can sometimes be challenging for students to grasp without real-world context. You can use generative AI tools to come up with many concrete examples to make abstract ideas more relatable and understandable for students.
+
+How to Implement This Strategy:
+
+Identify an abstract concept. Select one abstract concept or theory that you’ll be covering in your lesson.
+Choose a generative AI tool. Select one or several AI Writing and Content Creation Tools that you’ll use for this task.
+Teach the AI. Prompt your chosen AI tool to engage with the concept you’ve selected. If the tool is connected to the internet, you can ask it to look up and summarize the concept. If the tool is not connected to the internet, provide it with open-source content describing the concept and ask it to summarize that information.
+Prompt the AI. Ask your chosen chatbot for examples or applications of the chosen concept. You can use a prompt like this one created by Ethan Mollick and Lilach Mollick: “I would like you to act as an example generator for students. When confronted with new and complex concepts, adding many and varied examples helps students better understand those concepts. I would like you to ask what concept I would like examples of, and what level of students I am teaching. You will look up the concept, and then provide me with four different and varied accurate examples of the concept in action” (Mollick & Mollick, 2023-b).
+Review and select examples. From the generated examples, select the most relevant and clear examples that align with the lesson’s objectives. Always verify the accuracy of the examples provided by the AI using trusted sources. Make sure to address and eliminate any harmful bias in AI-generated examples.
+Integrate the examples into lessons. Incorporate these examples into your lectures, discussions, or assignments.
+What’s the research? Concrete examples help bridge the gap between abstract theories and real-world applications. Research shows that exploring tangible instances can help students better relate to and understand complex concepts, activating their background knowledge and making learning experiences more meaningful (Smith & Weinstein, n.d.-a; CAST, n.d.-b).
+
+2. Use AI to Create Practice Quizzes
+Frequent low-stakes quizzes are a great way to help students test their knowledge and reinforce their understanding. However, creating quizzes can be time-consuming for faculty. With the rise of generative AI tools like ChatGPT, though, it’s now possible to streamline the quiz creation process. You can use AI to generate practice quizzes tailored to specific topics. Moreover, these AI-generated quizzes can be adapted to fit various teaching approaches and course requirements, offering a flexible solution for assessment needs.
+
+How to Implement This Strategy:
+
+Choose your topics. Identify the topics or concepts for which you want to create practice quizzes.
+Select a generative AI tool. Identify one or several AI Writing and Content Creation Tools that you’ll use for this task.
+Teach the AI. Prompt your chosen AI tool to engage with the concept you’ve selected. If the tool is connected to the internet, you can ask it to look up and summarize the concept. If the tool is not connected to the internet, provide it with open-source content describing the concept and ask it to summarize that information.
+Prompt the AI. Ask the AI tool to generate quiz questions related to these topics. Use a quiz-question generating prompt like this one created by Ethan Mollick and Lilach Mollick: “You are a quiz creator of highly diagnostic quizzes. You will look up how to do good low-stakes tests and diagnostics. You will then ask me two questions. (1) First, what, specifically, should the quiz test. (2) Second, for which audience is the quiz. Once you have my answers you will look up the topic and construct several multiple choice questions to quiz the audience on that topic. The questions should be highly relevant and go beyond just facts. Multiple choice questions should include plausible, competitive alternate responses and should not include an ‘all of the above’ option. At the end of the quiz, you will provide an answer key and explain the right answer” (Mollick & Mollick, 2023-b).
+Review and refine the results. Examine the generated questions for relevance and accuracy. Remove any content that perpetuates harmful biases. Modify or refine as necessary.
+Distribute the quizzes to students. Share the practice quizzes with students. You may want to incorporate the questions into a Canvas quiz.
+What’s the research? Retrieval practice, or the act of recalling information from memory, strengthens memory retention (Smith & Weinstein, n.d.-d). Practice quizzes offer students an opportunity to test their understanding and reinforce their learning, making the information more retrievable in the future.
+
+3. Assign Students to Generate Visual Summaries
+Visual aids have always been a cornerstone in effective teaching, aiding in comprehension and retention. With the rise of image-generating AI models, we now have new tools in hand to help create these visual aids. In this use case, you’ll ask students to craft visual summaries of specific topics, blending both verbal descriptions and AI-generated imagery. This not only deepens their understanding but also fosters creativity and critical thinking as they evaluate and refine the visuals produced by AI tools.
+
+How to Implement This Strategy:
+
+Assign topics. Provide students with specific topics for which they should create visual summaries.
+Guide students to explore AI Image Generation Tools. Follow the tips in our article Practical Strategies for Teaching with AI to set your students up for success with their chosen AI tool. Make sure they are aware of generative AI’s limitations and privacy implications.
+Have students create visual summaries. Ask students to find or generate images that they can use to create visual aids for the assigned topics. Encourage students to combine text and visual information to summarize the topic’s main points.
+Review and discuss students’ work. Examine the visual summaries in class, discussing the concepts and clarifying any misconceptions. If this assignment is graded, make sure to grade based on conceptual understanding rather than image quality.
+What’s the research? Dual coding is when learners interact with content through both verbal and visual information, enhancing memory and understanding (Smith & Weinstein, n.d.-b). This research-backed study strategy aligns with the Universal Design for Learning checkpoint “Illustrate through multiple media” (CAST, n.d.-a). Visual summaries allow students to integrate two forms of information, deepening their comprehension and making the learning experience more engaging.
+
+4. Ask Students to Teach the AI
+Deep understanding often comes from the act of explaining. In the realm of education, having students articulate their understanding of a concept can solidify their grasp and highlight areas needing further clarification. With the advent of AI tools like ChatGPT, students now have an interactive platform where they can practice this act of elaboration. By engaging in detailed conversations with the AI, students can receive instant feedback, refine their understanding, and practice the art of explanation.
+
+To see what this strategy can look like in action, check out our blog post: Harnessing AI in Finance: Eric So’s Innovative Take on Teaching Value Investing.
+
+How to Implement This Strategy:
+
+Choose a generative AI tool. Select a free AI Writing and Content Creation Tool that students can use for this activity.
+Introduce your chosen platform to students. Follow the tips in our article Practical Strategies for Teaching with AI to set your students up for success with their chosen AI tool. Make sure they are aware of generative AI’s limitations and privacy implications.
+Assign topics. Provide students with specific topics or concepts they should explain to the AI.
+Invite students to interact with the AI. Encourage students to have detailed conversations with the AI, explaining concepts and receiving feedback.
+Reflect and discuss. Ask students to reflect on their conversation with the AI and identify areas for improvement.
+What’s the research? Elaborative interrogation is a research-backed study strategy in which students deepen their understanding by asking questions and explaining concepts (Smith & Weinstein, n.d.-c). By interacting with AI, students can practice this strategy, enhancing their comprehension and reinforcing their learning.
+
+Get Support
+As you consider how to best use generative AI in your course, questions will arise. Contact us for a personalized consultation. We’re here to be your thought partner during your development and implementation process.
+
+Conclusion
+Integrating artificial intelligence into your teaching offers both opportunities and challenges. In this guide, we’ve provided an initial roadmap to begin exploring this new space. We’ve covered the basics of what generative AI is, considered its potential benefits, and explored practical use cases to incorporate generative AI tools into teaching. We’ve also emphasized the importance of ethical considerations like prioritizing student privacy and addressing potential biases.
+
+While AI offers powerful tools to augment our teaching methods, the human touch remains irreplaceable. The goal is not to replace educators but to empower them with additional resources. By combining the strengths of AI with the expertise of skilled instructors, we can create richer, more effective learning experiences for our students.
+
+As you move forward, remember that you’re not alone on this journey. Our team is here to support you, answer questions, and provide guidance. We’re excited to see how you’ll harness the potential of AI in your classrooms and look forward to hearing about your experiences. Let’s explore, learn, and innovate together.
+
+MIT Sloan Faculty: We want to know how you’re incorporating generative AI in your courses—big or small. Your experiences are more than just personal milestones; they’re shaping the future of pedagogy. By sharing your insights, you contribute to a community of innovation and inspire colleagues to venture into new territories. Contact us to be featured. We’re here to help you tell your story!
+
+At a Glance
+This guide offers practical strategies to help MIT Sloan faculty responsibly integrate generative AI tools into their teaching. You’ll find specific recommendations on safeguarding student privacy, addressing AI limitations in the classroom, encouraging critical thinking about AI, and developing your own AI literacy. Whether you’re an AI novice or expert, our goal is to provide tailored guidance so you can mitigate AI’s risks while harnessing its power to create more dynamic, hands-on learning experiences for students.
+
+Teaching responsibly with generative AI means protecting your, students’, and MIT’s data when you’re using publicly available AI tools. To learn more, see Navigating Data Privacy.
+
+1. Be Transparent with Students
+If you’re thinking of using an AI tool in your course, let students know in advance. That’s especially important if they’ll need to share any personal information (such as a phone number to create an account) to access the tool. Here are some steps you can take to set the scene:
+
+Provide context. Before introducing an AI tool, offer a brief overview of how it works and why it will benefit students’ learning.
+Highlight the importance of data privacy. Educate your students on generative AI data privacy practices. Distribute readings or resources that delve into data privacy in AI. Consider sharing articles from reputable business journals or case studies that discuss real-world implications of data privacy breaches.
+Offer alternatives. Always provide students with an alternative if they’re uncomfortable with sharing their data. This could be another tool, a different assignment, or a manual approach to achieve the same learning outcome.
+By taking these steps, you’re not just asking students to use a tool; you’re preparing them to make informed decisions as future business leaders.
+
+Microsoft Copilot provides the MIT Sloan community with data-protected access to AI tools GPT-4 and DALLE-3. Chat data is not shared with Microsoft or used to train their AI models. Access Microsoft Copilot by logging in with your MIT Kerberos account at https://copilot.microsoft.com/. To learn more, see What is Microsoft Copilot (AI Chat)?
+
+2. Mitigate Known Limitations
+Generative AI tools have limitations that can cause problems if not addressed proactively. One challenge is that AI can produce content that seems accurate but isn’t – we call this a “hallucination” (O’Brien, 2023). For example, ChatGPT might provide a compelling yet incorrect explanation of a business model. Make sure to cross-reference AI-generated content with trusted sources, such as the MIT Libraries’ resources. Treat any AI content as needing validation.
+
+AI can also produce output that reflects the harmful biases present in its training data. This can lead to skewed representations. For example, when an MIT student provided her photo to AI image creator PlaygroundAI and asked it to generate a “professional LinkedIn profile photo,” the AI gave her paler skin and blue eyes (Buell, 2023). Racial and other biases are a recurring issue with AI tools (Sher & Benchlouch, 2023). To mitigate the impact of biased AI output, consider these approaches:
+
+Use inclusive content. Actively seek out inclusive teaching materials to ensure that your teaching materials include a wide range of perspectives. For example, consider integrating resources from Harvard Business Publishing (HBP)’s Diversity, Equity, and Inclusion: Resources for Educators.
+Foster open dialogue. Create a classroom environment where students feel empowered to discuss and challenge any biases they observe in AI outputs.
+Proactively addressing AI’s limitations can help you responsibly harness its potential to support your teaching. For a deeper understanding of the biases, misinformation, and errors associated with generative AI tools, see our article When AI Gets It Wrong: Addressing AI Hallucinations and Bias.
+
+3. Guide Student Engagement
+Consider these strategies to help maximize AI’s positive impact on your course and mitigate potential challenges.
+
+Collaborate with students on AI decisions. Students are our most important stakeholders. Consider involving your students in the decision-making process about how and when to use AI for teaching. Collect student feedback throughout the term so you can hear their perspectives on the AI tools they’ve been using.
+Try before you teach. Before integrating a new tool into your teaching, take the time to explore its features in-depth. If you’ll encourage students to use this tool, make sure you’ve tested its outputs and functionalities comprehensively enough to guide them effectively.
+Ensure accessibility. Make sure any tool that you’re encouraging students to use is compatible with screen readers, voice commands, and other assistive technologies. Avoid assignments that will disproportionately benefit students who can pay for access to expensive AI tools.
+Support academic integrity. Review our recommendations for maintaining academic integrity in the age of AI.
+Encourage critical thinking. Encourage students to think critically about AI’s limitations. Highlight the danger of hallucinations and offer students resources and methods for fact checking. Discuss AI’s potential to reproduce harmful biases. Emphasize the importance of carefully reviewing AI-generated content.
+By taking these steps, we can help students engage with AI thoughtfully, responsibly, and effectively.
+
+4. Develop AI Literacy
+AI literacy is “a set of competencies that enables individuals to critically evaluate AI technologies, communicate and collaborate effectively with AI, and use AI as a tool online, at home, and in the workplace” (Long & Magerko, 2020, p.2).
+
+Generative AI is becoming particularly relevant in higher education. Consider the rise of AI-driven tools that can simulate business scenarios or generate financial models based on a set of input parameters. Such tools can be invaluable in a classroom setting, allowing students to explore a multitude of business situations without manually crafting each one. By integrating these tools into their curriculum, faculty can offer students hands-on experiences that were previously hard to achieve.
+
+Many different resources can help you develop AI literacy and become a savvy user. For example, you can have conversations about AI with your colleagues and students. You can join workshops or courses focused on AI. You can read expert articles. You can also explore relevant courses on platforms like LinkedIn Learning. The more you know, the more effectively you can use AI yourself and guide your students.
+
+Conclusion
+ChatGPT and generative AI tools create new opportunities and risks in education. As these technologies advance, MIT Sloan faculty can lead the way in teaching responsibly with generative AI. This will require understanding AI tools’ ethical implications as well as their limitations. It may also mean intentionally guiding students’ engagement with these new technologies.
+
+Whether or not you integrate AI tools into your course, you can help students critically evaluate AI and its potential impacts. MIT Sloan students will enter a world in which they may encounter generative AI tools and their outputs every day. By discussing or modeling responsible AI use in the classroom, you can help students build the skills they need for ethical leadership.
+
+

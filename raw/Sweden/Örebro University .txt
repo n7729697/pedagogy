@@ -1,0 +1,173 @@
+Artificial intelligence in higher education
+A hand is holding a round ring with artificial symbols.
+When you take a selfie and the mobile phone camera finds your face with a rectangle – that's artificial intelligence (AI). When your friends are automatically tagged in a picture on social media – that's AI. When you get content recommendations for music, movies and series on various streaming services – that's also AI. AI development affects the whole of society and all people.
+
+Key concepts
+Artificial intelligence (AI) – Has no clear definition but refers to software that is autonomous and adaptive to varying degrees, i.e. works independently and adapts itself.
+
+Data – Information that is registered somewhere.
+
+Algorithm – A sequence of instructions. Like a recipe for baking.
+
+Model - The part of the software that is used to solve the problem, for example make a prediction.
+
+Machine learning – An important subfield of AI. Systems that get better at a given task as the amount of experience and data increases.
+
+Training data – The data used to train the model in machine learning.
+
+Neural network – A tool for solving machine learning problems. It is a structure for training a model that is loosely based on the biological neural networks found in our brains.
+
+Deep learning – An important subfield of machine learning. In deep learning, there is a neural network containing many layers of neurons (non-deep learning involves neural networks with only one or a small number of layers of neurons).
+
+Bias – A distortion or skew in the calculation or interpretation of the available information.
+
+Algorithmic discrimination – Occurs because the training data on which a model is trained is biased. This data is originally authored by humans and reflects, in both content and quantity, preconceived ideas and patterns in society.
+
+Nowadays, AI is established in virtually all areas of society. Yet, surprisingly, many of us have a very limited understanding of how these technologies work and what they can be used for.
+
+In order for us to make wise decisions and realise the potential of AI, each and every one of us needs to upgrade our knowledge of AI. Economists, politicians, teachers, nurses, lawyers, doctors, musicians, engineers and chefs. No one can say that AI does not affect them or their profession.
+
+For teachers in higher education, this means that course syllabuses may need to be updated and that teaching may need to include the latest knowledge on how AI may affect students' future profession or research area.
+
+Ultimately, it comes down to the world we want to live in. Knowledge gaps about AI in large parts of society become a democracy problem. It is not just the programmers who need to think about privacy, legislation, ethical aspects and security. Or to decide in which areas of healthcare, education, industry or the legal system AI is suitable or not. Many of these issues are political in nature and affect everyone.
+
+At the bottom of this page, under the “Videos – with reflection and discussion questions” tab, you will find a short introductory video (14 min) about what AI is.
+
+Generative AI
+More recently, we have seen the emergence of several new services that can generate text, images and music. One example of generative AI is the ChatGPT service launched in late 2022 by the research company OpenAI and partly funded by Microsoft. The development continues and Microsoft is integrating generative AI into several of its services.
+
+On the page Generative AI in teaching and examinations, you will find pedagogical support that has been devised based on discussions with teachers and external monitoring, and with the aid of a lawyer and information security manager. This information has also been approved by the Strategic Council for Education to ensure it is in line with the university's position on generative AI.
+
+Below you will also find 10 tips on how you as a teacher can deal with the rapid development of generative AI.
+
+10 tips for dealing with AI development
+Try ChatGPT or another generative tool. The best way to get an idea of AI-based text generator tools is to try them yourself.
+Watch the video on AI text generator tools if you are curious about how you could use AI text generator tools as a resource in your teaching or what you need to be aware of to prevent cheating in examinations. The video is found under the “Videos – with reflection and discussion questions” tab further down on this page.
+Think about how AI affects, or will affect, your subject or field. Are there any applications you are aware of?
+Think about what is considered relevant knowledge today and tomorrow. Our students need to be equipped for a world in which AI, as a technology, is part of society.
+Think about what students need to know about how AI affects their future professional role or research area. Are there any aspects of the profession or research area in which AI could be used?
+Make AI part of the content of your course. This could relate to current and future applications, ethical and legal aspects, or perhaps opportunities and challenges in your field. Algorithmic discrimination, deep fakes and social media influence campaigns are just a few examples. Assessment support in healthcare screening, self-driving cars and customised content recommendation are other examples of what your content could include.
+Teach critical evaluation of sources. Students need to be able to think critically about AI-generated claims and texts. A general understanding of how generative AI works can make a big difference and demystify what may otherwise feel unfamiliar and complex.
+Engage in discussions with colleagues about how to address this in relation to examinations within your subject. How do you create relevant and high-quality examinations that assess what you intend to assess in relation to intended learning outcomes and learning activities? This is a question that needs to be kept alive. The examinations must be both legally certain and relevant.
+Test your examination tasks in a text generator tool. This will give you an idea of how well an examination task works. For example, is the question too general?
+Look over your examinations. The video on AI text generator tools, which is found under the heading “Videos – with reflection and discussion questions” further down on this page, provides some tips on things to think about in relation to take-home examinations. Following up on take-home examinations, contextualising, focusing on the process, combining and varying examination formats, asking students to meta-reflect, using peer assessment or using AI-generated texts as part of the examination are some strategies you can use. No one can do everything, but maybe you, together with your colleagues, can start somewhere and do something?
+
+Generative AI for the teacher in our learning platform
+The latest update of our learning platform Bb Learn (Blackboard) includes generative AI as a tool for the teacher. This allows teachers to use AI and their own good judgement to generate modules, headings, images, question banks and assessment matrices. This can then provide inspiration and a foundation for further review and refinement. If you think this sounds exciting and want some help getting started, you can contact the Centre for Academic Development for a small demonstration of the new functionality. Read more on the AI in Bb Learn page.
+
+Getting started with AI integration
+We have provided some suggestions on how to go about integrating AI into your programme. You can find both information and support materials on the How to integrate perspectives in your programme page.
+
+Read more
+Artificial intelligence and robotics at Örebro University
+
+WASP-ED: The Wallenberg AI and Transformative Technologies Education Development Program
+
+Work Area 6: Teaching Competence
+
+AI Sweden
+
+ Videos – with reflection and discussion questions
+AI introduction
+Here is a short introductory video (14 min) about what AI is. It is a first step to help you as a teacher to understand how AI affects your particular field. This is the start of your journey to better understand why a computer is able to beat the world chess champion but not cook a goulash.
+
+
+
+Reflection and discussion questions:
+
+How does AI impact your field today? How do you think AI will affect your field in the future?
+What are your own feelings towards AI? Are you predominantly positive or negative? What do you think these feelings represent?
+In your opinion, what are the advantages and disadvantages of introducing AI in large parts of society?
+What opportunities and challenges exist in analysing large amounts of data?
+As regards what we currently do manually, what could be automated?
+Is there anything we absolutely should not use AI for? Why?
+Machine Learning
+Machine learning is a subfield of artificial intelligence where software is trained using examples before it is used in a live environment. This short film (14 minutes) describes machine learning at a very basic level and introduces several relevant concepts that are good for you to know when discussing artificial intelligence.
+
+
+
+Reflection and discussion questions:
+
+Consider whether there is anything you use in your daily life and/or in your work that utilizes machine learning to function.
+The film introduces several relevant concepts. Are any of these completely new to you? In what contexts do you think the different types of machine learning can be used?
+Search the Internet using the word "machine learning" followed by your own research area/field. (For example: machine learning sociology). Do you find any interesting applications of machine learning and if so, can you find which type of machine learning was used?
+How can machine learning be helpful in your research area or the areas you teach in?
+AI from a pedagogical perspective
+AI can be both content and form in education, that is, AI can both be a topic to learn more about and relate to, but also be a tool to use. But do you and your students really need to know anything about AI? Does it even have any connection to your field of knowledge? This film tries to answer this and counters buzzwords, hypes and concerns with concrete examples, historical wisdom and research results.
+
+
+
+Reflection and discussion questions:
+
+What examples of applications of AI do you know?
+Does AI have any connection to your area of ​​expertise?
+Do you and your students need to know anything about AI?
+What can we learn from AI history for the future?
+AI text generator tools
+Is there anyone who hasn't heard of ChatGPT, the AI text generator tool launched at the end of 2022? Do you wonder how a tool like this works? Do you have thoughts about how you could use a tool like this in your teaching or what you need to consider in examinations to prevent cheating? The video below covers these questions:
+
+
+
+Reflection and discussion questions:
+
+What is relevant knowledge today?
+How do we create relevant and legally certain examinations that assess what you intend to assess in relation to intended learning outcomes and learning activities?
+What do students need to understand about how AI works?
+ Teaching tips
+Examples of applications of AI
+Highlight and work with examples of applications of AI within the subject of the course. Many interesting applications of AI have emerged in recent years in several different parts of society. One example is in healthcare, where the potential of using AI as a support in analysing images during screening has been seen. Another example is in the arts, where AI-generated images and AI-generated music are examples of content for learning activities.
+
+Future applications of AI
+Think about future applications of AI in the students' future careers. What do we want to use AI for in the future? What do we not want to use AI for? Which abilities and competences will be relevant in the future for students' future careers? Of course, there are no definitive answers to these questions, but they can be interesting and rewarding to consider. The discussion on how we want to use AI needs to include all professional groups and all subjects.
+
+Ethical dilemma related to AI
+Start with an ethical dilemma related to AI, such as algorithmic discrimination, surveillance or social credit systems that evaluate and control human behaviour. How is AI used in authoritarian states? What problems arise when AI models identify, reflect and sometimes reinforce our prejudices? How can AI be misused in the wrong hands? There are many interesting ideas for discussion questions for learning activities.
+
+AI and the impact on democracy
+Have the students work on a learning activity that deals with AI and its impact on democracy. Examples of two interesting concepts are filter bubble and deep fakes. How does social media influence our political views and worldview? What are the dangers of the algorithms that determine what appears in our feeds? How do we know what is true when images, videos and texts can be manipulated by AI?
+
+AI and legal aspects
+Have the students work on a learning activity that deals with AI and legal aspects. Data storage, GDPR and privacy could be a starting point. Machine learning requires analysis of large amounts of data, but where does the information come from and where is it stored? Is it possible to trace the data to a specific person? Can multiple systems be cross-referenced to identify personal data in previously anonymised data? Can AI-generated data be used as evidence in the legal system?
+
+AI and sustainable development
+Our generation is facing a host of global problems and challenges, not least related to ecology, the environment and the Earth's finite resources. Most of these problems have not yet been satisfactorily resolved. Could AI, as a small part of a larger system, contribute to the solution? Discuss innovation in AI for sustainable development with your students.
+
+Of course, there are also downsides to AI development when it comes to sustainability issues. For example, it is extremely resource-intensive to train the models on which many generative AI tools are based. Moreover, the training data is almost always collected via the internet by large companies such as Google or Microsoft, with millions of users contributing data without compensation. Services developed using these models are then sold on a subscription basis to those who can afford it. Discuss with your students the problem of AI development increasing economic inequality and the Western world taking advantage of others through cheap labour. For example, you could use this 2023 article from the news site TIME as a starting point.
+
+Generative AI in teaching and examinations
+This pedagogical support is primarily intended for teachers in response to a need expressed from within the organisation. The content has been developed based on discussions with teachers, external monitoring and together with the Legal Office and DigIT. The formulated support has been approved by the Strategic Council for Education to ensure it is in line with the university's position on generative AI.
+
+Background
+What is generative AI and how does AI differ from other (technological) aids?
+
+Generative AI continues to develop at a rapid pace. What sets generative AI apart from previous technological aids is that it not only supports but also mimics human cognitive abilities, such as understanding language, solving problems, analysing and synthesising data. It can be difficult to discern what is created by AI and what is a human product.
+
+Generative AI is not only a screening tool but can also be a creative collaborator. Our students need to understand what generative AI is, its possibilities and challenges, and how it can be used. They need to be equipped for a world in which AI, as a technology, is part of society. This is a question of democracy and a prerequisite for our students to be active in working life and societal debate and to influence the direction of AI development.
+
+Generative AI is gradually making its way into the tools and platforms we already use. Developing education and examinations in relation to the rapid pace of development we are now seeing is a collective effort in which it is also essential to involve our students.
+
+Pedagogical support for teachers in their planning of teaching and examinations:
+Provide clear and consistent information to students regarding which aids are permitted and which are unauthorised when taking the course and its examinations, and – in cases where generative AI is permitted – how it may be used and how its use must be reported.
+
+Remember to:
+
+Inform the students that they bear sole responsibility for the material they submit, regardless of whether generative AI has been used or not.
+Use concrete examples and preferably use the question “How do we want the students to work in relation to AI and what do we want them to avoid?” as a starting point when formulating instructions and information.
+The course coordinator and/or examiner is responsible for deciding whether – and, if so, in what way – generative AI may be used when taking the course and its examinations.
+
+Examples of relevant questions to ask:
+
+In what way is AI relevant to the purpose of the programme and the objectives of the course?
+What knowledge, skills and abilities do students need in relation to AI?
+What aids and/or methods may the student use in the examination and how should the student report this in the task?
+Plan for responsible use of and approach to AI together with colleagues and students in the programme and for lifelong learning.
+
+It is important to consider:
+
+Privacy: Protect sensitive information and copyrighted material from being disseminated by being careful about what information is shared with AI.
+Critical approach: AI-generated material may contain fabricated data, inaccuracies, bias and copyrighted material. Whoever publishes AI-generated material is responsible for its content.
+Security: Pay attention to security conditions when choosing a system, as AI has increased the risk of phishing.
+Assume that students taking examinations in an open environment have access to generative AI and that it is used.
+
+It is a good idea for examinations in an open environment to be designed as more complex examinations, such as multi-part or continuous examinations that make the students' learning process visible.
+

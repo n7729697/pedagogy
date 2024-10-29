@@ -1,0 +1,164 @@
+GCU guidance on appropriate use of generative AI by students for
+Education purposes, November 2023
+Purpose
+The purpose of this paper is to provide guidance for students on appropriate and inappropriate use of
+artificial intelligence (AI) during their studies, in the context of the University’s existing policies and
+procedures1.
+Principles
+Glasgow Caledonian University has accepted and adopted the Russell Group Principles on the use of
+generative AI tools in Education. These state that:
+1. Universities will support students and staff to become AI-literate.
+2. Staff should be equipped to support students to use generative AI tools effectively and
+appropriately in their learning experience.
+3. Universities will adapt teaching and assessment to incorporate the ethical use of generative AI
+and support equal access.
+4. Universities will ensure academic rigour and integrity is upheld.
+5. Universities will work collaboratively to share best practice as the technology and its application
+in education evolves.
+To contextualise these to our specific learning and teaching environment, we have also approved
+following principles:
+• Inappropriate use of AI is a breach of the Student Code of Conduct.
+• Appropriate use of AI is likely to be contextual to programmes of study and specific modules.
+• AI detection tools are unreliable and unlikely to be effective.
+• AI is a sectoral / societal opportunity and challenge, with best practice emerging over time.
+This paper aims to provide guidance on what, in general, will be seen as appropriate and inappropriate
+use of AI by students – both in terms of general learning and teaching, and in terms of assessment. This
+is a non-exhaustive guide, rather than a stipulation, to help support students and staff navigate the
+effective and appropriate use of AI.
+AI in Learning & Teaching
+Generative AI has transformative potential in learning and teaching. Students and staff are therefore
+encouraged to experiment with, and learn from, the use of these tools to support active and
+collaborative learning as identified in the Strategy for Learning. Students may wish to use AI for
+formative purposes, to enhance their understanding in conjunction with traditional learning practices. In
+general terms, it is legitimate for students to use AI in ways that are akin to existing support already
+provided by the University and use of existing tools such as web-based search engines etc. Examples of
+appropriate and inappropriate student use are provided below in Table 1.
+1 Policies and procedures | Glasgow Caledonian University | Scotland, UK (gcu.ac.uk)Example Appropriate Use Inappropriate Use
+Lectures Using AI as a formative tool to
+augment and develop understanding
+from lectures.
+Relying solely on AI for information. This is
+because AI may provide inaccurate and out of
+date information.
+Written work Generating ideas, such as a list of
+topics.
+Providing feedback on written work.
+Experimenting with different tones of
+voice.
+Providing examples of how to
+structure a piece of written work e.g.
+report.
+Submitting AI generated content as own work.
+Trusting AI-generated lists of publications and
+other sources. Often these may be inaccurate
+or simply not exist. AI may provide useful
+pointers but should be used in conjunction with
+established literature search tools.
+Problem-based
+learning
+Providing technical assistance, such as
+instructions on how to use R, Excel,
+PowerPoint, etc.
+Providing feedback on whether all
+aspects of data interpretation were
+explored.
+Accepting AI generated answers without
+verification.
+Copy and pasting AI questions and answers.
+Quizzes and
+Exams
+Generating practice questions for selfassessment.
+Using AI to generate answers for submission.
+Seminars /
+Tutorials
+Creating scenarios to help students
+contextualise or augment their
+understanding.
+Gaining insight into topics by using AI
+as a critical friend.
+Copying answers instead of students
+attempting problems themselves.
+AI replacing student active participation in
+discussions.
+Practicals / Labs Assisting in troubleshooting.
+Understanding protocols and
+experimental design
+Using AI to answer questions without
+understanding or reflecting
+Planning and
+Self-directed
+study
+Using AI to assist in project planning
+and timings.
+Using an AI tool to restructure or
+change the format of existing learning
+resources to aid personal study. This
+can be beneficial for accessibility
+Relying uncritically on AI to structure planning.
+Using a generative AI tool to restructure or
+change the format of existing learningreasons and to suit personal
+preferences.
+resources and sharing them with others
+without permission from the creator2.
+Table 1: Summary of appropriate and inappropriate use of AI for students
+AI in Assessment
+It is not appropriate for students to submit work which passes knowledge, argument, or content of
+another off as their own work. This is akin to the use of a ghost writer or an essay mill, as articulated
+within the Student Code of Conduct. Beyond this, the following guidance applies for students:
+Appropriate Not Appropriate
+Using AI as a resource, like a search engine, to
+explore a topic or question.
+Trusting AI to provide factual content. Always
+cross check with other search tools to establish
+validity.
+Including AI generated content without
+appropriate acknowledgement and
+contextualisation
+Using AI as a critical friend to discuss ideas. Not acknowledging the use of AI as a co-creator /
+collaborator
+Using AI to augment knowledge and information
+from class.
+Using AI as the main source of information.
+Table 2: Specific student guidance on AI and Assessment
+Data Protection
+Students must comply with data protection legislation when using generative AI tools. The university
+provides comprehensive information on its data protection web pages, including specific student
+guidance on data protection and processing personal data. Students should not, for example, upload
+intellectual property to be used to train generative AI tools without appropriate consent from the
+creator or exemption to copyright. It is important that students are aware that when subscribing to use
+generative AI tools, it will be necessary to provide personal data for account registration purposes and
+for more general use of the technology. Prior to sharing personal data, it is recommended that all
+students review the privacy notices and policies provided by generative AI tool providers to understand
+how personal data may be used and protected when shared with the provider.
+Artificial intelligence technology is developing at an exponential rate. Increasingly sophisticated
+language processing applications are available, such as ChatGPT, that can provide fast and credible
+answers when asked questions on a variety of topics. The latest versions can also produce not just
+text but also visual content including videos, graphs and images. In a remarkably short period of
+time, AI tools are having a considerable impact in society, the world of work and, in particular,
+education. The full implication and potential use of such tools are not yet fully known.
+At GCU we are actively exploring contemporary AI tools to better understand the exciting potential
+that they offer to deepen students’ learning and their benefits to the world of work. However,
+unless an assessment explicitly states that AI tools can be used, then their use is considered
+academic misconduct as it is a form of Ghostwriting.
+This guidance is being issued to remind all students that all work submitted for assessment must be
+the student’s own work. In other words, it must be original and not generated by AI (unless
+authorised by your lecturer).
+If you are considering using AI tools please be aware that:
+• If you submit coursework that has been developed using AI tools then your work will not be
+original and you will be engaging in academic misconduct. The Student Code of Conduct
+which can be accessed here makes this clear.
+• AI tools often keep a copy of all materials that you share with them so do not share sensitive
+information, or confidential data.
+• The answers given by AI tools are not always accurate; they can provide misinformation (AI
+hallucinations) and make up references that do not exist and easily picked up on.
+• We acknowledge that AI tools have the potential to be used in a developmental way to help
+student learning, however, it cannot be used to generate text for coursework and other
+assessment submissions.
+Important resources
+The following video has been developed by students highlighting the importance of responsible use
+of AI: https://www.youtube.com/watch?v=0CV-JwYjIFw.
+More information on academic integrity can be found on our webpages – including a link to
+our online Don’t Cheat Yourself resource, which highlights examples of good academic practice and
+how to avoid engaging in academic misconduct, more commonly known as cheating. The resource
+has been updated to include information on ChatGPT/AI.
+Don’t Cheat Yourself!

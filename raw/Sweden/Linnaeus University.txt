@@ -1,0 +1,169 @@
+AI in higher education
+Guidance and recommendations for teachers regarding generative AI.
+The knowledge and insights on how Generative Artificial Intelligence (GAI) can be used and affect us are changing every day. What we do know, however, is that this is something we must relate to as teaching educators, both in relation to examination and teaching, and considering that the world around us and the industries and professions we educate for are quickly affected by the development.
+
+What applies to the use of GAI at Lnu?
+t is permitted to use Generative Artificial Intelligence (GAI) in teaching at Lnu, just like at most other universities, both nationally and internationally. However, the course coordinator/examiner decides what aids are allowed in the specific course. As a teacher, you should consider the following if you are going to use GAI in teaching with students:
+
+Ensure that every student has equal access to the GAI tools you recommend. Today, students at Lnu have access to Copilot on the same terms as teachers. Read more about this on Medarbetare/AI-assistant Copilot.
+Inform students about the risks of sharing personal information or copyrighted material with the tools.
+Inform students about the rules for using GAI tools in your course.
+Do not share students’ work with GAI tools.
+Review your exams
+Your examinations may need to be reviewed in both form and content. Additionally, it is very important to discuss with students and inform them about what is considered permissible use in your course.
+
+Avoid take-home exams
+With the advent of GAI, there are no legally secure ways to examine course objectives such as being able to explain, summarize, and describe through a take-home exam. These objectives need to be reformulated or included in other objectives as a basis for conducting a more complex examination. For any take-home assignments, there should be requirements to justify the choice of references and sources. The focus should also be on more complex skills such as independent and critical analytical abilities. Depending on where students are in their progression,
+examination practices should be adapted so that not too much complexity
+is built into undergraduate courses.
+
+Move to more oral exams
+Oral examinations have good potential to be legally secure and can be part of a stepwise assessment or a conclusion to reflective and visible processes. Students can be asked to prepare material or present information with a representation that can be saved as a basis for the examination. Presentations and summaries can be conducted in the room through various forms of interaction or in a secure writing space like Inspera, where it is more likely that the student owns their foundational knowledge. Oral examinations can be employed for almost all course objectives, and they can be conducted digitally. You can record them in Zoom, or capture a whiteboard with calculations and concept maps through photography. These recordings can then be reviewed later, either with students or colleagues.
+
+Can we detect AI-generated text?
+Attempting to detect AI-generated text is not a viable path! Tests with such tools show that it is not possible to reliably detect AI-generated text. Additionally, GAI can be used in various ways beyond just generating text. A more long-term solution is to develop your examinations. This has been investigated, among others, by Weber-Wulff et al. 2023 Testing of detection tools for AI-generated text  
+
+What do we do if we suspect unauthorized use?
+If we still have a submitted examination or ongoing supervision where we question the authenticity of the work, we have an obligation to ensure the origin of the examination. This allows you as an examiner, for example, in a conversation with the student, to ensure that they “own their knowledge.” This can be done through a supplementary oral task and can be equated with testing the origin in Ouriginal.
+
+To-do list to legally secure your examinations
+Review the examination forms in your course plans. Avoid take-home exams and other written assignments such as essays, papers, reports, etc., as much as possible. When using this form of examination, the task needs to be clearly contextualized. Use the opportunity to follow up a written submission with a shorter oral presentation where the student explains their process.
+
+Develop clear assessment criteria for legal certainty, applicable to all forms of examination.
+
+Conduct examinations in the room/Zoom room when possible. Develop legally secure seminars that can be combined into examinations and also serve as learning opportunities. We recommend the book Seminariet i högre utbildning (Jons, L. 2015).
+
+Design for visible knowledge processes to get a better sense of students’ knowledge. Focus on teaching and conduct exercises that prepare students for the examination but do not need to be assessed or where students provide feedback to each other. Use several smaller or step-by-step examinations and result recordings to get closer to our students’ actual knowledge.
+
+Incorporate more modalities and allow students to represent their knowledge in ways other than continuous text. Many forms of knowledge cannot be reliably examined as text. Others are too easy for today’s technology to handle.
+
+Use digital in-room exams now available at Lnu. However, keep in mind that large final examinations can be vulnerable. In-room exams are also shown in interview studies with students to be the most worth cheating on.
+
+You must clearly state what permissible/impermissible use means for the specific examination in the study guide and assessment criteria so that students know how to relate to it.
+
+ To-do list to prevent unauthorized/undesired use
+Here are some points that may be important to discuss with students to prevent unauthorized use and cheating:
+
+Discuss the importance of learning and be clear about the purpose of exercises and how they contribute to the student’s personal and professional development. Motivate the purpose of the examination and highlight what students stand to lose in terms of knowledge and understanding by not engaging in the material.
+Students may not always be aware of what is allowed or not. Provide clear guidelines on permissible aids, including information on proper citation and source management, how to avoid plagiarism, and how to use sources responsibly. Also, discuss the possibilities of collaboration and how to work with other students in a responsible and honest manner. Clearly explain what is allowed and what is not when collaborating with others.
+Address how to avoid stress and overload that may lead to cheating. Offer tips on time management and organization, stress management, and how to seek help when needed. Here, there are ways in which GAI can be very helpful.
+Clarify what constitutes cheating and the potential consequences. This may include information about the university’s policy on cheating, possible disciplinary actions, and how cheating can impact a student’s academic and professional career. By discussing the ways in which GAI can be used and what is considered unacceptable, students also become aware that there is an understanding within the university about AI and how it can be utilized and misused.
+Review your teaching
+There are a number of questions you may need to ask yourself in relation to GAI. How well do your learning objectives hold up against changing conditions? Is your teaching and course design still relevant and up-to-date? What does the job market we are educating for look like today compared to yesterday? It can also be helpful to remind yourself that the issue of AI and its impact on higher education and society is much broader than just GAI.
+
+We constantly need to relate to the world around us, and the fact that these tools have become widely available today means a renewal of our mission as course coordinators and examiners. We need to update how we design our courses to support students’ learning and how we assess their knowledge. In this work, we must continually ask ourselves: What is central knowledge in my course? How is it expressed? How do students demonstrate that they possess this knowledge, and how do we therefore structure the course?
+
+Making the learning process visible
+Today, a methodology is often used where the student is expected to learn what they write about by producing academic text. As teachers, we also think that by applying this learning process, the student acquires certain skills such as reading academic texts and filtering out important and relevant aspects, correctly using and citing references, and adopting a critical approach to sources and text. For the intended learning to take place, it requires the student to carry out the work of producing the text themselves. However, in reality, we have very little insight into the students’ process and therefore know very little about their knowledge.
+
+The submitted text product can today, to a very small extent, serve as an assessment basis for whether the students have achieved the course objectives or not. If students use AI in their process, it largely functions as hiring someone to do the work for them, thereby bypassing a large part of their learning and thus having significantly limited knowledge development.
+
+In our course design, we need to look at the processes that we, as professional teachers, know are necessary for learning to take place and make these visible both to ourselves and to the students. We also need to move away from the methodology that solely uses the written product as an assessment basis, as it greatly directs students to focus on how the product looks rather than the learning process that should take place during the creation of the text.
+
+One area that can particularly be affected by AI is the students’ independent work. Here, greater changes may be needed to teach and examine scientific thinking (independent work) and report writing. Course objectives and examination goals need to be reviewed, and we need to consider how these scientific competencies should be examined and whether AI can be a help in developing the competencies that students are supposed to develop.
+
+Explore, learn and stay up to date!
+At the bottom of this article, there are several links to tools that you should start exploring if you haven’t already. In your exploration, you should consider both how they can impact your work in relation to the students and how you can simplify, streamline, and improve your own work.
+
+We can probably be quite sure that this is the beginning of a development that will affect us for a long time. We need channels and forums where we can find updated information and where we can discuss these issues. Use your teaching team to move forward together on the issues that need to be addressed in the short term. It is also necessary to initiate discussions and create contexts where we can explore the long-term consequences of AI for higher education.
+
+In the longer term, however, it is important to ask questions about how this affects higher education in a broader perspective. The use of AI in society and working life has only just begun, and our mission to educate now and in the future must constantly relate to the changes that are taking place. Continuously working with the course’s disciplinary knowledge, assessment criteria, and examinations provides readiness to meet rapid changes.
+
+ 
+
+Other resources
+Below you will find links to other resources related to GAI. These are partly direct links to various GAI tools that you should explore, and partly links to information that may be good to take part in to learn more and stay updated.
+
+Most other educational institutions have guidelines on what and how one should and can relate to GAI. Below you will find some examples.
+
+Tools to explore
+Microsoft Copilot
+The AI assistant Copilot is Microsoft’s version of ChatGPT. As staff and students at Linnaeus University, you have access to an Enterprise version of Copilot, which has better information security than the consumer version.
+
+Read more about it on Medarbetare/AI-assistenten Copilot
+
++ Better functionality with the Edge browser (in a collapsible tab)
+
+In the Microsoft Edge browser, you can quickly access AI support without leaving the browser. It also gives you convenient control over the information that Copilot processes. Here, you can ask for summaries, explanations, etc., for the information you have open in the current tab in Microsoft Edge.
+
+To access Copilot in logged-in mode via the sidebar, log in by clicking on the small profile icon in the upper left corner of the browser. You log in with your LNU login (ab111cd@student.lnu.se + password).
+
+How to use Copilot in the sidebar:
+
+Open Microsoft Edge and click on the Copilot icon in the upper right corner to activate the sidebar.
+Enter your question or task in the Copilot box. You can ask for summaries, explanations, etc., for the information you have open in the current tab in Microsoft Edge. This way, you control which information Copilot uses. Note: The first time you ask a question, you need to allow Copilot to access the information you have open in the current tab in Microsoft Edge. Copilot will then be allowed to analyze the information you have open. Copilot only asks for permission to analyze the information the first time you use the service in Edge.
+You can open PDF files in Edge by right-clicking on a file in Explorer or Finder and selecting “Open with Edge.” With Copilot in the sidebar, you can thus work with the content of any PDF file.
+
+
+ChatGPT 3.5 alt ChatGPT 4
+Google Gemini
+Elicit
+Perplexity
+Microsoft Copilot/Designer
+Midjourney 
+
+Learning more and environmental monitoring.
+Internetstiftelsen – Grundkurs i AI
+RISE Nyhetsbrev om AI
+AI Sweden
+Teknik i akademin
+
+Other higher education institutions
+Lund
+
+A compilation of common questions about GAI tools. – Q&A GAI – LU
+
+On the following page, there are several videos with different discussions about GAI. Among other things, there are discussions about certain ethical issues, the type of source ChatGPT can be considered, and how one should refer to it if necessary.
+
+– Filmer om GAI – LU
+
+Örebro
+
+Örebro University has a helpful list with 10 tips for addressing AI development, along with a summary of key concepts. – Centrala begrepp – OUR
+
+Borås
+
+In this video found under the heading AI and Teacher’s Perspective, Gustaf JuellSkielse demonstrates how ChatGPT can be used to write a student essay.
+
+– Chat-GPT och studentuppsats
+
+Göteborg
+
+Jonas Linderoth, Gothenburg University, tests an examination task in a tool called Jenni. – Jenni.ai​
+
+Quick guide to ChatGPT and other generative AI
+Important considerations
+To use many Generative AI services, such as ChatGPT, you need to create an account yourself since you won’t have access through the university. For ChatGPT, you’ll need an account with OpenAI. Often, what is entered into these services may be stored, and you may have no option to have it deleted. Therefore, avoid entering sensitive information about yourself or others. Currently, version ChatGPT 3.5 is free, but as this is a commercial tool, there are no guarantees that ChatGPT will continue to be freely accessible in the future.
+
+Some tips on how to use GAI
+GAI can be used in several ways in your studies, and in this table, you can find several examples. There are many other GAI tools available today beyond ChatGPT that can provide better insight into the source of information in the responses. One such tool is, for instance, Perplexity. Elicit can assist you in finding and processing information in an article, and Grammarly provides linguistic feedback on your text. Please note that the boundaries between permissible and impermissible use are not always easy to discern. Be mindful if you notice that you are letting AI do the work so that your learning is not compromised.
+
+Om GAI används för studier så observera att gränserna för tillåten och otillåten användning inte alltid är lätta att dra. Var observant på om du märker att du låter AI:n göra jobbet så att ditt lärande inte blir lidande.
+
+Kategori	Beskrivning	Exempel
+Sounding board 	AI generates alternative ways to express an idea.	Write questions in GAI and use the ”Regenerate response” function to view and compare alternative answers.	 
+Opponent	AI acts as an opponent to develop an argument.	Use GAI to prepare for discussions. Ask for counterarguments or request different perspectives on a question.	 
+Guide at the side	AI functions as a guide.	Ask GAI for advice on how to learn a specific concept. GAI can for instance be used to support language acquisition.	 
+Personal coach	AI coaches and provides immediate feedback on progress.	Ask GAI for personalized feedback based on information you provide (e.g., test results).	 
+Troubleshooter	AI assists during a learning process.	Ask GAI for correction assistance for language accuracy, programming code, etc.	 
+Explorer	AI provides tools to explore and pose questions to text and data.	Provide basic information, such as a text, and write various questions in GAI to learn more about the content.	 
+Study companion	AI helps to reflect on learning materials.	Explain your current level of understanding of GAI and inquire about ways to assist in studying specific material. GAI can also be used, for example, to create study schedules with readings, lectures, and other study activities or help prepare for a job interview.	 
+Evaluator	AI describes the level of knowledge and assesses it.	By interacting with GAI in a tutoriallike dialogue, you can ask GAI to produce a summary of your current level of knowledge.	 
+Some tips for writing better prompts:
+By following these tips, you can improve your results when using GAI and get better answers to your questions.
+
+Avoid slang and abbreviations: GAI understands most common words and phrases, but it may struggle with slang or abbreviations.
+
+Be clear and specific: The clearer you are in your question, the more likely you are to get a relevant answer. Provide the chatbot with the information it should base its response on. You can ask the chatbot to assume a specific role, such as a famous person or a type of expert.
+
+Specify the desired format: If you want answers in a specific format, such as a bullet list, a table, a summary, or a longer description, specify this in your prompt to get the desired result. You can also specify if you need help with a specific type of text.
+
+Be patient: Sometimes it may take a little time to generate a response. Be patient and wait a while for it to generate the best answer.
+
+Try different phrasings: If you don’t get the answer you’re looking for, try phrasing your question differently. Sometimes a different phrasing can yield better results.
+
+Provide constructive feedback: To improve the answers, you can describe what is missing or what needs improvement for the AI to better understand your preferences.
+
+Information to students on GAI (PDF)
+
+Generative AI and GPT Generative AI (GAI) is a type of artificial intelligence that can create new content or data based on existing examples. A GAI can write text, create images, compose music or generate code by learning from large amounts of previous data. GPT stands for Generative Pre-trained Transformer and is an advanced language model that analyzes large amounts of information and uses it to write unique coherent texts. GPT is a model that has learned to predict which word comes after another word in a sentence and is thus not a search function. Generative text models like GPT are today built into a variety of tools and services. One of the most well-known generative AI tools is ChatGPT, which is a text-based chatbot that can answer questions, have conversations and write different types of texts. ChatGPT has been trained on millions of texts from the internet and can therefore generate new texts that sound natural and meaningful. Today, some GAI tools are connected to the internet while others are not. This means that some have access to new information while others only contain the information corresponding to the data the model has been trained on. Be aware of this as it will be able to affect the answers that are generated. Learning process and examination The process itself, as you work your way to and formulate answers, is a central part of learning. Practicing such skills is in many ways as important as the answer itself. Always talk to your teachers and classmates about the learning objectives of the courses and how AI-based tools fit into your processes and exams. Examination in higher education is a control function. Your examiner has a legal obligation to be able to determine that you know what is expected on the course. You can think of your examiner as someone who will guarantee, in front of a future employer, that you have the competence corresponding to what your grades show. The exam is also a support for you as a student as you can get the opportunity to see what you have learned and what you have not yet understood. Sometimes GPT writes texts that are not correct or relevant. AI does not lie intentionally but the pattern of inserting inaccuracies is difficult to predict. As a student, you are always responsible for what you submit for examination, regardless of what tools you have used. It is therefore important to, for example, check that AIgenerated text matches reality and that you can stand for what it expresses. You need to develop your own understanding and knowledge in the subject you are studying. AI can automate and relieve you, but your learning process must be your own. NOTE! Before using GAI for study assignments that are to be submitted, be sure to find out which ways are considered OK in the course you are reading. It can vary from course to course and from exam to exam. You may also need to indicate in what ways you have used AI. Good to think about To use many GAI services, such as ChatGPT, you need to create an account yourself because you do not get one through the university. For ChatGPT you need an account with OpenAI. Many times it is the case that what is written in these services will be saved and you have no possibility to get anything deleted. Therefore, do not enter sensitive information about yourself or others. At present, the version ChatGPT 3.5 is free but as this is a commercial tool there are no guarantees that ChatGPT will continue to be freely available. Some tips on how you can use GAI GAI can be used in several different ways in your studies and here in the table you can find several examples. There are many other GAI tools today besides ChatGPT and that can better give you insight into where the information in the answers comes from. One such tool is, for example, Perplexity. Elicit can help you find and process information in an article and Grammarly gives you linguistic feedback on your text. Quick guide to ChatGPT and other generative AI Important considerations To use many Generative AI services, such as ChatGPT, you need to create an account yourself since you won't have access through the university. For ChatGPT, you'll need an account with OpenAI. Often, what is entered into these services may be stored, and you may have no option to have it deleted. Therefore, avoid entering sensitive information about yourself or others. Currently, version ChatGPT 3.5 is free, but as this is a commercial tool, there are no guarantees that ChatGPT will continue to be freely accessible in the future. Some tips on how to use GAI GAI can be used in several ways in your studies, and in this table, you can find several examples. There are many other GAI tools available today beyond ChatGPT that can provide better insight into the source of information in the responses. One such tool is, for instance, Perplexity. Elicit can assist you in finding and processing information in an article, and Grammarly provides linguistic feedback on your text. Please note that the boundaries between permissible and impermissible use are not always easy to discern. Be mindful if you notice that you are letting AI do the work so that your learning is not compromised. Kategori Beskrivning Exempel Sounding board AI generates alternative ways to express an idea. Write questions in GAI and use the "Regenerate response" function to view and compare alternative answers. Opponent AI acts as an opponent to develop an argument. Use GAI to prepare for discussions. Ask for counterarguments or request different perspectives on a question. Guide at the side AI functions as a guide. Ask GAI for advice on how to learn a specific concept. GAI can for instance be used to support language acquisition Personal coach AI coaches and provides immediate feedback on progress. Ask GAI for personalized feedback based on information you provide (e.g., test results). Troubleshooter AI assists during a learning process. Ask GAI for correction assistance for language accuracy, programming code, etc. Explorer AI provides tools to explore and pose questions to text and data. Provide basic information, such as a text, and write various questions in GAI to learn more about the content. Study companion AI helps to reflect on learning materials.. Explain your current level of understanding of GAI and inquire about ways to assist in studying specific material. GAI can also be used, for example, to create study schedules with readings, lectures, and other study activities or help prepare for a job interview. Evaluator AI describes the level of knowledge and assesses it. By interacting with GAI in a tutoriallike dialogue, you can ask GAI to produce a summary of your current level of knowledge. Some tips for writing better prompts: By following these tips, you can improve your results when using GAI and get better answers to your questions. Avoid slang and abbreviations: GAI understands most common words and phrases, but it may struggle with slang or abbreviations. Be clear and specific: The clearer you are in your question, the more likely you are to get a relevant answer. Provide the chatbot with the information it should base its response on. You can ask the chatbot to assume a specific role, such as a famous person or a type of expert. Specify the desired format: If you want answers in a specific format, such as a bullet list, a table, a summary, or a longer description, specify this in your prompt to get the desired result. You can also specify if you need help with a specific type of text. Be patient: Sometimes it may take a little time to generate a response. Be patient and wait a while for it to generate the best answer. Try different phrasings: If you don't get the answer you're looking for, try phrasing your question differently. Sometimes a different phrasing can yield better results. Provide constructive feedback: To improve the answers, you can describe what is missing or what needs improvement for the AI to better understand your preferences. 

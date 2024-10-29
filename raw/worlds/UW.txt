@@ -1,0 +1,101 @@
+AI+Teaching
+Given the speed and scale at which artificial intelligence-powered tools can analyze data and identify patterns, artificial intelligence (AI) is already advancing human understanding in fields across the disciplinary spectrum. Tools that use AI to generate text or images are also supporting individuals, particularly those who struggle with executive function skills, at various stages of the research, writing, or creative process. Inside and beyond the classroom, AI-based tools are creating efficiencies that help humans focus on deeper thinking.
+
+These tools present instructors with both opportunities and challenges when it comes to teaching and learning.
+
+Talking with students about AI
+Many instructors are already integrating AI into their teaching. Others would prefer that students not use AI to complete assignments. Because AI tools are constantly evolving, it is very difficult to develop technology that can reliably identify when a student uses AI to complete an assignment. Thus, a policing approach to student use of AI has the potential to be both time-consuming and unsuccessful. Instead, it is important to help students understand the issues associated with AI and its relationship to learning in general and your class in particular.
+
+The following strategies can help instructors think about how to communicate with students, set expectations, and design assignments that increase students’ motivation to develop their own skills and ideas.
+
+Set expectations – Establish a policy for your course around the use of AI-based tools (e.g., ChatGPT) and communicate this with students through the syllabus and/or assignment prompts. Discuss how you will proceed if you discover that a student has turned in AI-generated work. Here are some sample syllabus statements you can use or adapt to help articulate your expectations for student use of AI in your course.
+Communicate the importance of college learning – Many students are focused only on learning that seems related to their intended career track. However, the vast majority of them will change careers at least once in their lives. Talk with students about how the relevance of your course may only become apparent years from now. The skills they are learning will likely transfer to other careers – even careers that do not yet exist!
+Acknowledge that struggle is part of learning –  Talk with students about how intellectual struggle is an inherent part of learning. Learning happens only when we move outside what we already know. Seeking a shortcut or workaround through AI tools only prevents them from learning. The short-term consequence is that they pay for a benefit they never receive. The long-term consequence is that they miss the opportunity to become better, more effective thinkers, writers, researchers, and creators.
+Discuss the social, ethical, and practical issues surrounding AI – The processes that support the development and functionality of AI-based tools raise issues related to privacy, disinformation, environmental impact, bias, exploitation, and academic integrity, among other things. In addition, although AI-generated output appears authoritative and factual, it is frequently riddled with inaccuracy. Discussing the ethical and social concerns related to AI with students can help them see the social context of AI and can position them to make thoughtful decisions about their own use of AI-based tools.
+Assess process as much as (or more than) product – Lowering the stakes of individual assignments reduces students’ motivation for cheating and encourages them to build their own skills and competencies. Low- or no-stakes formative assessments reinforce the notion that learning is a process and demonstrates to students that what’s valuable is the learning, not the grade.
+Design assignments that ask students to connect course content, class discussion, and lived experience. It’s harder for AI-based tools to effectively connect the dots between these sources of knowledge.
+Consider teaching through AI-based tools. Think about how using AI-based tools might facilitate students’ learning and prepare them to thoughtfully engage these tools in their personal and professional lives. How can students use AI-generated output to think critically and analytically? How can these tools help them ask questions about digital literacy and information accuracy? Further down this page we’ve provided some examples of how to integrate AI into assignments.
+Teaching with AI
+A thoughtful approach to using AI can help instructors boost student engagement with concepts and can assist in the development of course materials and assessments.
+
+Using AI to enrich your teaching
+The list below contains just a few of the ways you might use AI to enhance your teaching. Note how often the word “draft” appears in this list. It’s important to remember that AI is merely an assistive technology. Because AI cannot distinguish fact from fiction, you should always refine AI-generated output.
+
+Draft learning outcomes
+Draft module/unit descriptions
+Draft slides or other teaching materials
+Draft discussion prompts
+Draft rubrics
+Brainstorm authentic assessment ideas
+Identify and analyze themes in student feedback (e.g., mid-quarter check in survey)
+Using AI to enhance learning and engagement
+Below are some examples of how instructors might use AI to facilitate learning. Many of these examples familiarize students with AI-based tools, but also prompt critical examination of their value, accuracy, strengths, and shortcomings.
+
+Think-pair-AI-share. Students think (as individuals) about a question/concept, then pair up with a peer to discuss. The pair then plugs the question/concept into an AI tool (e.g., ChatGPT, GPT4, Bing Chat) and discusses or analyzes the output.(1)
+Evaluating AI output. Co-develop a rubric with students that describes the components of an effective essay, lab report, précis, technical manual, blog post, etc. Students prompt an AI tool to generate three versions of the assignment on a given topic and then use the rubric to evaluate the quality of the AI-generated versions.(2)
+Improving upon/adapting AI-generated output. Students use an AI tool to draft text or code in response to a prompt. Students must then improve upon the AI-generated output. When students turn in their assignment, they must include both the AI-generated text and their improved version.(3)
+Explaining the steps in an AI-generated solution. Students use AI to solve a math problem. Working from the AI-generated solution, they then work in groups to explain or analyze the steps that the AI tool used to arrive at the solution.(4)
+Visualizing concepts with AI. Students select a concept covered in lecture or course readings and then prompt an Al image generator to create an image that represents the connection between the concept and daily life. They must then explain how the Al-generated image conveys the concept and its relationship to daily life. Students might also analyze the strengths and shortcomings of AI image generators.(5)
+Exploring AI in your field. Students explore current applications of AI in the discipline of the course or in their major. Within the context of the discipline (or their major), students examine both AI’s advantages and limitations.(6)
+What to do if you suspect academic misconduct
+Students are expected to practice high standards of academic and professional honesty and integrity. The University communicates with students about the importance of knowing and understanding the expectations of both the University and specific instructors regarding academic standards. If you have prohibited the use of AI-based tools and suspect that a student has engaged in academic misconduct, you can make a report to your campus Student Conduct office.
+UW Bothell Student Affairs
+UW Seattle Community Standards and Student Conduct
+UW Tacoma Student Conduct
+
+Ethical and social issues related to AI
+Applications of artificial intelligence (AI) are already advancing human understanding and having a tangible, positive impact on the health and well-being of communities. For example, AI-based tools have already strengthened diagnostic capabilities in medical fields and are helping disaster prevention efforts. But the use of AI-based tools also raises ethical and social issues that instructors may want to consider and discuss with students.
+
+Data and privacy
+AI platforms are trained on massive data sets filled with personal information, everything from names and addresses to information about an individual’s behaviors and preferences. These data sets are used to both generate and improve the performance of the algorithms that make AI platforms work. Outside of the companies that have developed AI platforms, few understand exactly what data was/is used, how it is process, where it is stored, and who can access the data. Beyond this information being used without user consent, there are risks that the information could be used to manipulate, mislead, or surveil individuals.
+
+Bias
+Bias inheres in artificial intelligence platforms in at least two ways. First, the structure and function of AI platforms reflect the values, assumptions, and experiences of the decisionmakers responsible for their development. Second, the datasets that train AI platforms and the algorithms that drive their functionality reflect and propagate the biases that pervade the societies and cultures that produced the data in those datasets. When prompted, generative AI platforms often reinforce cultural stereotypes that, among other things, privilege white males and those from North America and Europe, sexualize and objectify women and girls, and marginalize the contributions and lived experiences of people of color.
+
+Accuracy
+Even though AI output can seem remarkably authoritative, AI platforms aren’t repositories of facts. Instead they formulate output by identifying patterns among the trillions of data points in their datasets. Put very simplistically, AI platforms generate sentences (or images or programs) by choosing the words (or visual components or source code) most likely to follow the previous word. In addition, because it is trained on data produced by humans, it frequently repeats inaccuracies and misinformation found in the original dataset.
+
+Equity
+In addition to the bias that pervades the datasets upon which AI platforms are built, AI tools raise significant equity issues. Although most AI platforms currently provide users with free access options, the output from free versions is often less robust than that generated by premium versions. Additionally, given the cost involved in maintaining free versions, companies may eventually move to an entirely fee-based model in the future. This “digital divide” may also arise from students’ different levels of AI literacy. Students from areas with less reliable access to technology or from secondary schools that banned AI may be less prepared to use AI tools to their benefit.
+
+Environmental impact
+AI is energy intensive. A recent assessment of the energy demanded by AI systems predicts that in 2027 about 1.5 million servers will annually draw 85.4 terawatt-hours of electricity. While AI might boost efficiency and theoretically offset energy consumption, historically, new technology tends to boost demand in a way that exceeds the energy savings gained through efficiency.
+
+Intellectual property
+The datasets upon which AI platforms were trained included the copyrighted creative and intellectual work of artists, scholars, and writers from around the world and across time. Additionally, many AI platforms acknowledge that they integrate user prompts and conversations into the datasets used to refine the platforms. Thus, when students feed draft essays into AI platforms, they are, in effect, consenting to having their intellectual and creative work integrated into the AI tool.
+
+Academic integrity
+The output from generative AI platforms cannot accurately cite the materials used to generate that output. Responses to prompts may include “citations,” but these may or may not provide a traceable path to original sources. Moreover, AI platforms have been known to fabricate or “hallucinate” citations to texts and intellectual products that do not actually exist. Thus, conventional thinking about and identifying instances of plagiarism are will not be particularly useful. Moreover, because AI platforms are constantly advancing, it is unlikely that technological applications will be sufficient in identifying if and when students use AI platforms to complete assignments.
+
+Sample syllabus statements regarding student use of artificial intelligence
+This page provides some basic syllabus language you can use or adapt to articulate your expectations for whether and/or how students may use AI-based tools in your course. Stating your expectations in the syllabus is important because instructor expectations may differ from course to course.
+
+Regardless of what your expectations regarding student use of AI-based tools are, consider including the following elements in your syllabus statement:
+
+Use: How and how often will students be permitted to use AI-based tools in this course? What steps should students take to demonstrate or document their use of AI?
+Why: Why was this policy selected for this course? What do students need to understand about the relationship between your approach to teaching/learning outcomes and the use of AI?
+Consequences: How will you respond if students do not comply with these expectations?
+Questions: How should a student reach out if they have questions about this policy?
+Privacy Reminder: The UW does not have a contract with popular AI systems, and so no privacy or risk assessment has been conducted. We recommend you remind your students to exercise caution when interacting with these systems to avoid unintentionally sharing intellectual property, copyrighted materials, or confidential data.
+Sample syllabus language
+For instructors who allow AI use with some restrictions
+In this course, students are permitted to use AI-based tools (such as ChatGPT) on some assignments. The instructions for each assignment will include information about whether and how you may use AI-based tools to complete the assignment. All sources, including AI tools, must be properly cited. Use of AI in ways that are inconsistent with the parameters above will be considered academic misconduct and subject to investigation.
+
+Please note that AI results can be biased and inaccurate. It is your responsibility to ensure that the information you use from AI is accurate. Additionally, pay attention to the privacy of your data. Many AI tools will incorporate and use any content you share, so be careful not to unintentionally share copyrighted materials, original work, or personal information.
+
+Learning how to thoughtfully and strategically use AI-based tools may help you develop your skills, refine your work, and prepare you for your future career. If you have any questions about citation or about what constitutes academic integrity in this course or at the University of Washington, please feel free to contact me to discuss your concerns.
+
+For instructors who prohibit AI use
+All work submitted for this course must be your own. Any use of generative AI tools, such as ChatGPT, when working on assignments is forbidden. Use of generative AI will be considered academic misconduct and subject to investigation
+
+The assignments in this class have been designed to challenge you to develop creativity, critical-thinking, and problem-solving skills. Using AI technology will limit your capacity to develop these skills and to meet the learning goals of this course.
+
+If you have any questions about what constitutes academic integrity in this course or at the University of Washington, please feel free to contact me to discuss your concerns.
+
+For instructors who allow AI use without restriction
+Students in this course are encouraged to explore the use of AI-based tools (such as ChatGPT) when completing assignments. All sources, including AI tools, must be properly cited. Use of AI without proper citation will be considered academic misconduct and subject to investigation.
+
+Please note that AI results can be biased and inaccurate. It is your responsibility to ensure that the information you use from AI is accurate. Additionally, pay attention to the privacy of your data. Many AI tools will incorporate and use any content you share, so be careful not to unintentionally share copyrighted materials, original work, or personal information.
+
+Learning how to thoughtfully and strategically use AI-based tools may help you develop your skills, refine your work, and prepare you for your future career. If you have any questions about citation or about what constitutes academic integrity in this course or at the University of Washington, please feel free to contact me to discuss your concerns.
+

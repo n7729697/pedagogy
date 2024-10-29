@@ -1,0 +1,189 @@
+Generative AI tools
+ På svenska
+Image showing a blue weave of programming code.
+Generative AI tools are increasingly used in studies and education, which presents new challenges for teachers and staff at Lund University. On these pages, you will find information and guidance.
+
+Guidance for teachers in five steps 
+Generative AI tools have quickly gained a significant role in higher education, and all teachers need to adapt their teaching to the situation to some extent. Wondering where to start? On this page, you will find guidance in five steps.
+
+Guidance for teachers in five steps 
+
+Videos on GAI in education 
+On this page, you can deepen your knowledge about generative AI tools through a number of videos created by teachers and researchers at Lund University. The videos are in english. All videos are recorded in March 2023. New videos will be published soon.
+
+Videos on GAI in education 
+
+Questions and answers on GAI tools 
+On this page, you will find an assortment of questions asked during webinars about GAI tools. The questions have been answered by members of Lund University's working group for generative AI tools.
+
+Questions and answers on GAI tools
+
+Generative AI-tools in Education 
+Canvas course for employees within LU
+
+Guidance for teachers in five steps
+ På svenska
+Have you heard about Generative AI (GenAI or GAI) and wondering where to start? On this page, you will find guidance in five steps.
+
+Step 1: Explore
+The first thing you need to do is use a generative AI tool if you haven't already. This will give you an idea of the tools' capabilities. For example, you can try the text-based tool called Bing Copilot, which LU employees and students can use as part of the Microsoft Office 365 subscription. . You can just try asking questions to see what outputs you get. Don’t get frustrated if the outputs are unfocused and wrong, but try making your questions more specific in order to get more detailed outputs. You can also try asking for outputs in different styles, or suitable for different people. Our Canvas course has a lot of examples of activities you can try out.
+
+Open Bing Copilot in your web browser – bing.com/chat
+
+Step 2: Educate yourself
+Step two is to educate yourself about the tools in your professional context. Find out what's happening in your subject area nationally and internationally. How are the tools being used there, and what does it mean for research and teaching? Also, find out if there is a policy for GAI tools within your institution or faculty. If you can't find any information about this online, you can contact your program director or associate dean.
+
+Feel free to participate in any of the webinars on generative AI that you can find in the Calendar and to look at the different modules in the Canvas course Generative AI-tools in education at LU. 
+
+The Canvas course Generative AI-tools in education at LU (in English) 
+
+Step 3: Review learning objectives
+After exploring and learning about the tools, you may need to review the students' learning objectives in your course or program. For example, if it's essential for your students to develop writing skills, it may be necessary to clarify how GAI tools can be used and possibly prohibit them in examination. On the other hand, if it's crucial for your students to learn how to use GAI tools because they will be essential in your field, it may need to be included in the learning objectives.
+
+You may have departmental guidelines, but if not, use the editable template below to design guidelines for GAI tool usage in your courses or programs.
+
+The editable sample guidelines for departments and students (Word, 24 kB)
+
+If you need support from other teachers, there is also a forum for sharing experiences on Teams.
+
+Teams channel GAI Tools and Teaching at LU – teams.microsoft.com
+
+Step 4: Inform your students
+Once you have reviewed learning objectives and made decisions about the use of GAI tools in teaching, you must inform your students. Be clear about whether and, if so, how students can use GAI tools in their work, and specify which tools are approved for use. It is also important to inform students about the consequences of unauthorized use of GAI tools:
+
+Getting feedback on something you didn't produce yourself is not developmental and takes time from staff and peers.
+Improving texts with GAI can hinder the development of one's own writing competence.
+Misleading or cheating with the help of GAI can lead to warnings or suspensions.
+Feel free to advise your students to read the text below.
+
+Four things all students should know about generative AI-tools – campusonline.lu.se
+
+Step 5: Test and Evaluate
+With new teaching techniques, it is wise to first test on a small scale and then evaluate. For a semester, for example, you might forbid GAI tools in examinations but try using them in the classroom for specific tasks. Then, evaluate with your students and colleagues, and consider whether you want to use the tools more extensively in the future.
+
+If you want examples of how GAI tools can be used in teaching, you can check out one of the following pages.
+
+Generative AI for Improved Learning (in Swedish) – parnes.com/blog
+
+Positive uses for ChatGPT in the higher education classroom – clear.unt.edu
+
+Videos on GAI in education
+ På svenska
+On this page, you can deepen your knowledge about generative AI tools through a number of videos created by teachers and researchers at Lund University. The videos are in english. All videos are recorded in March 2023. New videos will be published soon.
+
+ 
+
+How can teachers think about GAI tools? (15 minutes)
+Elin Bommenel discusses the possibilities and challenges of generative AI tools in education and how you, as a teacher, can approach them.
+
+
+How do GAI tools work? (19 minutes)
+Steve Dahlskog explains what a Large Language Model (LLM) is, what's new with LLM-based tools like ChatGPT, perplexity.ai, and tome.app, and what the Dunning-Kruger effect can do to students' understanding of them.
+
+
+Why do students cheat? Why do students cheat? (18 minutes)
+Elin Bommenel summarizes research on who cheats, how many of them do it, and why they do it, as well as shares pedagogical ways to discourage cheating.
+
+
+Expert commentary on ChatGPT (7 minutes)
+Björn Svensson from the School of Economics discusses the challenges and opportunities with ChatGPT and explains how he has implemented the use of AI-based tools in computer science education.
+
+
+
+Ethical issues about GAI tools in education (8 minutes)
+Rachel Forsyth summarizes some of the ethical challenges with GAI tools in education.
+
+Correction: The video of Steve Dahlskog mentioned can be found further up on this page.
+
+
+
+Take-home exams and GAI tools (7 minutes)
+Many teachers are concerned about the use of ChatGPT and other AI tools during take-home exams. There is no simple solution, but in this video, Rachel Forsyth provides some tips on how to handle take-home exams in the age of GAI.
+
+Guide from Griffith Business School – sway.office.com
+
+Correction: The video of Steve Dahlskog mentioned can be found further up on this page.
+
+
+
+Is ChatGPT an academic source? (17 minutes)
+Fredrik Eriksson from the Libraries at the Faculty of Humanities and Theology discusses ChatGPT as an academic source and outlines what a reference to ChatGPT might look like.
+
+Photo of staff member Rachel Forsyth.
+Contact us
+Do you have questions about GAI-tools? 
+Email Rachel Forsyth: 
+
+Questions and answers on GAI tools
+ På svenska
+On this page, you will find an assortment of questions asked during our webinars about GAI tools.
+
+Questions about function
+
+What is the difference between generative AI and other AI?
+Generative AI tools differ from other AI tools because they can generate new text, images, and audio in response to simple questions written in natural language. They have "learned" patterns and structures from existing examples of text, images, or audio and then generate new versions.
+
+
+Does ChatGPT provide sources to support the information in its output if requested?
+GPT-3 does not, but other tools do – such as Perplexity and Bing AI.
+
+
+What will change in education as these AI tools become more common?
+There is no doubt that AI tools will become the primary way we find and summarize information. We will want to use these tools more and more, but the information they provide can be unreliable and biased. Therefore, we will need to identify and apply ways to review and verify the results.
+
+Questions about teaching and learning
+
+What opportunities do GAI tools like ChatGPT offer to teachers and students?
+The opportunities vary across different disciplines. Some things you can do with the help of these tools include generating ideas, improving texts, analyzing data, and automating tasks - for example, suggesting text for routine emails.
+
+
+How much do teachers need to understand about ChatGPT's functionality and capabilities?
+It's a good idea to test the tool yourself and find out the basics so that you can decide how to work with these tools in your teaching and discuss them with your students.
+
+
+How can we best integrate this new technology into student learning?
+We can incorporate these tools into teaching in many ways. Here are some examples:
+
+Digital literacy: Ask students to use the tools to answer a question and discuss the results in small groups. Ask them to identify key points to look for to verify the results.
+
+Idea generation: Have students use AI tools to brainstorm ideas on a difficult question, and then discuss how suitable and feasible the ideas are.
+
+Structuring: Ask students to use AI tools to generate a structure for a written assignment, such as an essay. Then, have them identify what additional information they need to start writing. You can also ask them to write a few paragraphs together.
+
+Questions about examination and assessment
+
+Is there a way to recognize the output from GAI tools?
+No. Some have observed that the output can be repetitive and dull, but human-written text can also be. There is no reliable way to recognize the output, and the pace of development is such that even if we provided tips now, they would become outdated very quickly.
+
+
+Are there programs that can detect if a student has used a GAI tool in an assignment?
+There is software that claims to detect the use of various GAI tools. These are being tested both here and at other universities. However, we cannot currently recommend them as they have not been verified to comply with data protection regulations. You should not upload student work to any systems that have not been approved by the Legal Division at Lund University. 
+
+Questions about rules and guidelines
+
+What are the guidelines at Lund University?
+At Lund University, it is permissible to use generative AI tools in education if you believe they can contribute to or facilitate learning. However, there are some important things to consider. As a teacher, you need to:
+
+be able to confirm that students have achieved the program's and course's learning objectives
+be aware that sharing students' work with GAI tools is not allowed
+ensure that every student has equal access to the GAI tools you recommend
+inform students about the risks of sharing personal information or copyrighted material with the tools
+inform students about the rules for using GAI tools in the course or program.
+If you do not want students to use GAI tools, you must clearly state this in the exam information and grading criteria.
+
+
+Is it a disciplinary offense for a student to submit an assignment that contains sections generated by GAI tools?
+It is a disciplinary offense if:
+
+the tool was an unauthorized aid according to the course syllabus or assignment instructions
+the student pretends that they performed the work themselves.
+Check the university's regulations and the Higher Education Ordinance for more details, but remember that it is difficult, if not impossible, to detect the use of these tools.
+
+
+Is it possible to cite a GAI tool as a source?
+Yes. Librarians have already started organizing this - for example, the University of Queensland already has several citation formats for GAI sources.
+
+
+Is it possible to cite a GAI tool as a co-author?
+Probably not right now, although the definitions of "authorship" may change over time. GAI tools can be considered a source. If a significant portion of the work includes AI-generated text, this should be acknowledged, and you can let people decide whether you should take authorship ownership. 
+

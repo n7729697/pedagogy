@@ -1,0 +1,61 @@
+Guidelines on using AI-powered chatbots in education and research
+enOur SUCommunicate SUCommunication supportGuidelines on using AI-powered chatbots in education and research
+The guidelines presented below are intended to offer guidance to teachers, researchers and various bodies within the university about how to relate to AI chatbots. The guidelines are developed by the university's working group on AI-powered chatbots.
+
+Artificial intelligence tools and systems are developing fast, and recently so-called AI chatbots, such as ChatGPT, have been a topic of discussion across higher education. Chatbots are based on predictive language models and can generate coherently formulated and semantically correct text. Chatbots are trained on large language and information databases and can handle several languages. In this text, other types of systems for generating AI-based text are denoted as AI chatbots. Note that the term text is used below in a broad sense, and can refer to ordinary texts, but also code and the like.
+
+The launch of ChatGPT has greatly increased accessibility to AI-generated text and prompts universities to ask questions about how higher education institutions should engage with these types of tools. They can provide opportunities for both research and education, but must be handled with careful judgment, and incorrect use can count as cheating and be misleading. Especially in education settings, there are concerns that students use AI chatbots to generate answers in connection with examinations.
+
+AI chatbots, and their integration into other systems, are developing at a fast rate, and going forward the university must engage in continuous dialogue about their use in our operations. The guidelines presented in this document are intended to offer guidance to teachers, researchers and various bodies within the university about how to relate to AI chatbots. Operational responsibility for issues related to the use of AI chatbots is handled at departmental level, while the overall responsibility for handling the consequences for education and research rests with the university's decision-making bodies.
+
+AI chatbots and examination
+AI chatbots can potentially be used by students in conjunction with many different types of examinations. This may involve letting AI chatbots write texts, but it can also relate to using AI chatbots to improve texts, find errors, synthesize and present an overview of a subject area. Stockholm University therefore recommends that teachers/examiners need to decide which type of use is allowed, and which is considered impermissible, which may differ from course to course. Examples of areas of use that should be addressed in such a clarification are:
+
+having an AI chatbot write a text that is more or less unedited and submitted as the student's own in an attempt to mislead the examiner. This can be equated with ghostwriting or plagiarism and is normally considered cheating.
+let an AI chatbot improve a text, suggest improvements, find errors in texts, or synthesize and present an overview of an area. In the event that one or some of these uses are permitted, students should be required to explain how the AI chatbot has been used in the production of the text.
+student use AI chatbots for peer review/opposition. If this is allowed, it should be made clear that the student must make their own assessment, and not use the results of the AI chatbot in an unprocessed manner. Even in this case, the students should explain how the AI chatbot has been used.
+Reviewing forms for examination to avoid inappropriate use of AI chatbots. Examples of measures that can be taken are:
+
+avoid unsupervised home examination. If used, such examinations can be supplemented with another additional and complementary examination, e.g. oral examination or sit-down examinations.
+examine through supervised "open book" examination.
+introduce several incremental submissions in cases involving long text production/project work where the students report in different steps how the texts are developed
+using context-based and specific data that ties into course-specific or local conditions that make it more difficult to use AI chatbots
+have clear requirements that course literature and other literature (lectures) must always be referred to and, when possible, with specific references to pages.
+Note that AI chatbots are evolving rapidly. Having context-based data or introducing requirements for references can therefore be measures that are not as effective in a long time perspective.
+
+Keep in mind that a change in the examination forms may require that the syllabus needs to be revised, which takes time.
+
+Suspicion of cheating
+If it is suspected that a student has used an AI chatbot in an unauthorized way in connection with an examination, the offense must be investigated, and, if there is a well-founded suspicion of cheating, reported in the same way as in other cases of cheating.
+
+[Link]Guidelines for Disciplinary Matters at Stockholm University
+
+Tools that can assess the probability that a text is AI-generated have recently been developed and made public. One can assume, however, that countermeasures against this will be developed, and such already exist to some extent. These systems are therefore unlikely to be an effective countermeasure against unauthorized use of AI chatbots. Tools for detecting AI written text can possibly be used as part of an investigation in the event of a suspicion of cheating, but will need to be supplemented with other material to be able to form a basis in disciplinary committee cases, for example. It can also be pointed out that the systems currently used for plagiarism control, in SU's case Ouriginal, cannot detect AI-generated text.
+
+Use of AI chatbots by teachers and students during courses
+AI chatbots are here to stay and are something both teachers and students need to relate to. It is therefore desirable as a teacher to think through how the use of AI chatbots can eventually be included in teaching. Examples could be that colleagues and students could:
+
+analyze and reflect on benefits and problems with AI chatbots and the texts they generate
+critically review responses from AI chatbots and make students aware of the risk of inaccuracy and bias
+reflect on bias and how different perspectives are expressed in the automatic responses
+compare the AI chatbot's responses with those written by experts
+reflect on how different forms of knowledge are expressed and how these are valued when machines can now write text.
+AI chatbots can also be helpful for teachers in, for example, planning teaching and producing teaching materials. Here it is important to bear in mind that the companies behind the chatbots do not report exactly which databases and which material the chatbots are trained on. Usually, the databases are very large, but time-limited text corpus, which can mean that the chatbots are not always updated with current information. In addition to this, problems can exist with bias and inaccuracies in the model itself. It is therefore important to emphasize that AI-generated material needs to be carefully reviewed so that it truly captures the course content and learning objectives, especially in examinations. An important aspect to consider is that submitted texts can be used for other purposes than intended. Sensitive information should never be sent to a chatbot. For the time being, the use of AI chatbots when assessing examinations is also advised against.
+
+Use of AI chatbots by researchers in research and for research applications
+
+Publishers and research funding bodies today have varying rules the use of AI chatbots. In certain cases, unauthorized use could possibly be classified as research misconduct. For the now, the university urges caution when using AI chatbots for writing research articles and research applications. If you elect to use AI, you need to be transparent about your process. Check with the publishers or research funders for their own guidelines. Just as with teaching , it is important to never share sensitive research information with an AI tool.
+
+How will SU continue to work on the issue
+The university is following the development of AI chatbots and the like closely, and collaborates with other stakeholders, for example SUHF and UKÄ. The university will also review, for example, regulations for education and examination as well as the need for skills development in the area.
+
+Help and support on AI chatbot issues
+The Center for the Advancement of University Teaching (CeUL) can provide support and assistance on educational issues about AI chatbots. CeUL Torget in Athena is also an arena where the issue can be discussed with other teachers.
+
+In the case of questions of a more area-specific nature, for example about regulations, the Advisory committees for undergraduate studies in each Scientific Area can be contacted via the faculty offices.
+
+Useful links
+ChatGPT
+Centre for the Advancement of University Teaching, CeUL
+CeUL's teaching and learning event about AI (27th of March 2023) 
+Sunet webinar: om AI och högre utbildning

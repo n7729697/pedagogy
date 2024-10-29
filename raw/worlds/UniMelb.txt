@@ -1,0 +1,520 @@
+Assessments play a critical role in evaluating and measuring students’ knowledge and competencies in a subject area and determining how well they have achieved the intended learning outcomes for the subject. Students typically demonstrate this achievement by producing an artefact of some kind (commonly an essay, report, examination etc.) which is assessed or graded.
+
+Because most traditional university assessment artefacts are written documents, the widespread availability of text-generating AI tools such as ChatGPT poses a significant threat to their integrity. Put simply; it is increasingly difficult to determine whether an artefact was created by the student or by AI. This raises a troubling question; how can we be sure that our graduates have learned what they need to be safe and competent professionals?
+
+Prominent educational technology companies such as Turnitin have responded by releasing software that may help educators to detect AI-generated work. The makers of some generative AI platforms have also promised to embed invisible digital ‘watermarks’ to AI-generated text and media in the future. Overall, however, the phenomenal pace of innovation and progress in generative AI suggests that electronic means of detecting AI with sufficient reliability to support prosecution of academic misconduct cases are not on the near horizon and indeed may never eventuate.
+
+A more promising approach is to consider whether existing assessment regimes are still ‘fit for purpose’ or might be less vulnerable to AI if they were redesigned. One proposal is that we should revert to traditional hand-written, closed-book invigilated examinations. While this may seem like an obvious solution to minimise the risk of misuse of AI, such assessments have well-documented drawbacks in terms of student learning and engagement. If we prioritise assessment security at the expense of alignment, authenticity, equity and wellbeing, we risk compromising assessment in important ways that disadvantage most students, and in ways that are inconsistent with the ambitions of the University’s Advancing Students and Education strategy.
+
+In this downloadable guide and on this webpage, we offer suggestions for how subject assessment regimes can be redesigned to reduce the risk of AI misuse without resorting to heavily weighted, closed-book end-of-semester invigilated exams (with their associated pedagogical drawbacks). De-emphasising high-stakes examinations allows for the introduction of more diverse, potentially more authentic and lower-weighted assessment tasks. These often provide students with better opportunities to learn and improve through feedback, which may improve students’ perceptions of their value.
+
+Many of the strategies we propose are likely to be effective because they reduce students’ motivation to cheat – whether by reframing assessment as a helpful tool, in addition to a hurdle to be overcome (assessment for learning, not only an assessment of learning), by diversifying the nature of the artefacts we assess or by auditing workflows and thinking processes that are uniquely human and thus difficult to replicate by AI.
+
+Redesigning assessments is not without its own challenges, especially in relation to scalability workload, and resourcing. We provide examples of case studies where subjects have implemented one or more of these strategies.
+
+Assessments play a critical role in evaluating and measuring students’ knowledge and
+competencies in a subject area and determining how well they have achieved the intended
+learning outcomes for the subject. Students typically demonstrate this achievement by
+producing an artefact of some kind (commonly an essay, report, examination etc.) which is
+assessed or graded.
+Because most traditional university assessment artefacts are written documents, the
+widespread availability of text-generating AI tools such as ChatGPT poses a significant threat to
+their integrity. Put simply; it is increasingly difficult to determine whether an artefact was
+created by the student or by AI. This raises a troubling question; how can we be sure that our
+graduates have learned what they need to be safe and competent professionals?
+Prominent educational technology companies such as Turnitin have responded by releasing
+software that may help educators to detect AI-generated work. The makers of some generative
+AI platforms have also promised to embed invisible digital ‘watermarks’ to AI-generated text
+and media in the future. Overall, however, the phenomenal pace of innovation and progress in
+generative AI suggests that electronic means of detecting AI with sufficient reliability to support
+prosecution of academic misconduct cases are not on the near horizon and indeed may never
+eventuate.
+A more promising approach is to consider whether existing assessment regimes are still ‘fit for
+purpose’ or might be less vulnerable to AI if they were redesigned. One proposal is that we
+should revert to traditional hand-written, closed-book invigilated examinations. While this may
+seem like an obvious solution to minimise the risk of misuse of AI, such assessments have well-
+documented drawbacks in terms of student learning and engagement. If we prioritise
+assessment security at the expense of alignment, authenticity, equity and wellbeing, we risk
+compromising assessment in important ways that disadvantage most students, and in ways that
+are inconsistent with the ambitions of the University’s Advancing Students and Education
+strategy.
+In this guide, we offer suggestions for how subject assessment regimes can be redesigned to
+reduce the risk of AI misuse without resorting to heavily weighted, closed-book end-ofsemester invigilated exams (with their associated pedagogical drawbacks). De-emphasising
+high-stakes examinations allows for the introduction of more diverse, potentially more
+
+authentic and lower-weighted assessment tasks. These often provide students with better
+opportunities to learn and improve through feedback, which may improve students’
+perceptions of their value.
+Many of the strategies we propose are likely to be effective because they reduce students’
+motivation to cheat – whether by reframing assessment as a helpful tool, in addition to a hurdle
+to be overcome (assessment for learning, not only an assessment of learning), by diversifying
+the nature of the artefacts we assess or by auditing workflows and thinking processes that are
+uniquely human and thus difficult to replicate by AI.
+Redesigning assessments is not without its own challenges, especially in relation to scalability
+workload, and resourcing. We provide examples of case studies where subjects have
+implemented one or more of these strategies.
+
+Seven practical strategies for improving assessment design and integrity
+While there are various strategies to improve assessment design in your subject, we focus on
+seven key strategies below. How suitable a particular strategy is will depend on your teaching
+context, including the nature of your subject, year level of students and class size, among other
+considerations.
+1. Shift the emphasis from assessing product to assessing process
+This approach places importance not only on the final product or outcome, such as an exam,
+final report or final essay, but the development that occurs through the learning process. A
+process-oriented approach focuses on evaluating the steps and strategies students engage in
+during the learning process, and primarily aims to assess how students think, approach
+problems/tasks, and reflect on their learning.
+A major benefit of this approach to assessment is that it can give educators a better insight into
+students’ learning and foster students’ development of ‘metacognitive’ skills – that is, students’
+ability to think about, and monitor and manage their own thinking and learning strategies.
+An added benefit of placing more emphasis on process rather than the final product is that
+process is arguably more difficult for students to outsource.
+Opening a window on students’ learning processes– CADMUS
+Cadmus is a university-supported and widely used online assessment creation environment
+that interfaces with the Canvas LMS. Students complete the entire assignment – from
+planning to final product – within this environment, providing academic teachers with a
+means to digitally ‘observe’ this process. This provides a transparent ‘audit trail’ of
+students’ thinking and learning processes which can be beneficial for both teachers and
+students. It permits better insights and allows for timely interventions and support in
+relation to the assessment. Cadmus can be used for a range of written assessment types
+such as essays, literature reviews, lab reports and take-home exams.
+Examples
+Self-reflection on learning in the subject (or learning journal)
+To encourage students to think about their learning in the subject (metacognition), and assess
+their critical reflection and metacognitive skills, incorporate self-reflection tasks (written or
+video recording) that ask students to reflect on what they’ve learnt in the subject so far in
+relation to the subject’s intended learning outcomes (ILOs): How are they progressing in
+relation to the ILOs and what do they feel confident about? What areas remain challenging or
+confusing, and what is their plan for addressing this?
+Process notebooks
+In practical or practice-based subjects, ask students to keep notes and document the steps they
+are taking, what they’ve done and what they have learnt. This will allow you to assess the
+process of inquiry, experimentation or application, rather than just the outcome.
+
+2. Incorporate tasks that ask students to demonstrate evaluative judgement
+Tasks that require students to demonstrate evaluative judgement by reviewing or evaluating
+work (either published or by peers), images, objects, audio or video against a set of assessment
+criteria encourages the development of and assesses higher order skills including application of
+knowledge, evaluation, critical thinking, etc. While not impossible for students to outsource,
+these tasks make it more difficult for students to complete using generative AI.
+Example
+Reflection through evaluative judgement (student peer review)
+Involving students as reviewers of the work of their student peers encourages their capacity to
+reflect on the relative quality of work, drawing on a range of inputs. Peer review tasks may
+require students to both provide constructive critical feedback to others and also reflect what
+they’ve learnt from feedback received on their own work. This may include students
+demonstrating how they have drawn on feedback to improve a draft, or explaining how they
+would apply the knowledge to a future assessment task in the subject, or in their course more
+broadly. There are a range of university-supported educational technologies available to assist
+with the administrative task of managing a peer review process.
+3. Design nested or staged assessments
+This strategy also emphasises process and involves designing assessments that build on each
+other over a semester so that they lead to a large complex piece of work that demonstrates
+students’ achievement of the subject’s intended learning outcomes. This strategy involves
+breaking the larger assignment into 3-4 steps toward completing the larger task.
+The benefits of this strategy are that students can receive feedback (either automated, from
+peers, or teachers) after each step and better understand the process of planning and
+completing the complex task. By assessing various stages of the project, you can evaluate
+students’ ability to apply knowledge and adapt their plans based on feedback.
+This strategy can be designed to make it more difficult for students to complete using
+generative AI (e.g., by requiring group work and reflections on specific individual contributions).
+Examples of assessment design over a semester
+Case study analysis and recommendations
+• Task 1 Case analysis (early in semester): Students are presented with a complex scenario or
+case study that highlights key challenges/issues relevant to the topics covered in your
+subject. They are then asked to identify key issues and apply relevant concepts and theories
+to discuss the case.
+• Task 2 Recommendations (later in semester): Based on their analysis of the case study and
+feedback (from peers and/or teacher) received, students make feasible and evidence-based
+recommendations to address the issues.
+• Final task- Implementation plan: (end of semester). Students present their detailed
+implementation plan for the recommendations to address their case analysis. This could be in the form of an oral presentation video-recorded or live, poster presentation or written
+assignment.
+Project-based group work
+• Task 1 Individual task (early in semester): In groups, students identify a specific problem to
+address, and individuals find five authoritative sources, and present short written
+summaries and reflections on each.
+• Task 2 Group project plan (later in semester): Groups prepare a detailed project plan that
+synthesises individual work from Task 1 and outlines team roles, the team’s planned
+approach to the project and justification for decisions.
+• Final task part 1- Group presentation: (end of semester): Groups present their analysis and
+evidence-based recommendations for addressing the problem. This can be in the form of a
+poster presentation, PechaKucha (https://www.pechakucha.com) or other oral
+presentation format (video-recorded or in person).
+• Final task part 2- Individual reflection (end of semester): Individuals write a short critical
+reflection on peers’ and their own contributions to the group work and their learning from
+feedback on earlier tasks.
+4. Diversify assessment formats
+Assessment tasks that are not text-based may be less vulnerable to academic misconduct using
+generative AI. Using diverse forms of assessment, or multimodal assessments may also provide
+opportunities for diverse students to demonstrate their learning in various ways and excel.
+Examples of different forms of assessment outputs include videos, blogs, vlogs, podcasts and
+animations. These types of assessment outputs are not only less susceptible to AI misuse, but
+they also encourage creativity and the development of oral communication skills. Arguably
+these forms of outputs are also authentic than traditional text-based assignments, for
+contemporary times.
+Examples
+Video recording of a PechaKucha or poster presentation: Students are asked to design a
+PechaKucha presentation (20 slides of mainly images, https://www.pechakucha.com) or a
+poster and record their presentation.
+Podcast of interview (roleplay): Students prepare an interview with an expert on an issue that
+they have researched, and they roleplay interviewer and expert on a podcast.
+Video log (Vlog): Students record their reflections on their experiences and learning in a
+practical or practice-based subject or work-integrated learning experience such as placements.
+ePortfolio: Students develop an ePortfolio including images, short reflections, videos and/or
+other artefacts showcasing their achievement of the subject intended learning outcomes (or
+program learning outcomes).
+Some things to be aware of when considering this option: students may have unequal access to
+the resources needed to complete assessments in non-textual formats.
+5. Incorporate more authentic, context-specific, or personal assignments
+Designing assessments that mirror real-world tasks or are highly context-specific to your
+subject/discipline is another strategy for making assessments more relevant for students and
+increasing their motivation and engagement with the task. Authentic or context-specific tasks,
+although not invulnerable to cheating, may also make it more difficult for students to complete
+using AI.
+Examples
+• Analysis of case studies or scenarios requiring students to refer specifically to materials
+presented or discussed in classes.
+• Analysis of a less-known object or feature in the local area.
+• Discussion or reflection requiring students to draw on their personal life experiences or
+experience of their family or peers.
+6. Incorporate more in-class and group assignments
+In-class assessments can be delivered via a range of formats, including quizzes, live polls, tests,
+concept maps, short written tasks or oral presentations that can be completed individually or in
+groups.
+Designing in-class tasks, especially those that require collaborative learning in groups,
+maximises opportunities for students to interact with and learn from each other. Team-based
+tasks in class can also reduce students’ opportunities and motivation to cheat.
+Examples
+Peer and self-assessment of group work
+Peer and self-assessment activities ask students to assess their peers’ and their own
+contributions to the group work and collaborative process. To help students with the
+assessment task, develop assessment criteria that focus on the process of group work such as
+effective communication, clear goals, active participation, quality of contribution/input, respect
+of diverse views, etc. It’s also a good idea to discuss (or workshop) the criteria with students in
+class to ensure they are clear about how they should assess their peers and themselves.
+In-class concept maps or 5-minute papers
+To help students consolidate their understanding of key concepts and assess their knowledge,
+ask them to develop a concept map (individually or in pairs), or set a 5-minute paper several
+times during the semester asking students to explain a key concept/s, or apply their knowledge
+to solve a problem. Alternatively, ask them to explain three things they have learned from the
+classes related to x topic or x learning outcome.
+Depending on your subject and students, these types of low-stakes, in-class assessments can be
+repeated several times through the semester.
+
+7. Incorporate oral interviews to test understanding or application of knowledge
+Oral interviews require a student to respond verbally to unpredictable prompts and are
+therefore much less vulnerable to cheating. They can also allow for in-depth assessment of
+students’ understanding, through interaction and dialogue in which students explain their
+thoughts and reasoning. While some students may feel heightened pressure and stress in live
+performance-based assessments, oral interviews can mirror real-world tasks and foster the
+development of, and assess, oral communication skills. They can also be conducted in a
+relatively informal or conversational way.
+Scalability is an understandable concern with this form of assessment in subjects with large
+enrolments. It may be necessary to have multiple assessors conducting the interviews which
+will require careful planning including moderation meetings with assessors.
+Examples
+Scenario- or case-based interviews
+Students are given a short scenario and asked to identify key issues or explain the relevance in
+relation to the subject and/or answer questions. For more complex cases, students are given
+longer time to read and analyse the case prior to the oral interview.
+Practice-based or procedural interviews
+For subjects that involve practical skills, students may be asked to explain the steps or
+procedures in completing a task including identifying any safety protocols.
+Paired interviews or role play
+Students are assigned a partner and asked to take on the role of interviewer and interviewee
+on a given topic, and then reverse roles for another related topic. This kind of task is
+appropriate for subjects that require students to develop high level oral communication and
+interpersonal skills.
+Case Studies
+Below we feature five assessment case studies from established subjects at The University of
+Melbourne. Each of these case studies showcases several of the seven practical assessment
+strategies presented in this guide.
+Experimental Physiology (PHYS30009)
+Teaching Context
+Discipline: Physiology
+Faculty: Medicine Dentistry and Health Sciences
+Year level: Year 3 of the Bachelor of Science or Bachelor of Biomedicine programs
+Class size: 30 students
+Mode of delivery: On-campus
+Assessment Design
+This subject includes the following assessment tasks:
+AT1. 10-minute oral presentation of a journal article (individual task, due in Week 3, 10%)
+AT2. Literature review (group task, due in Week 4, 10%)
+AT3. Final written report (individual task, due during the examination period, 60%)
+AT4. Laboratory notebook (individual task, maintained throughout semester, 10%)
+AT5. Academic assessed participation and peer-reviewed participation (individual task, assessed
+throughout semester, 10%)
+Aim of the Assessment Design
+This elective capstone subject was designed by Dr Charles Sevigny and Arianne Dantas and is offered to
+students who are interested in becoming career researchers. The underlying pedagogy of this subject is
+project-based learning, and students work in groups of 10-12 individuals throughout the semester to
+complete an authentic experimental research project in a highly scaffolded environment.
+Featured Assessment Strategies
+This subject showcases five of the seven practical strategies for improving assessment design and
+integrity. More details relating to each of these strategies are provided below.
+Incorporate tasks that ask students to demonstrate evaluative judgement
+For the oral presentation task (AT1), students are asked to assess each of the journal article
+presentations given by students within their group. This evaluative task is designed to be equitable as it
+is guided by a pro forma. The peer-reviewed participation then forms part of AT5.
+Design nested or staged assessments
+In this subject, the oral presentation of a journal article (AT1) provides a basis for the group literature
+review task (AT2) which, in turn, provides a basis for the final written report (AT3).
+Incorporate more authentic, context-specific or personal assignments
+The assessment tasks in this subject have been carefully designed so that students have opportunities to
+engage in the kinds of documentation and dissemination activities that would authentically occur in the
+work of a Physiology researcher. For example, the oral presentation of a journal article occurs in
+students’ project groups (featuring 10-12 students) and is designed to emulate the experience of a
+journal club or reading group. In addition, the laboratory notebook task is a legally required part of
+professional experimentation, while the final written report is to be presented in the format of an article
+to be submitted to the Journal of Physiology.
+Incorporate more in-class and group assignments
+Two assessment tasks in this subject (i.e., AT1, AT2) have components that are completed in-class. AT2
+is also a group assessment task, as is AT3 (although students each submit an individual version of the
+report). More specifically, for AT1, each member of the group prepares a short oral presentation (8
+minutes plus 2 minutes for questions) about a journal article that is relevant to their project and then
+presents it to their project group. This presentation is assessed by their peers (5%) as well as a member
+of the teaching team (5%). For AT2, students work in their groups to develop an annotated bibliography
+of academic literature and identify research gaps that are relevant for their projects. Students complete
+this task, both inside and outside of class, using a collaborative word processing application (e.g., Google
+Docs). This approach allows all students to contribute to and edit the document.
+Incorporate oral interviews to test understanding, and/or application of knowledge
+Each students’ oral presentations about a journal article (AT1) are followed by two minutes of question
+time, where the teacher and fellow students can ask students to elaborate on certain aspects of the
+article or their interpretations of the findings, etc.
+Further Reading
+For more information about the design of this subject, please refer to the Course Handbook (here) or
+pages 335-339 of Biggs, Tang and Kennedy’s (2022) Teaching for Quality Learning at University (5 th Ed)
+(Ebook available here, staff credentials required).
+Teaching Context
+Discipline: Behavioural Ecology
+Faculty: Science
+Year level: Year 3 of the Bachelor of Science program
+Class size: Approximately 70 students
+Mode of delivery: On-campus
+Assessment Design
+This subject includes the following assessment tasks:
+AT1. Pre-class reading and social annotation tasks using Perusall (individual task, completed
+prior to attending class, best eight attempts are graded, 20%)
+AT2. Weekly quizzes (individual task, completed in class, 20%)
+AT3. Written News and Views article, accompanied by a video presentation (individual task,
+30%)
+AT4. Invigilated in-person exam (individual task, completed during the examination period, 30%)
+Aim of the Assessment Design
+This subject was designed by Professor Raoul Mulder to encourage students to be more motivated to
+attend classes and engage with required readings, and to provide them with more opportunities to
+deepen their learning.
+Featured Assessment Strategies
+This subject showcases three of the seven practical strategies for improving assessment design and
+integrity. More details of each of these strategies are provided below.
+Incorporate more authentic, context-specific or personal assignments
+The assessment design for this subject features two tasks (AT1, AT3) that are highly relevant to the
+discipline of Evolutionary Ecology and authentic to the work of a researcher in this discipline. The
+Perusall task (AT1) requires students to engage with the academic literature on various topics and
+generate their own critical insights about those readings using social annotations. They are also able and
+encouraged to reflect and respond to the annotations of their peers during this task. The News and
+Views tasks (AT3) requires students to translate information from a scientific article in language that is
+suitable for a lay audience.
+Diversify assessment formats
+This subject includes assessments which require students to produce written work (AT1, AT3, AT4),
+video recordings (AT3) and responses to online quizzes (AT2).
+Incorporate more in-class and group assignments
+The weekly quizzes (AT2) are completed by students in-class. This strategy not only encourages students
+to attend and participate in face-to-face classes, but it also makes it more difficult for students to use AI
+to cheat as they are completed in a timed format that would make it hard to copy or write answers into
+ChatGPT.
+Further Reading
+For more information about the design of this subject, please refer to the Course Handbook (here) or
+this case study on the Melbourne CSHE’s Assessment and AI site.
+
+Teaching Context
+Discipline: Gender Studies
+Faculty: Arts
+Year level: Year 1 of the Bachelor of Arts program
+Class size: Approximately 175 students
+Mode of delivery: On-campus
+Assessment Design
+This subject includes the following assessment tasks:
+AT1. Online engagement, comprising six individual mini-challenges (50%):
+a. Pre-subject survey, due Week 2
+b. Discussion response 1, due Week 5
+c. Object-oriented reflection, due Week 7
+d. Cultural analysis, due Week 9
+e. Discussion response 2, due Week 12
+f. Post-subject survey, due during the exam period
+AT2. Research proposal and short annotated bibliography (individual task, due Week 7, 20%)
+AT3. Research essay (individual task, due during the examination period, 30%)
+Aim of the Assessment Design
+Dr Joshua Pocius designed the assessments with the goal of helping students engage in genuine and
+meaningful tasks. Other considerations when designing the assessments were ensuring that the
+assigned tasks would not impose too much difficulty on students in their first semester of university, and
+devising online tasks that would be difficult to plagiarise with AI.
+Featured Assessment Strategies
+This subject showcases three of the seven practical strategies for improving assessment design and
+integrity. More details of each of these strategies are provided below.
+Design nested or staged assessments
+The research proposal and annotated bibliography task (AT2) is designed to be further developed into
+the final research essay (AT3). Tutors provide detailed feedback on AT2 which students are able to
+implement as they work on AT3.
+Diversify assessment formats
+While the majority of tasks in this subject involve written content, students are encouraged to complete
+the object-oriented reflection mini-challenge as a short 1-2 minute TikTok style video.
+Incorporate more authentic, context-specific or personal assignments
+Two of the mini-challenges that form part of the online engagement task (AT1) require students to
+engage with objects their local contexts. The object-oriented reflection mini-challenge asks students to
+select an object from their immediate environment that they feel carries meaning about who they are
+and their place in the world. They then use object-based storytelling to meet the task objectives. The
+cultural analysis task asks students to write a short discussion board post about a cultural text that is
+accessible only in their local context (e.g., an artwork being exhibited at one of three galleries at The
+University of Melbourne).
+Teaching Context
+Discipline: Business and Economics
+Faculty: Business and Economics
+Year level: Year 1 of the Bachelor of Commerce program (Discovery subject)
+Class size: Approximately 1700 in Semester 1 and 600 in Semester 2
+Mode of delivery: On-campus
+Assessment Design
+This subject includes the following assessment tasks:
+AT1. Three online quizzes assessing content from the Joining Melbourne Modules (individual task,
+completed throughout semester, 10%)
+AT2. Essay response to a prompt question (individual task, completed by Week 4, 10%)
+AT3. Group activities (group task, 30%). This assessment comprises two related tasks:
+a. Collaborative Perusall annotation task (completed by Week 6, 15%)
+b. Group video task (completed by Week 8, 15%)
+AT4. Report (individual task, completed by Week 12, 30%)
+AT5. Reflective essay (individual task, completed during the examination period, 20%)
+Aim of the Assessment Design
+This subject was designed by Paul Wiseman and Professor Michael Davern to ensure strong constructive
+alignment between teaching and learning activities, assessment tasks and learning objectives.
+Featured Assessment Strategies
+This subject showcases five of the seven practical strategies for improving assessment design and
+integrity. More details of each of these strategies are provided below.
+Shift the emphasis from assessing product to assessing process
+There are several tasks that focus on assessing process in this subject. First, the reflective essay (AT5)
+asks students to reflect and write about their learning processes throughout the subject, including
+within the previous assessment tasks. Second, the collaborative Perusall annotation task (AT3a) awards
+one-fifth of the overall allocated marks for the task based on the amount of time students spend using
+Perusall (NB. to get full marks here, students need to spend at least 90 minutes on the task). Finally,
+AT2, AT4, and AT5 are all required to be completed in Cadmus, which provides automated feedback to
+students about academic integrity and writing processes.
+Design nested or staged assessments
+In this subject, AT2 to AT4 are nested because each one feeds forward into the next assignment, in
+terms of both content and process. The essay response assignment (AT2) is designed to further develop
+students’ conceptual understanding of sustainable commerce. Students are then able to draw upon the
+conceptual framework (i.e., sustainability in the organisation) and build a conceptual understanding of
+organisation-stakeholder relationships in the group activities (AT3). The conceptual understanding of
+organisation-stakeholder relationships then underpins the stakeholder analysis of a live case study
+organisation (AT4). In addition, AT2 is designed so that students receive feedback on their academic
+writing (i.e., synthesis and integration of theory), while AT3 is designed to extend conceptual
+understanding and provide a scaffold for the analytic work to be performed in AT4.
+Diversify assessment formats
+Within this subject, the assessment tasks incorporate a diverse range of modalities, including online
+quizzes (AT1), providing annotations on a bespoke document on stakeholders (AT3a), written tasks (AT2,
+AT4, AT5) and a video task (AT3b). In the video task, students work in their groups to perform a 3-to-5-minute parody video about the topic they explored in AT3a. This can take the form of a song, a skit, or
+an interview. Exemplars are provided (e.g., a Clarke & Dawe skit) to help students’ understanding of
+what is required in the task. Students are graded on their conceptual understanding rather than their
+performance.
+Incorporate more authentic, context-specific or personal assignments
+For the report task (AT4), students are required to prepare a business report based on a real-world case
+study. Developing a business report is an authentic task that Bachelor of Commerce graduates might be
+expected to perform as part of their future careers. In addition, the reflective task in AT5 helps students
+develop an understanding of the purpose and value in reflecting on their personal learning processes
+and enacting strategies to enable their future improvement.
+Incorporate more in-class and group assignments
+Students are required to complete two group tasks (AT3a, AT3b) that respectively focus on one
+component of the research process required for the major subject assessment piece (AT4). In addition,
+the tutorial series in this subject provides opportunities for students to complete micro-tasks that
+represent components of their assessment pieces (NB. these tasks are not assessed but build requisite
+skills for the assessed tasks).
+Discipline: Engineering
+Faculty: Engineering and Information Technology
+Year level: Year 3 of the Master of Electrical Engineering or Master of Mechatronic Engineering
+Class size: 35 students
+Mode of delivery: On-campus
+Assessment Design
+This subject includes the following assessment tasks:
+AT1. Mid-semester test (individual task, completed from Week 6-9, 10%)
+AT2. Continuous individual assessment of project work (team and individual work, completed
+throughout the teaching period, 50%). Tasks include:
+a. Software and hardware upskilling, due in Week 4
+b. Individual preliminary report, due in Week 6
+c. Peer review of preliminary report (written and oral feedback), due in Week 7
+d. Demonstration of baseline robot capabilities and review meeting for forward planning, due
+in Week 9
+e. Team member evaluation and self-reflection for the demonstration and forward planning,
+due Week 9
+f. Demonstration of final project
+g. Self-reflection of whole subject, due in the examination period
+AT3. Final team report, including team member evaluation (teamwork, due in the examination
+period, 30%)
+AT4. Team video presentation (teamwork, due in the examination period, 10%)
+Aim of the Assessment Design
+Dr Paul Beuchat and A/Prof Gavin Buskes designed the assessment based on the principles of
+experiential learning, continuous assessment and project-based learning.
+Featured Assessment Strategies
+This subject showcases five of the seven practical strategies for improving assessment design and
+integrity. More details of each of these strategies are provided below.
+Shift the emphasis from assessing product to assessing process
+While this subject does feature some assessment tasks focused on product, there are also several
+opportunities for students to be assessed on the process of how they are working in their teams and the
+skills they are learning while completing the project (i.e., AT2c, AT2d, AT2e, AT2g).
+Incorporate tasks that ask students to demonstrate evaluative judgement
+In the continuous assessment task (AT2), there are two low-stakes assessed components (AT2c, AT2e)
+that require students to engage in review and assessment of their peers. In both cases, students are
+provided with assessment criteria to complete this task (for AT2c the students engage directly with the
+rubric for the preliminary report, and for AT2e an example instruction is: ‘rate your team members on
+the following criteria: made meaningful contributions to the reliability of the demonstration; made
+meaningful contributions to the development of a feasible forward plan.’).
+Design nested or staged assessments
+With the exception of the mid-semester test (AT1), the remaining assessment tasks in this subject build
+incrementally upon the previous tasks, over the course of the semester. For example, students begin
+their projects developing their practical skills for performing experiments with the robot (AT2a), then
+analyse these experimental results to show their individual technical contributions to the team through
+the preliminary report (AT2b), before demonstrating their team collective abilities through the Week 9
+demonstration and planning meeting (AT2d) and the demonstration of their final product (AT2f), and
+closing out the project with writing a report about the process (AT3), followed by a video presentation
+of the final product (AT4).
+Diversify assessment formats
+Across the different assessment tasks, different modalities are represented including written tasks (e.g.,
+AT1 and AT3), video presentations (AT4), and oral presentations (AT2d and AT2f).
+Incorporate more authentic, context-specific, or personal assignments
+In this subject, students work collaboratively in teams to engineer an autonomous system (i.e., a robot)
+that performs a specified task. The assessment tasks that relate to this collaborative project are all
+aspects of the continuous assessment (AT2), the final team report (AT3), and the team video
+presentation (AT4). The development of this system and the related tasks are extremely authentic to the
+work of an electrical or mechatronic engineer who specialises in autonomous systems.
+The emergence of generative AI tools and their ongoing evolution has major implications across the economy and society, including for Australia’s universities. These tools generate opportunities to innovate and enhance core aspects of university activities. Equally, they entail risks for academic and research integrity, intellectual property, and data privacy.
+
+The University of Melbourne is adopting the following ten principles to articulate its position regarding these challenges, and to help guide actions around the adoption and use of AI tools and systems. The principles are intentionally broad: the aim is not to prescribe specific initiatives or actions, but to support decision-making across the University, and to ensure the principles can be adapted to developments in the technology. The intention is to periodically review the principles, given the ongoing evolution of AI tools.
+
+Our AI principles
+AI literacy
+The University of Melbourne will support students, academic and professional staff to become AI literate, and will seek to ensure that students who graduate from the University are proficient in the responsible use of AI tools.
+
+Academic and research integrity
+The University of Melbourne will build awareness among students and staff of their responsibilities around the use of AI tools in the preparation of work and we will manage integrity-related risks posed by AI tools.
+
+Research and innovation
+The University of Melbourne will be a leader in research into AI and the implications of new technologies, driving innovation through research and engagement with industry and other external partners.
+
+Workforce and operations
+The University of Melbourne will harness the potential for AI tools to deliver improvements in our working operations and how staff engage in work, supporting staff to realise the benefits offered by these tools and to manage the risks that they pose.
+
+Accessibility
+The University of Melbourne will provide broad access to relevant AI tools for our students. We will seek to ensure that financial disadvantage, disability, and other factors that disadvantage specific cohorts do not represent barriers for students accessing AI tools that are necessary to their study.
+
+Fairness
+The University of Melbourne will seek to ensure that enterprise AI tools and systems we make available for use are evaluated carefully before deployment and do not unfairly discriminate against individuals or groups.
+
+Privacy and security
+The University of Melbourne will undertake risk assessments and implement approaches to ensure that our use of AI systems and tools do not compromise data security or intellectual property rights, and that privacy is maintained.
+
+Positive impact
+The University of Melbourne will seek to ensure that the AI systems and tools it uses generate the intended benefits to those who interact with them, and will seek to mitigate foreseeable adverse impacts of these systems and tools.
+
+Responsibility and human oversight
+The University of Melbourne will maintain human oversight of and responsibility for the AI tools and systems used by staff, offer appropriate avenues for redress in case of errors or misuse, and commit to procedures by which those who are impacted can access an explanation for relevant decisions.
+
+Collaboration and ongoing review
+The University of Melbourne will consult widely on the use of AI tools and systems, including with groups that are at a high risk of being harmed or treated unfairly. The University will regularly review our use of AI tools to ensure that they are delivering the intended benefits, and regularly review and update our policies and practices to ensure appropriate safeguards are in place.

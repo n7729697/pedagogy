@@ -1,0 +1,288 @@
+About Generative Artificial Intelligence
+Generative AI (GenAI) is a general term for artificial intelligence that creates new content by generating new data samples that are similar to the training set. These generative models learn patterns, structures, and features from the input data and can create content with similar characteristics.
+
+GenAI can be used to create text, music, and images that mimic human creation with varying degrees of success. Currently, the most well-known GenAI applications are sophisticated chatbots that have been trained on an enormous collection of text data to develop an understanding of the patterns and structures of human language. The University of Michigan offers secure, private, accessible, equitable, free AI tools for the university community. The model behind natural language processing chatbots, which rely on that vast collection of text, is called a “large language model” (LLM).
+
+LLMs have been trained on digitized books, articles, websites, and other types of text to learn patterns in natural and written language. In response to prompts from users, ChatGPT can generate text that is coherent and convincingly human-like in seconds. It can summarize historical events, write an essay or basic computer code, translate a passage, or even compose poetry and songs. Examples of uses that have already emerged include using it as a research assistant, a proofreader, a brainstorming aid, a calculator, and many more.
+
+However, outputs fall short of demonstrating the higher levels of learning needed to succeed in a rigorous college setting. Additionally, it’s also sometimes wrong, and with great confidence.
+
+GenAI In-Depth: The Science and Capabilities of GenAI
+Advances in deep learning techniques, specifically transformer architectures, have enabled more powerful and efficient modeling of complex relationships in the data. Learn more...about the science and capabilities of GenAI
+
+While ChatGPT has been the most discussed machine learning tool of late, ITS is now offering a generative AI platform available to all active U-M faculty, staff, and students on the Ann Arbor, Flint, and Dearborn campuses and Michigan Medicine. These service offerings are equitable, accessible, and support everything from basic consumer usage to advanced research and experimentation.
+
+Tools like Stable Diffusion or DALL-E 2 have been used to generate surprisingly beautiful, detailed, original, and realistic images based on text prompts. The popular AI image generator DALL-E 3 and the updated GPT 4.0 Turbo is now available via UM-GPT at no cost to the university community. 
+
+The field of Generative AI has experienced exponential advancements in recent years, demonstrating remarkable progress across diverse modalities such as text, images, sound, and more. These advancements can be primarily attributed to the three main factors: methods, data, and scale of computation.
+
+First, advances in deep learning techniques, specifically transformer architectures, have enabled more powerful and efficient modeling of complex relationships in the data. Second, the availability of vast and diverse datasets, encompassing extensive text corpora and video repositories, has significantly contributed to the quality and diversity of generated outputs. Third, the substantial growth in computational power has played a crucial role in enabling the training and deployment of increasingly complex generative models. Collectively, these technical factors have fueled the rapid evolution of GenAI, paving the way for breakthroughs in various domains of content generation.
+
+Language Generation
+Language generation builds on the strong foundation of language models, dating back to 1948. For instance, the GPT (Generative Pre-trained Transformer) model, including versions such as GPT-3, 3.5, 4, is a state-of-the-art language model developed by OpenAI. It relies on a transformer deep learning architecture, designed to process and generate natural language text. The architecture includes multiple layers of self-attention mechanisms, enabling it to capture the contextual relationships and dependencies between words and generate coherent and contextually relevant responses.
+
+GPT models have been trained on an extensive corpus of diverse text data of more than 400 billion tokens, including books, articles, and web pages, using unsupervised learning techniques. The training process involves predicting the next word in a sentence based on the preceding context, enabling the model to learn grammar, semantics, and common language patterns. This pre-training phase equips GPT-3 with a broad understanding of human language and knowledge.
+
+InstructGPT is a variant of the GPT (Generative Pre-trained Transformer) model developed by OpenAI. It shares the technical foundation of GPT, utilizing a transformer architecture and unsupervised learning. However, what sets InstructGPT apart is its specific training objective, which focuses on generating text conditioned on user instructions. During the pre-training phase, InstructGPT is trained to predict the next word in a sentence given both the preceding context and an additional instruction prompt.
+
+This conditioning enables the model to generate text that adheres to specific guidelines provided by the user. By fine-tuning InstructGPT on custom datasets with specific instruction-based tasks, it can be tailored to perform a range of practical applications, such as generating code, writing essays, answering questions, or providing detailed instructions. The technical aspects of InstructGPT leverage the power of transformer-based architectures and instruction conditioning to generate contextually coherent and user-guided text outputs.
+
+Multimodal Generation
+Advances have also been made in the space of multimodal GenAI, which includes other modalities such as audio (including music), images, and video. For instance, CLIP is a transformer-based model that uses a dual-encoder architecture, and encodes both images and language. The image encoder processes images by passing them through a convolutional neural network, while the text encoder utilizes a transformer-based architecture to process textual descriptions. By performing this process jointly across images and text, CLIP learns to align their representations in a shared embedding space, which allows it to capture meaningful relationships between images and their associated textual descriptions. By maximizing the similarity between corresponding image-text pairs and minimizing the similarity between non-matching pairs, CLIP learns to understand the semantic connections between visual and textual data.
+
+The resulting joint embedding space enables a range of applications, including zero-shot image classification, where CLIP can find the most likely textual description of an image, and zero-shot image retrieval, where it can find images that match a given text query.
+
+Another example of a multimodal GenAI is DALL-E, which combines language models with an image encoder-decoder architecture. DALL-E has the ability to generate novel images based on textual prompts, showcasing impressive creativity in synthesizing unique and imaginative visuals. By learning a latent space representation of images, DALL-E can generate highly detailed and diverse images, transcending conventional image synthesis techniques.
+
+Autonomous GenAI Systems
+The first wave of widely adopted GenAI tools such as those introduced above are interactive or conversational agents that are dependent on human prompts to perform actions. More recently, applications that can plan and operate more autonomously have emerged:
+
+Auto-GPT is a system for autonomous task execution, built on top of other GenAI models, such as GPT. Unlike interactive systems such as U-M GPT, ChatGPT, Auto-GPT operates without constant human input, by setting its own objectives to pursue, generating responses to prompts, and adapting its prompts recursively based on new information. It can autonomously perform several actions such as web searching, web form interactions, or API interactions. As an early self-driven system for task execution, Auto-GPT is an example of an AI system that can not only perform tasks determined by human users, but also define its own tasks, a step forward toward more complex AI-driven autonomy and problem solving.
+
+Autonomous GenAI tools have the potential to revolutionize numerous technological and societal sectors. However, the deployment of unsupervised autonomous GenAI systems also introduces substantial technological challenges and societal risks, necessitating careful consideration and robust safeguards in their development.
+
+Limitations and Risks
+There are several risks and limitations that come with the use of GenAI. A few of these risks are listed below:
+
+Unintended bias
+GenAI models are trained on large language or vision datasets, which are often reflective of multiple societal biases. These biases can be propagated in the generated content, perpetuating and amplifying societal biases and prejudices.
+Misinformation and disinformation
+GenAI systems often produce misinformative statements and make unsupported claims. Their inability to provide a confidence level for the information they provide makes it difficult to determine when to trust these models. Further, these AI systems can be exploited to generate false or misleading information. The resulting misinformative content can have significant negative implications for trust, credibility, and the manipulation of public opinion.
+Lack of transparency
+Because of being particularly complex, it is often challenging to interpret and understand the current AI models. This lack of transparency can make it difficult to determine how the model arrives at its generated outputs, which also makes it hard to identify biases, errors, or potential ethical issues, and hinders accountability.
+Privacy concerns
+Very large amounts of data are typically needed to build AI systems, which can lead to a risk of privacy breaches and unauthorized use of personal information during data collection, storage, and utilization.
+Intellectual property and copyright infringement
+In a similar vein, the use of very large datasets, and the functioning of generative AI which often replicates patterns from the training data, can result in the unauthorized generation or replication of copyrighted material.
+Ethical considerations
+There is a vast set of ethical considerations surrounding GenAI. In addition to the risks mentioned before, other ethical implications include the appropriate use of AI-generated content, consent for data usage, potential impact on human creativity, impacts on labor markets and employment, and others.
+Existential risk
+A small yet growing fraction of technology leaders have articulated apprehensions that GenAI systems—and AI systems more broadly—represent a potential existential threat to society. This is predominantly attributable to the unpredictable characteristics of expansive AI algorithms and the potential for these systems to autonomously optimize themselves, which could result in unanticipated and undesirable consequences. Irrespective of one's position within the spectrum of these concerns, there is unanimous consensus that AI systems necessitate the establishment of stringent safeguards during their construction. Furthermore, it is imperative that robust policies are instituted at various levels to mitigate the risks associated with these systems.
+
+At ITS, we prioritize the privacy and security of all members of the U-M community. We are proud to offer advanced AI technology in support of the university’s missions that aligns with our commitment to protecting institutional data and your personal information. Our platform is designed with robust data protection mechanisms, ensuring it stands out as a trusted solution amidst various other AI technologies.
+
+Data collected and used by ITS AI Services is safeguarded through several mechanisms, including university policies, such as Responsible Use of Information Resources (SPG 601.07), Privacy and the Need to Monitor and Access Records (SPG 601.11) and Institutional Data Resource Management Policy (SPG 601.12).
+
+ITS AI Services provide appropriate security and compliance assurance, allowing it to be used for teaching, learning, research, and many other use cases. ITS AI Services have been approved for use with moderately sensitive data. Use of the services with Protected Health Information (PHI) and other institutional data of High and Restricted sensitivity, as defined in the U-M Data Classification Levels, not permitted at this time.
+
+Check the ITS AI Service entry in the Sensitive Data Guide to IT Services for a list of the data types that are permitted to be used with ITS AI Services. 
+
+U-M GPT initially comes with prompt limits of approximately 75 prompts per hour for text-based models (GPT-3.5, GPT-4, etc.) and approximately 10 prompts per hour for image-based models (DALL-E 3). Each query asked is considered one prompt. When initiating a chat with U-M GPT:
+
+Access the Prompt: Log in to U-M GPT with your uniqname and UMICH password, and complete Duo two-factor authentication.
+Start the Conversation: Enter your query, request, or message in the U-M GPT interface. Be clear and concise.
+Interact with the Responses: U-M GPT will process your input and generate a response. Read the response and interact with it as needed. Provide additional information when answers are unclear or incomplete.
+Clarify or Correct: If U-M GPT's response doesn't address your query accurately, or if you encounter any misunderstandings, you can clarify or correct the information by providing more context.
+Fully Review Output: When using U-M GPT, or any other AI technology, it is important to fact-check to ensure the information is accurate and from trusted sources. Cross-reference with established knowledge.
+Effective Prompts
+Constructing effective prompts for U-M GPT can significantly enhance the quality and relevance of the responses. Refer to Improving U-M GPT Prompts for information on practicing deliberate prompt construction. Consider enrolling in the online course Generative AI Prompt Literacy for a deeper dive into mastering the art of prompting.
+
+AI Model Descriptions
+When using U-M GPT, it is also important to understand the Artificial Intelligence (AI) model offerings. AI models are tools or algorithms trained on huge datasets. They can then make predictions, recognize patterns, reach conclusions, and generate content in response to a prompt or query.
+
+We currently offer multiple AI models in U-M GPT. While you are encouraged to experiment with the different models depending on your needs, there are advantages to using specific models for particular tasks.
+
+Unlike some commercially available AI chat tools, ITS Generative AI tools are hosted by the University of Michigan or controlled in a U-M Cloud environment, secure, and initially provided at no cost for faculty, staff, and students. Interactions with ITS Generative AI tools are only being used for the purposes outlined in the Privacy Notice.
+
+GPT-4o (Omni) is an updated version of GPT-4 Turbo with a knowledge cutoff of October 2023. 
+Llama 3 is an open-source model that has been trained to generate "human-like" responses. Training data: Up to December 2023.
+DALL-E 3 is an image-generation model designed to generate accurate, highly-detailed, photorealistic images based on text descriptions. Users are limited to ten images per hour. Each prompt entered is completely new; you cannot ask U-M GPT to refine previously-generated images. Only standard definition (SD) 1024 x 1024 images are supported at this time.
+
+Understanding how to use U-M Maizey proficiently will provide you with the most insight into your data. Refer to the tips below for guidance on how to use U-M Maizey.
+
+Getting Started with U-M Maizey (for Dropbox, Google Drive, public website)
+Getting Started with Maizey Canvas Connector (step-by-step instructions)
+How to Use U-M Maizey (video - 1 min)
+How to Use U-M Maizey Canvas Conector (video - 2 min)
+Understand Prompts
+Understanding how to write prompts and queries effectively will help you get the best from U-M Maizey. Refer to the following to learn more about prompts:
+
+Prompt Literacy in Academics
+Generative AI Prompt Literacy Canvas Course
+Source Data
+Known file types supported in U-M Maizey include: .txt, .html, .rtf, .pdf, .docx, .xlsxl, .pptx, .md. Other file types may work, but have not been tested.
+
+You can add a maximum of 50 data sources to a single Maizey project. When adding a source using the Data from a public website option, you can list multiple URLs and it still only counts as one data source.
+
+U-M Maizey works best with unstructured, natural-language text (words, phrases, sentences). The more documents indexed, the better the U-M Maizey data set becomes.
+
+Best Practices with Source Data in U-M Maizey:
+
+Use several small documents in your datasets rather than one large document.
+Download and re-upload any Google Docs over four pages of text to DOCX before indexing.
+Structured content such as spreadsheets will not index well.
+Consider splitting your data into a collection of contextual text files and indexing that way; again, natural language sentence structures work best.
+Content comprised of non-sentence text, such as abbreviations and condensed phrases (as you may find in resumes and similar documents), may not index well.
+Remove special formatting, graphics, etc., to improve results.
+Documents with embedded structured data such as JSON should not be used.
+Creating a Project
+Note the following when creating a project in U-M Maizey:
+
+You can edit, delete, or add data new sources after creating a project.
+After creating a project, you can update the Project Name, Billing Shortcode, or Project Path URL.
+Tips for creating a project in U-M Maizey:
+Test the URL before sharing it with others in the MCommunity group.
+MCommunity groups can have multiple owners; therefore, if you are an owner in the MCommunity group, you are also the owner of any project created with that MCommunity group.
+Projects that you own will be listed under "Your Projects."
+You have edit rights for all projects that you "own."
+MCommunity groups cannot be changed once you've created the project. In order to use a different MCommunity group, you will need to create a new Maizey project.
+Indexing Data for your project:
+There is a delay as data is being indexed.
+To determine if indexing is complete, check the Task Activity list.
+If your dataset is updated, click Reindex on the data source to refresh the data in the project
+User Interface
+What to know about the user interface:
+
+The name of your project is not related to the "Title" of your project's AI chat tool. The title of the project cannot be changed. The title of the AI chat tool can be changed by editing the project.
+System Prompt Augmentation
+System Prompt Augmentation allows you to define and fine-tune how the system responds to user prompts. View System Prompt guidance and examples.
+
+Temperature
+Temperature allows you to adjust the sensitivity and output-randomness of the model. A medium temperature is recommended for most use cases.
+
+The higher the temperature is set, the more "creative" the response to a query (i.e., you're giving it permission to "think outside the box"). However, a high temperature might result in answers that are too unusual. Higher temperatures are generally better suited for use cases where creativity is valued (e.g., generating song lyrics, poetry, etc.)
+
+The lower the temperature is set, the more "conservative" of a response the AI model might provide to a query (i.e., you want it to stick to safe answers with a high probability of being accurate). However, a low temperature might result in the AI model missing some correct answers because it is not specific enough.
+
+Data Chunks
+Think of chunks as individual pieces of a puzzle. Each chunk contains a small, specific piece of information from a larger database. Just as each puzzle piece contains part of the image, each chunk contains a part of the response to your prompt. Maizey combines these chunks, like assembling a puzzle, to give you a complete response.
+
+Maizey's default setting is four chunks, which works well for most use cases. Increasing the number of chunks allows Maizey to access more indexed data, which may enhance the quality and variety of query responses. 
+
+Review
+U-M Maizey is trained on your custom data set alone. As with any AI technology, it is important to fact-check to ensure the information is accurately presented.
+
+Create a Classroom AI Tutor with U-M’s Canvas Maizey Integration
+ITS has integrated our U-M Maizey custom AI tool with Canvas, enabling faculty and instructors to easily create AI-driven tutors for their courses right within the Canvas interface. In minutes, instructors can configure an AI tutor tailored to their course materials, offering students 24/7 access to a chatbot trained on the course content.
+
+Core Features of Canvas Maizey Integration
+Streamlined Setup: The setup process for the Canvas Maizey integration is designed to be user-friendly, allowing faculty to create their Maizey AI for courses with minimal effort.
+Always-On AI Support: The AI tutor remains available to students at all times, providing responses based on the specific materials within the Canvas course. This facilitates ongoing support for students, enabling them to engage with the course content beyond scheduled class times.
+Trained on Your Canvas Course Content: The AI course tutor you create is trained on the Canvas course content you make available to students, including Announcements, Assignments, Files, Lecture Recordings, Modules, and Pages. Any content that is hidden or locked will not be indexed until it becomes visible to students.
+Faculty Access with No Initial Cost: A free faculty tier is now available, allowing instructors to create a Maizey AI tutor for their courses without requiring a Shortcode. This tier provides a $1000 allocation per Canvas course, per term, which is designed to cover most usage scenarios.
+Prioritized Privacy: The AI tutor can only be trained on your course material if you opt in and grant your permission. The privacy of your materials will always be fully maintained and will not be used to train any AI models or shared with outside organizations.
+
+Interested? Take a look at Getting Started with Maizey Canvas Connector for detailed steps on how to set up a Maizey project in your Canvas course.
+
+Platform-Wide Enhancements to Maizey
+In addition to the new Canvas integration, Maizey AI has undergone several significant upgrades that enhance its capabilities across the entire platform. These improvements are designed to provide U-M faculty with more flexible and powerful tools for managing and interacting with their custom Maizey.
+
+Multi-Source Data Integration: In addition to Canvas, Maizey can now combine integrating data from multiple sources, including Dropbox, Google Drive, and external websites. This enables the AI to provide responses that are informed by multiple datasets, ensuring comprehensive and informed answers.
+Automated Reindexing: To accommodate evolving course content, Maizey allows for scheduled reindexing of data sources. This ensures that the AI assistant remains current and provides the latest information to students based on the most up-to-date materials.
+Please visit Support for more detailed instructions on using U-M Maizey or visit Resources to learn more about the generative AI microlearning courses offered by ITS.
+
+Personalized AI Tool for U-M Students - Beta
+MiMaizey is a powerful AI assistant tailored for the University of Michigan student community, designed to enrich daily student life with personalized support. Whether you need information about dining options, class materials, student organizations, or transportation, MiMaizey has you covered.
+
+Available in beta, MiMaizey is continually improving and evolving to better serve your needs on campus. Visit mimaizey.umich.edu to explore its capabilities today!
+
+Core Features
+1. Class Information
+For courses integrated with Maizey AI tutors, you can ask MiMaizey any questions about class materials on Canvas for which you are enrolled. Whether you need a study guide or clarification on a topic, MiMaizey will generate informed, helpful responses with cited sources.
+
+Example: "Create a study guide for Econ 101 test based on 'X' subject."
+
+2. Dining Menus
+Stay up to date on meal options from Bursley, South Quad, East Quad, and Mosher Jordan dining halls. MiMaizey can provide menus and details about various options such as vegan, high protein, and halal meals, ensuring you find what meets your needs.
+
+Example: "What is being served for dinner at South Quad today?"
+
+3. Student Club/Organization Finder
+Utilizing Maize Pages, MiMaizey helps students find and connect with organizations that match their interests. Whether you’re looking for clubs related to sports, arts, or specific hobbies, MiMaizey can help you find them.
+
+Example: "I like to dance, what group should I join?"
+
+4. GenAI Help
+Have questions about U-M’s GenAI services like U-M GPT, Maizey, or the AI Toolkit? MiMaizey can help with guidance on usage and generating prompts.
+
+Example:"How do I use U-M GPT?"
+
+5. Campus Information
+MiMaizey is your go-to resource for navigating campus. It can provide information about university buildings, including hours of operation, locations, and services offered at key facilities such as the Michigan Union, Pierpont Commons, and libraries. Whether you need to find a computer lab, check equipment availability, or discover nearby Mcard locations, MiMaizey has you covered. In addition to building information, MiMaizey assists with transportation and parking needs. It offers insight into University of Michigan bus routes, locations of electric vehicle charging stations, and parking.
+
+Example: "Where is the Central Campus Classroom Building on campus?
+
+6. Student Support
+MiMaizey offers guidance on a wide range of student resources and services to help you navigate your Michigan experience. It is designed to be a comprehensive tool for student well-being, offering information on a wide range of support resources. Whether you need help with academic, personal, fitness or health challenges, MiMaizey can direct you to appropriate services on campus.
+
+Example: "Where can I get mental health support on campus?"
+
+U-M Maizey offers a way to index data from other sources. Data indexing can enhance search functionality and enable access to your most relevant information.
+
+Known file types supported in U-M Maizey include: .txt, .html, .rtf, .pdf, .docx, .xlsxl, .pptx, .md. Other file types may work, but have not been tested.
+
+Eligible faculty, staff, and students on all three campuses (Ann Arbor, Dearborn, and Flint) and Michigan Medicine can use Maizey to index data from the following sources:
+
+U-M Google
+Only top-level folders for which you are an owner can be selected in Maizey.
+Shared drives can also be selected.
+Indexing includes sub-folders.
+Dropbox
+Any top-level folders you can view can be indexed, including Team folders.
+U-M Canvas (Ann Arbor campus only)
+Course Announcements, Assignments, Files, Lecture Recordings, unlocked Modules, and Pages can be indexed.
+Public web links
+We want to hear from you! Please share your ideas for integrating new data sources through our AI Services Form.
+
+ITS is committed to using AI to help build a more secure, inclusive, equitable, and accessible environment in support of U-M missions. This means creating AI systems, applications, and tools that are designed for accessibility and are usable for all members of the university community.
+
+U-M GPT has been designed and tested for accessibility, as defined by WCAG 2.1 AA guidelines, the digital accessibility standard currently used by U-M. It has been optimized for compatibility and usability with common assistive technologies. (Last updated 8/18/2023)
+Maizey has been built using accessible components and principles, and is currently undergoing testing and improvements to meet or exceed WCAG 2.1 AA standards, and to be optimized for compatibility with common assistive technologies. (Last updated 8/18/2023)
+For support or questions related to accessibility, use our request form.
+
+U-M hosts several Large Language Models (LLMs) that work through the processing of vast amounts of text data. They utilize an artificial intelligence technique called "transformer neural networks." 
+
+These models are initially trained on a diverse range of internet text. They generate responses by predicting the next word in a sentence, with their effectiveness determined by how coherently they can predict and generate these sequences.
+
+Despite the advanced capabilities of these AI systems, it's important to note that they don't possess understanding or consciousness, but simply analyze and generate text based on the input and training they have received.
+
+No, the University of Michigan does not engage in training U-M GPT, nor do we share any user-specific data to improve AI models.
+
+The University of Michigan did not train the models hosted in AI models used in U-M GPT. These models (Llama 2, DALL-E 3, GPT-4o) were trained by the service providers and are informed by three key data sources: publicly accessible information found on the internet, licensed data from third-party providers, and inputs from users or human trainers.
+
+U-M GPT does its best to generate accurate information based on the diverse range of text it has been trained on. However, it does not verify or fact-check the information it provides. Moreover, it does not have access to real-time data or updates, nor does it understand the information it provides in the way humans do.
+
+Therefore, while it is a valuable tool for general information, brainstorming, and idea generation, all ouput it generates should be reviewed and verified with reliable sources. Always consider it prudent to consult with knowledgeable individuals or fact-check using reliable resources for important matters.
+
+In the context of generative AI, a prompt is any form of text, question, query, or information that communicates to AI what response you’re looking for. The way you phrase a prompt can influence the way AI responds to it. So, by adjusting and refining your prompt, you can lead the AI towards providing the type of response or answer you’re looking for.
+
+The art of crafting an effective prompt is sometimes referred to as prompt literacy or prompt engineering. See prompt literacy and improving U-M GPT prompts for more information about crafting effective prompts.
+
+No. U-M does not engage in the training of these models, nor do we share any user-specific data for the purpose of improving these models. The data in our U-M AI platform is ours and is not shared with anyone.
+
+Your chat will be removed from the screen and cannot be retrieved. However, it is still accessible via logging information that is collected when using the product.
+
+Refer to U-M GPT In-Depth for more information on Large Language Models. 
+
+U-M GPT Toolkit can provide tools for advanced users to connect application environments empowered by ITS AI services. Refer to Getting Started for more information on U-M GPT Toolkit.
+
+You must be the owner of an MCommunity Group to create a project in U-M Maizey. If there are no MCommunity Groups available in the drop-down, it means you are not currently an owner of an MCommunity Group. Refer to Creating, Renewing, and Deleting MCommunity Groups for more information. 
+
+If you created a new MCommunity group while logged in to U-M Maizey, you will need to log-out for U-M Maizey to present your new group as an option. 
+
+It should only take about 15 minutes for a new MCommunity group to appear in U-M Maizey. Users will need to log out of U-M Maizey and log back in to access new MCommunity groups. 
+
+MCommunity groups cannot be changed once you've created the project. In order to use a different MCommunity group, you will need to create a new Maizey project.
+
+A Shortcode is a unique numerical identifier used mainly within the university's administrative systems and processes. These codes are typically associated with departments, units, or specific projects and are used to simplify and standardize financial transactions, budgeting, and reporting.
+
+Typically, students wouldn't have access to a Shortcode and would need a faculty/department to sponsor their request so that they can get a Shortcode.
+he connector uses the Canvas API to read a Canvas site’s: 
+
+Announcements
+Assignments
+Files
+Files must be visible in the course navigation menu. Maizey will not index files that are linked in Pages, Modules, etc. if Files is hidden from the course navigation menu.
+Lecture Recordings
+Modules (Only unlocked modules)
+Pages 
+It is authorized using a token for an ITS-created user. Anything the user can access, the connector can. In order for the module to work, an instructor must add that user as a student to their canvas site (any higher role, and it will index content that may be hidden).
+
+Refer to Getting Started with Maizey Canvas Connector for step-by-step instructions.
+
+The following file types are supported: md, htm, html, docx, xls, xlsx, pptx, pdf, rtf, txt
+
+Yes. Instructors who use CAEN Lecture Capture can enable the Lecture Recordings tool in Canvas. U-M Maizey will then index the recording transcripts. Learn more about Using Maizey with Canvas and CAEN Lecture Capture.
+
+At this time, data is collected in logs to help inform billing processes and for providing support, and data cannot be deleted. 
+

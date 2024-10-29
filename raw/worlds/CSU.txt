@@ -1,0 +1,148 @@
+The emergence of Artificial Intelligence (AI) has impacted higher education and is a game changer in academic assessment. How is it changing how students learn? Should our educators change their assessments? If so, how?
+
+The following pages will help you rethink assessment and develop strategies to prevent the misuse of AI tools.
+
+Rethinking assessment strategies in the age of AI
+Reconsider assessment design with the rise of text generative artificial intelligence.
+
+Assessment and Generative AI
+Mitigating or redesigning assessment in light of generative artificial intelligence.
+
+Assessing Generative AI Resilience
+Five strategies to determine GenAI resilience of existing assessments.
+
+Application of Generative Artificial Intelligence
+Make informed decisions about GenAI use in teaching and assessment.
+
+Artificial Intelligence Principles
+These principles are available to our staff and students to guide the ethical and responsible use of AI.
+
+Assessment designs can mitigate the risks of GenAI by incorporating high-security elements that validate learning outcomes and teaching students to use GenAI critically in accordance with educational and professional standards.
+
+Some types of assessment are more vulnerable to GenAI. However, at-risk assessment types do not necessarily need to be removed from subjects, as there are design approaches that can mitigate or reduce the potential risks of GenAI being used within the assessment. Designing for high security assessment at key points across a course, which provides rigorous evidence of student achievement and assurance of course learning outcomes, is essential and can offset lower security assessment approaches.
+
+For some assessment tasks, it may be appropriate to design for students to use GenAI in ways that align with the subject learning outcomes, course learning outcomes, and professional or disciplinary requirements. However, ensuring students are prepared to evaluate and critically analyse the value, role and appropriateness of using GenAI within their learning and future professional practice is important.
+
+Quiz (MCQ)	Online Test	MCQ can be used within assessment plans as low-stakes, low security assessment to guide student learning but should not be used as assurance of SLOs without other more rigorous assessment types. MCQ should be updated every session. MCQs can be used for self-testing or formative assessment.	
+Application-based questions move beyond recall of information and instead require students to apply knowledge in unique ways or within prescribed circumstances, making it harder for them to find pre-written answers online or using text generative AI tools such as ChatGPT.
+Essay/Report	Written	
+Essays and other extended written responses can still be used within assessment plans. Providing specific templates or writing prompts can potentially make extended written responses more reliable.
+
+Consider requiring students to submit drafts, or concept maps, to show their working, and specifying some of the references to be included within the essay.
+
+Case-based assessments present real or hypothetical cases that require students to analyse complex situations, make decisions, and defend their choices. The case studies that drive these types of assessment can be written to reflect professional practice situations students may encounter. These assessments can be designed to elicit student performance in a variety of modes or mediums, such as portfolios, videos, practical demonstrations, etc.
+Authentic text types mimic the types of artefacts students may be expected to produce in their professional careers, such as business plans, reports, videos, risk assessments, etc. They can also be written for different audiences and be used to encourage students to apply their knowledge in practical situations.
+Personalised assessment where students have choice and agency over aspects of the assessment and how they represent their learning can also be used to engage adult learners.
+Presentations, oral assessment and multimedia creation, such as videos, websites, etc., can be designed as more robust alternatives to extended written responses.
+Reflection	Written/ Portfolio	
+Reflection tasks can be used effectively within assessment plans to support students to analyse their experiences, learning and skills. These types of tasks can support students to evaluate their abilities and identify areas for improvement.
+
+Reflections can be created in many formats and can draw upon evidence of their learning and their evolving professional practice.
+
+Reflection tasks or learning journals can be used within other forms of assessment to prompt students to provide reflection upon their learning process to accompany the assessment artefact. Reflection tasks and learning journals can be used to engage students in thinking about how they learn and how they wish to improve.
+Reflections based on professional experiences or work-integrated learning opportunities are based on personalised experiences and can be designed to minimise the use of GenAI.
+Presentation	Oral/ Multi- media/ Visual	Presentations can be used within assessment plans can give students the opportunity to present their learning in non-written formats.
+Presentations can be created in multiple formats, such as websites, multi-media, live or recorded presentations. Some of these approaches can allow for a variety of ways for students to represent their learning.	
+Design for Q&A within the presentation, or centred on the presentation artefact (website, video, etc.), to allow for unscripted demonstration of learning and understanding of the topic of the presentation.
+Personalised assessment approaches can also be used to allow students choice over topic or format.
+Examination	Invigilated Exam/ Non- invigilated Exam	Examinations can still be used within subjects where there is an accreditation need or when it is the only way to assess the subject’s learning outcomes.	
+Project-based tasks, portfolios, presentations, work-integrated tasks and other assessment types can be effective ways to assess student learning and can offer students multiple ways to demonstrate their learning in authentic contexts.
+
+Critically evaluating existing assessments to determine resilience and rethink approach in a context of Generative Artificial Intelligence (GenAI).
+
+Here are five strategies for critically appraising how resilient your assessments are in a generative Artificial Intelligence (GenAI) context and adapting your approach.
+
+Strategy 1
+Identify assessment redesign
+Engage with the Rethinking assessment strategies in the age of artificial intelligence (AI) resource from Charles Sturt University to identify the considerations you need to make in assessment redesign, including designing for or designing to limit GenAI usage.
+
+Strategy 2
+Considerations for common assessment
+Engage with this new Assessment and GenAI resource from Charles Sturt University and/or the University of Wollongong resource which highlight how to improve common types of assessment (e.g., quizzes, essays, reflections, presentations and exams) in light of greater access to GenAI.
+
+Strategy 3
+Diagnose AI resilience
+Use this AI resilience diagnostic from the University of Technology Sydney, which steps you through specific aspects of assessment design which make assessments vulnerable to generative AI use.
+
+Strategy 4
+Critically appraise your assessment
+Critically appraise your assessment using the Learning Outcomes – Tasks – Marking heuristic from Monash University to decide if you need to design GenAI in or out:
+
+Learning outcomes (LOs) refer to the things you want to claim have been learned by students e.g., knowledge, skills, attitudes, competencies, capabilities. LOs a for a specific lesson/teaching interaction will need to be constructively aligned to subject and course level LOs. Questions to ask about your LOs include:
+does a student need to be able to demonstrate these outcomes without GenAI assistance? If yes, consider designing AI out of assessment.
+are these LOs difficult to automate? If yes, then consider designing AI out of assessment.
+who or what am I attributing the learning to (i.e., the student alone, a group of students, or student-AI tool interaction)? If you cannot be sure that students have met the LOs on their own without using GenAI, consider designing AI in.
+Tasks refer to the environment that students work in to produce evidence of learning. Questions include:
+can GenAI be easily accessed under assessment task conditions? If your task conditions (unsupervised, unsecure) make it feasible to access gen AI, consider designing it in. If your task conditions make is unfeasible to access gen AI (secure and supervised), then design it out.
+can I determine who or what produced the work products associated with these tasks? If your task conditions do not make it possible to determine who produced what, then, consider designing AI in.
+Marking refers to the processes and tools used to validate learning and achievement of learning outcomes. The main question to be asked is:
+Do my marking procedures mean that I am at risk of ignoring interactions between students and GenAI and making incorrect attributions of who has done the learning? If yes, consider designing AI in.
+Strategy 5
+Test your assessment/s.
+Use a generative AI tool such as Bing Copilot to test your assessment/s.
+
+Visit Bing Copilot and sign in using your Charles Sturt staff account. On the homepage, choose “sign in with a work or school account” to access the protected version (this is the default setting for Charles Sturt).
+Prompt Copilot to “do” your assessment.
+Mark the generated response/output using your rubric.
+Provide the gen AI tool with feedback on the response/output and incorporate the adjustments gen AI makes to enhance the resilience of your assessment.
+
+Making informed decisions about Generative Artificial Intelligence (GenAI) use in teaching and assessment.
+
+This page outlines the practical considerations that educators need to make when deciding if, when and how to use GenAI in teaching and assessment. These decisions need to be aligned with the Charles Sturt University principles for the use of Artificial Intelligence and consider how the use of GenAI:
+
+is fit for purpose, in terms of helping to deliver on pedagogical goals and the intended learning outcomes of a subject/course and is appropriate to the learning or assessment task, subject matter, the context, and the developmental stage of the learner,
+does not hinder the creativity, critical thinking, and independent thinking skills of students,
+is underpinned by a process of critical and evidence informed review and appraisal by the human educator,
+is underpinned by a plan to support students to become GenAI literate, for example, by providing students with clear guidelines on what is considered acceptable use, benefits and limitations of GenAI, how to acknowledge GenAI use, how to engage ethically and responsibly with GenAI and how unethical use relates to academic integrity and misconduct, and encouraging students to regularly reflect on and their GenAI augmented learning experiences and adapt their approach,
+takes into consideration data security and effectively managing and safeguarding personal information,
+is underpinned by a commitment to the principles of equity and accessibility,
+is underpinned by a commitment to continuous review and improvement of learning and teaching including through engaging in critical self-reflection, undertaking formal monitoring and evaluation, seeking continuous feedback from students, staff, and other stakeholders, and/or engaging in peer review and calibration with others,
+is informed by a commitment to professional upskilling and keeping up with new developments for example, by reading the literature, engaging in dialogue with colleagues, and engaging in targeted professional development (e.g., online courses, seminars, conferences).
+Limitations of GenAI
+As educators engage with GenAI in learning and teaching, they need to be highly cognisant of the limitations of GenAI tools and consequently be able to identify and showcase the value proposition of the ‘human’ educator. The limitations of GenAI to consider:
+
+Ethical and Moral Reasoning
+Teaching ethical, moral, and civic values is a complex aspect of education that relies heavily on human judgment and context. These are areas where GenAI may fall short. In this context, the role of the ‘human’ educator is to provide the contextualisation, mentorship, and role modelling of these ethical, moral, and civic values at the appropriate depth.
+
+An overreliance on GenAI for answers can limit opportunities to develop critical thinking and problem-solving skills and developing the mental process of exploring, understanding, and responding to complex problems. In this context, the role of the ‘human’ educator is to design learning and teaching tasks and experiences that engage students in critical and creative thinking, and problem solving.
+
+While GenAI has enhanced the fidelity of simulated learning environments, it cannot substitute hands-on learning and application of theory into practice in real-world contexts. The role of the ‘human’ educator in these real or virtual learning environments including workplaces, is to expertly guide, coach, observe, assess, and supervise learning including the application of knowledge.
+
+GenAI-generated content may not always align with specific curricular standards or educational objectives, or the depth of explanation or exploration that is required at a particular academic level.  The role of the ‘human’ educator is to provide the alignment and contextualisation and at the appropriate depth to support deep learning.
+
+While GenAI can support personalised learning experiences, it is not adept at understanding the individual student and their cultural context and the diverse backgrounds e.g., their learning needs, emotional states, and any accommodations and adjustments that are required. Understanding the complexity of factors that underpin effective learning is crucial for effective teaching. The role of the ‘human’ educator is to demonstrate understanding of these diverse factors and to deploy context appropriate strategies to maintain focus, motivation, and engagement, and provide mentoring and emotional support that are aligned to the needs of the individual/cohort.
+
+GenAI systems may not be effective in providing nuanced, constructive feedback on student work in all areas equally and support students to develop their feedback literacy (i.e., skills to seek, use and critically evaluate feedback). In this context, the role of the ‘human’ educator is to critically appraise what feedback is needed, when and by whom and deploy appropriate feedback strategies including those that support the development of student feedback literacy.
+
+An overreliance on GenAI-enabled learning may impact on how students learn including self-regulation of learning and lifelong learning. The role of the ‘human’ educator is to implement pedagogically sound strategy and methods that support students to become lifelong learners.
+
+An overreliance on GenAI tools may lead to a dependency that might reduce students' confidence and self-belief in their abilities. The role of the ‘human’ educator is to support students to develop their GenAI literacy, with a specific focus on understanding the strengths and limitations of gen AI tools, the role and value add of the ‘human’ in the human-GenAI relationship, and to regularly reflect on and adjust their approach/interaction with GenAI for learning.
+
+Section 1 - Purpose
+(1)This statement sets out the principles on the use of artificial intelligence (the Charles Sturt University AI Principles) that will guide the ethical and responsible use of artificial intelligence tools at Charles Sturt University (the University).
+
+Scope
+(2)This statement applies to all university staff and students and all members of the University's governing bodies.
+
+Top of Page
+Section 2 - Statement
+Overview
+(3)Artificial intelligence (AI) tools present both opportunities and challenges to higher education. They will significantly impact the way we teach, research, learn and work, and all of the University must proactively ensure these tools are used for the benefit of students, staff and the wider community. It is imperative that we guide the ethical and responsible use of AI at the University. 
+
+(4)The following principles have been collectively developed. Considered in their entirety, they detail the need for a whole of organisation, coordinated approach to the use of AI tools, that includes adequate support for effective engagement, and the acknowledgment that ongoing revisions to these principles will be required to accommodate the rapidly changing AI environment.
+
+Charles Sturt University AI Principles
+(5)The Charles Sturt University AI Principles are:
+
+Human-AI Partnership: Prioritise the development and deployment of human-centred AI systems that augment human capabilities and decision-making, rather than replace them. Encourage the co-evolution of staff, students and AI, where each benefits from, and enriches the other's contributions and where ultimate responsibility rests with humans. 
+Transparency: Clearly communicate the purpose, scope, limitations, and methodologies that underpin AI applications to all. This includes sharing information about data sources and decision-making processes about where, when, and how outputs are being used to ensure staff and students can question, challenge and engage with AI-enabled outcomes.  
+Accountability: Establish clear lines of responsibility for AI applications and their use, including who is responsible for communications, training, development, deployment, review and oversight. AI systems should be auditable and traceable. Implement robust monitoring and reporting mechanisms to track impact. AI-informed functions and decisions must be subject to human review, oversight, and intervention.  
+Privacy and Data Protection: Ensure compliance with data protection laws and safeguard the privacy of individuals whose data is used in AI systems. Anonymise and secure data, and practice data minimisation whenever possible. AI systems must be safe and perform as intended. It is incumbent on the individual to identify that controls exist, otherwise any inputs are in the public domain and uncontrolled.  
+Fairness, Autonomy, and Inclusivity: Ensure equitable access for all staff and students, regardless of abilities or backgrounds, while implementing measures to identify, mitigate (where necessary), and monitor potential biases. The best outcomes from AI will depend on data quality, the use of relevant data and careful data management. The use of AI should not adversely impact social justice, fairness, and impartiality.    
+Education and Skills Development: Cultivate AI literacy and ethical engagement across the university. Provide targeted training for AI learning and embed ethical considerations in AI-related curricula to foster a culture of informed and responsible AI use. The focus should not just be on affordances of the technology but also ensuring clarity of the underpinning processes that are executed by or with AI. 
+Academic Integrity: Set stringent ethical standards for AI in academia and research. Implement clear policies and ethical frameworks to safeguard individual and societal well-being. These must be consistent with the use of AI in University administration and ensure whole of organisation consistency.   
+Ethical Considerations: Formulate and adhere to ethical guidelines that address moral implications of AI, such as potential harm, consent, and the welfare of individuals and communities affected by AI applications.  
+Collaboration: Foster interdisciplinary collaboration to address the ethical, legal, social, and technical challenges of AI. Engage with external stakeholders, such as industry partners, policymakers, accrediting bodies and community members, to share best practices and promote responsible AI use and to ensure inclusive approaches to AI governance.  
+Continuous Improvement and Governance: Regularly assess and evaluate the impact of AI applications on staff, students, communities, and society. Use the findings to update policies, processes, and systems to ensure responsible AI use in universities continues to evolve in line with emerging generative AI and other forms of this technology.  
+Environmental Sustainability: Implement practices to minimise the environmental footprint of AI systems, including energy-efficient algorithms and hardware, and regularly assess the ecological impact of AI operations within the university.
+

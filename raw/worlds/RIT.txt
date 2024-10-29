@@ -1,0 +1,287 @@
+Generative AI is a category of tools backed by an artificial intelligence capable of generating output that is in many cases indistinguishable from content created by humans. The tools generally don't require any specialized knowledge in order to use them. To make these tools, an artificial intelligence is trained on a large amount of data, determines patterns in that data, then generates outputs based on the patterns (and may include programmatical adjustments from the tool's vendor).
+
+Example Tools
+There are many tools available that generate content in a variety of formats including text, images, audio, slides, and code. New tools are being developed all the time, and existing tools are being updated with new features. Below are some examples of AI-generating tools and their focus:
+
+Microsoft Copilot: Generates text or images from text prompts or image prompts. Additional generative capabilities within Microsoft Office are available to certain accounts.
+Google Gemini: Generates text or images from text prompts or image prompts.
+Adobe Firefly: Generates images from text prompts. Generates alterations to images from text prompts or image context.
+Adobe AI Assistant: Generate a summary of a document or ask questions about a document using text prompts.
+Zoom AI Assistant: Generate meeting summaries and other features.
+DALL-E: Generates images from text prompts. 
+Stable Diffusion: Generates images from text prompts.
+ChatGPT: Generates text or images from text prompts or image prompts (depending on the version).
+Claude: Generates text from text prompts.
+GitHub Copilot: Generates code while writing code in popular code editors.
+Learn More
+The following resources can help you start reflecting upon and adapting your teaching approaches and practices in light of quickly developing generative AI capabilities. This guidance will likely change as these technologies, and how we address them, continue to evolve.
+
+GenAI Syllabus Statement Guidance
+Equity, Privacy and Other Concerns With Generative AI
+Course Activities Designed for Authentic Student Work
+Student Activities Using Generative AI
+Using AI to Generate Instructional Materials
+You can also explore RIT's Talent Roadmap for general learning opportunities about generative AI.
+
+Generative Artificial Intelligence (GenAI) technology is incredibly dynamic and constantly evolving. Teaching in the time of GenAI similarly requires agility in our instructional approaches, whether one uses GenAI in the classroom or is seeking to avoid its use altogether. This resource is intended to help faculty begin to address GenAI in RIT course policies and syllabi.
+
+Setting Clear Expectations
+The Center for Teaching and Learning strongly encourages RIT faculty to clearly articulate their expectations for GenAI use in the classroom.
+
+First, it is important to clarify for yourself what the role of GenAI should be in your class, keeping in mind that the landscape will continue to change. In addition to clarifying the role of GenAI in your classroom, it can also be helpful to check with colleagues in your department to see how they are addressing GenAI in their own courses.
+
+Approaches to GenAI course policy and syllabus statement development will vary by program, instructor, course, assessment, and even by individual learning activities. 
+
+While instructors may wish for one singular statement on GenAI for their syllabus, possibly referencing RIT’s academic integrity policy, be aware that a blanket statement prohibiting the use of GenAI can result in an adversarial situation. Instead, faculty may wish to co-create expectations for the use of GenAI with students in order to recognize the potential usefulness of these tools while guiding appropriate use as it relates to the program/course.
+
+In addition to writing a syllabus statement for a specific course, faculty may also consider communicating their expectations for GenAI use within individual assignment instructions, during course discussion, and within learning activities. Clearly communicating your expectations to students can reduce confusion on the role of GenAI in your classroom and promote academic integrity.
+
+Syllabi Examples from RIT Faculty
+If you have questions about AI statements for course syllabi, or would like to share a sample statement of your own, please submit via this form.
+
+Below are example AI statements shared by RIT Faculty. Many examples could be adapted for any domain. Expand each area to view example text.
+
+For this course, students are encouraged to explore the use of generative artificial intelligence tools such as ChatGPT or Gemini for their data analysis and writing assignments. However, it is crucial that any such use must be appropriately acknowledged and cited. Such acknowledgements can be done via in-text citations, quotations, or references in writing assignments, and comments in data analysis submissions or paper discussions. Violations of this policy will be considered as academic misconduct. It is your responsibility to assess the validity of any output generated by AI, and to carefully reflect on how the results can be applied to a given task. In most cases, the output from generative AI can serve as a starting point, but rarely accomplishes the tasks to the level expected in this course. Therefore, thorough modifications are highly recommended when making use of these tools. For the work that you submit, you bear the final responsibility.
+
+
+Much of the work we do in this class involves various processes of pre-writing, brainstorming, collaborative talking through, and free writing. We are encouraged to make use of what comes before. We borrow, from ourselves and others. We give. Writing is a craft but it is also an art. Writing often proceeds by mimicry and learning by doing as others have done. It is messy, and the boundaries between ideas and words, between mine and yours and theirs, is often blurred, on purpose or on accident, and sometimes without our even realizing. And all of that is fine and good and how it is supposed to be. It is also important that when we are cognizant of how we are borrowing and who/what we are borrowing from — whether it is a line of words, a concept, or a claim — we acknowledge the borrowing, not because the laws of intellectual property say so but because writing is inherently collaborative, and the act of engaging in writing for others is an act of building community. This is why when you reference something someone else said — whether the someone else is a published scholar, an amateur podcaster, a classmate, or your instructor — you cite them: name them, acknowledge what you borrowed, welcome them in. Generative AI (such as ChatGPT) is not a source to borrow from. What it does is in the name: it generates content, and the content it generates is based on a flawed and problematic system. When you consent to produce your work by offloading the labor of writing to a generative AI, you outsource the most fundamental capacity of yourself as writer: your thinking. It is, therefore, the expectation of this instructor that you do not generate content for assigned work with prompt-based AI tools such as ChatGPT — except in those instances where it has been explicitly allowed and called for in the assignment. Use of generative AI may be taken as a violation of the college’s Academic Honesty Policy.
+
+
+Technology changes quickly and academic institutions adapt slowly. It is our job to prepare you as well as possible for the future, and that means learning to use new technologies effectively but also responsibly. You are encouraged to try out LLM assistants for your coursework – GitHub Copilot, ChatGPT, Bing, Bard, Claude, GPT-Engineer, Llama, etc. I will do my best to provide guidance on how to use them both effectively and responsibly. In exchange for this open policy, I request your honest evaluations and feedback about how it’s going throughout the semester. For everything you turn in, you are required to include an “Collaboration and Generative AI disclosure” statement on what tools you used and a brief reflection on how they did or did not work with each assignment. There is no grade penalty for using assistive tools. We just want to know how you use them and how well they are working. This semester is going to be an experiment. This policy is subject to change, but always as a result of discussion between instructor and students, never as a surprise or a “gotcha.”
+
+Disclaimer: I will be using ChatGPT (or equivalent) to help develop course materials. I use GitHub Copilot for my own research code. I always carefully examine the outputs. I always take full responsibility for the final result.
+
+
+Generative AI refers to a type of artificial intelligence tools that accept user requests as prompts and generate content accordingly. Such tools include but are not limited to:
+
+Chatbots: OpenAI ChatGPT, Google Gemini, Microsoft Copilot…
+Digital assistants: AI features in Microsoft Windows, Apple Intelligence…
+Large language model-powered code completion tools: GitHub Copilot, JetBrains AI Assistant…
+AI art generators: OpenAI DALL-E, OpenAI Sora, Stable Diffusion…
+When it comes to using generative AI in this course, the rule of thumb is to treat it as if it were a human. In general, you may use generative AI to do anything you are allowed to do with another person, and things you are prohibited from doing with another person cannot be done with generative AI either.
+
+Permitted Actions:
+
+Asking generative AI about a concept in this course per se.
+Prohibited Actions:
+
+Attempting to prompt generative AI to get solutions or reusable code for an assignment or an exam question, including but not limited to adding any amount of assignment instructions and starter code to the prompt.
+Representing any amount of generative AI output as if it were your own work in an assignment or an exam. Neither the verbatim output nor any derivation of it is allowed.
+Having generative AI check any work you submit for grading.
+Our Rationale:
+
+Although the output of generative AI is not created directly by a human, it is not your original work either, so you may not submit it for grading according to the course's Originality of Work requirement per se.
+Although pasting your work into generative AI might not immediately make it available to others, it may be used to train an updated version of the generative AI tool, and then the updated version might incorporate your work into its output to other users. Therefore, entering your work into generative AI could be effectively equivalent to posting it online.
+If we suspect you have committed any prohibited actions listed above, we reserve the right to require you to explain and/or recreate your work in an in-person, one-on-one meeting to verify your ability to create the work independently. While using generative AI, please remember that it might output wrong information, so you should use caution and your own judgment when you process its output. If you have any questions, concerns, or suggestions regarding use of generative AI in this course, please feel free to contact us.
+
+
+As part of this System Administration class, you are allowed and encouraged to utilize Generative AI tools as a resource for completing assignments and gaining a deeper understanding of the course material. These tools can be invaluable in helping you comprehend complex concepts, solve problems, and develop your skills as a future system administrator.
+
+However, it's essential to understand that these resources are not a replacement for your learning and comprehension. Real-world situations often require quick thinking, problem-solving skills, and the ability to work without external aids. Therefore, to accurately assess your understanding and readiness, all quizzes, exams, and the final practical for this course will be conducted without Internet access, meaning you cannot use Generative AI tools or any other online resources during these assessments.
+
+The intention behind this approach is to encourage a balance between leveraging modern tools for learning while also ensuring that you are building a solid foundational understanding of the course material. My goal is to best prepare you for future professional scenarios where you might not always have immediate access to external resources.
+
+As always, it's expected that the work you submit will be your own, even when using AI tools to assist with assignments. Please refer to the department’s academic dishonesty policy for more details on the appropriate use of external resources and the expectations for academic integrity.
+ 
+
+
+Preface: The syllabus statement copied below is from a student-centered, project-based Generative AI course created by the Cybersecurity department. The course aims to introduce cybersecurity students to real-world uses of GenAI in the field through an emphasis on hands-on learning. Students are given the freedom to explore, apply, and critique the use of Generative AI in various cybersecurity tasks inspired by their experiences from prior class work and internships.
+
+"Unlike any other course you may have had, the expectation in this class is that you use Gen AI tools as much as possible. “Cheating,” in this class, may constitute not using enough Gen AI in your work. Please be sure to include your own actual observations and reflections in your self-reflection submissions, though you are also encouraged to use Gen AI to enhance those as well."
+
+Teaching and learning strategies, even AI, have their benefits and potential problems. Below are high-level overviews of some of the concerns regarding generative AI tools. Each item on its own can be a deep topic to explore, which is outside the scope of this article. Luckily, there are a lot of great experts with resources on the internet and otherwise that you can choose to explore.
+
+Accuracy
+Generative AI tools learn from patterns in their training data. Their outputs are generally the prediction of the most likely pattern based on your input. Because these tools don't have an understanding of the material they generate or a sense of true or false, the items they output may not be accurate. The outputs may also be convincing as plausible even though they are inaccurate. Users of generative AI tools still need a base level of understanding of the topics they are using with these tools to help them critically evaluate the outputs.
+
+Bias
+Due to the way that generative AI pulls information and learns, there are several ways in which AI can reinforce or amplify bias. At a basic level, generative AI is a prediction model based on a large set of data. It leverages frequently occurring patterns in that data, and certain patterns will occur less frequently than others because there is less data (e.g. certain populations are not represented at all or are represented less frequently). This can result in things being missing from the results or incorrect assumptions being made. If the tool pulls from sources that exhibit biased assumptions or are not diverse, then the biased result will be reflected in the output.
+
+Privacy
+There is also the potential for privacy concerns with respect to personal data, intellectual property, and copyrighted data. Generative AI is trained on data, and for some tools, the prompts you use are being used by the tool's developer to train the model further. Content you put into the tool may become part of the tool. Once trained, the AI could respond to another user in the future with this information or very similar information, and without attribution to the original owner.
+
+Commercialization
+Some tools are currently in free public beta. As sponsoring organizations look towards monetization, tools may be available only to individuals with the financial means to use the tool. This creates an access issue that you will want to be aware of.
+
+Sustainability
+Generative AI models take a lot of computing power to train and a lot of computing power to run. The energy consumption, water use, and greenhouse gas emissions when developing and using these tools are some of the main topics of conversation in this area.
+
+Students with Disabilities
+Some articles in the higher education press have suggested that assigning in-class, hand-written or oral work is the most effective way to bolster academic integrity within the context of generative AI. However, relying exclusively or excessively on many of the proposed low-tech, time-limited approaches may prevent non-native English speakers, deaf and hard of hearing learners, or students with disabilities requiring laptop access during class and other accommodations from RIT’s Disability Services Office from fully demonstrating their learning.
+
+Redesigning Activities
+Numerous course design and teaching strategies have emerged in response to generative AI. Some strategies include:
+
+Explain the purpose of the activity, and what skills and knowledge the student should gain by doing the work authentically.
+Remind students of your expectations about generative AI use in your course.
+Design activities to focus most on the skills of creating, evaluating, analyzing, and applying their knowledge. Focus less on activities that are about recall.
+Scaffold major assignments to include project proposals/outlines, multiple drafts, annotated bibliographies. Include formative feedback at each stage.
+Focus on research skills, the process of creating, the process of learning, and the expression of original thought.
+Specify the types of source materials students should use, including some that are very specific to the assignment, such as field specific journal articles that require authentication, data collection and analysis when relevant, or client assessment for field assignments. Reiterate citing sources and talk about what makes a quality source.
+Ask students to engage in and submit a reflection about what they have learned from completing the assignment. Sample prompts include: a) Discuss the most challenging and most rewarding aspects of your project. b) What was the most surprising thing you learned in the course of this project? c) If you had the chance to do it again, what one thing would you have done differently on this project?
+Have students work on peer editing and peer commentary as part of the evaluation/writing process, so that they have to comment and make suggestions and respond to other students' writing.
+Building Academic Integrity into Your Course describes other strategies for improving the academic integrity culture in your course and leveraging myCourses Quiz tool settings to promote academic integrity.
+Contact the Center for Teaching and Learning for a consultation on course-specific assignments, course design, and teaching strategies.
+
+Detecting AI Use
+There are several “AI detectors” that purport to tell you whether something has been generated by artificial intelligence. It is important to note that these detectors are often only capable of predicting with some likelihood that something is AI-generated and are often wrong (Review Note about Turnitin AI Detector below). Additionally, AI models are constantly improving and new tools are available all the time, so AI detectors may not be able to keep up with advancements. Furthermore, generative AI is starting to be integrated into many of the everyday tools that students use, so AI-generated content within a file may be so interwoven with human-generated content that it is undetectable. As such, it is important to not rely on these tools for the purposes of your class. Instead, the CTL recommends pursuing the redesign recommendations earlier on this page as well the recommendations about GenAI Syllabus Statement Guidance.
+
+Note about Turnitin AI Detector
+After much discussion and research, RIT has removed the AI detection feature within Turnitin as of May 13, 2024. The following concerns were found with this feature:
+
+Instructors have no way to double check the validity of the results before talking with students. With AI-generated text, there is no proof or record trail to follow; only probabilities of patterns. This is in contrast to the Similarity Check in Turnitin, where instructors can review the matched source and confirm the similarity or not for themselves.
+The students do not see the score, and do not have an RIT-vetted and supported tool to check their own work against an AI detector. This makes the AI detector feel more like a policing tool, not an educational tool because students cannot benefit from knowing details about their paper before the final result. Students may not even know the AI detector was run on their content and may be surprised by the result when approached by an instructor.
+Errors in classification and inconsistent classification create a false sense of being able to monitor students with little benefit to instructors.
+Unlikelihood that AI detectors will ever be able to stay current with the generative AI tools. Standard office and productivity tools we use everyday are adding AI into their tool, therefore making AI use even harder to detect. In addition, the models will get better and more human-like, resulting in it being harder to detect human patterns versus computer patterns.
+The ease of being able to fool an AI detector with prompt engineering and minor modifications to AI-generated text. A dishonest student with a little effort can go undetected.
+Please note that all other features of RIT's Turnitin instance, including Similarity Checking, Draft Coach for Google Docs, and Feedback Studio will remain active.
+
+A good starting point for any activity incorporating AI-generated content would be for the instructor to experiment with the tool in an effort to understand the potential output. 
+
+The use of generative AI can be included at different points during the activity. These are a few possibilities:
+
+Students could use tools to generate a starting point that can be edited and improved
+Students could be tasked with creating a robust prompt by asking the tool questions, and then refining with additional questions
+Students could compare and contrast the information provided through the tool and a traditional literature review
+The activity could be divided into easily assessed and reviewed parts where the tool can be used by the student where applicable
+Students could be encouraged to identify what prompts were made and consider how these might be enhanced
+Remind students to verify the accuracy of the output provided by the generative AI tool, and provide citations to other credible resources as necessary to support the information the tool provides. Generative AI tools will sometimes provide false information and even false citations.
+
+Students should also demonstrate their responsible use of AI by disclosing and citing their use as appropriate based on the expectations you have set in your course. The RIT Libraries provides an InfoGuide on How to Cite Generative AI Tools in MLA, APA, and Chicago Style.
+
+For other considerations while using generative AI, review the page on generative AI from the RIT Information Security Office.
+
+Contact the Center for Teaching and Learning to discuss course and assignment design using generative AI.
+
+This page was guest-written by Phil Shaw, Senior Lecturer, University Writing Program, and CTL Faculty Fellow for Student Success in Gateway Courses.
+
+Our understanding and use of Generative AI programs like ChatGPT, Microsoft Copilot, Midjourney, and an increasing number of free and subscription tools has expanded significantly since December 2022. At that time, faculty questions about this new, suddenly available technology came from a place of genuine surprise and apprehension. What is this? How will students use it? How will I recognize the difference between student work and what has been created using GenAI? Those questions are still relevant, especially as access to this technology continues to expand.
+
+RIT has yet to establish university-wide academic integrity guidelines for the use of generative AI in coursework, leaving pedagogical and assessment questions up to departments and individual instructors. For this article, we are focused on our RIT context of First-year Writing (FYW) and Writing-Intensive (WI) instructors who are interested in exploring theoretical frameworks for the use of generative AI In their classrooms. Those of us in the Center for Teaching and Learning believe that the use of these tools in classrooms is not simply an inevitably to be addressed but rather an opportunity to explore the possibilities of the technology while being mindful of risks to academic integrity, intellectual property, and student learning outcomes.
+
+Questions about the implementation of generative AI tools in specific courses can be directed to the Center for Teaching and Learning (CTL) at ctl@rit.edu, and consultation requests can be made to meet with a CTL Teaching Consultant or Faculty Fellow.
+
+The following three theoretical frameworks and considerations are curated to reflect some of the relevant contexts of writing-intensive courses at RIT. These frameworks were chosen because they can be incorporated into existing curricula but ought to be explicitly presented to students as they work with GenAI as a part of their writing process.
+
+Framework #1: Kleiman’s SPACE
+“The Embrace AI Tools approach recognizes the strengths and limitations of AI tools and prepares students to use them effectively. This approach may lead to less attention placed on students mastering basic skills like sentence structure, grammar, spelling, and punctuation, allowing students to rely on help from AI for those. It will focus more on students learning to express themselves through developing their own voices; becoming skilled at communicating with different audiences; deepening their appreciation of literature, poetry, non-fiction, and other writing genres; and using writing to further their learning and thinking.”
+
+Kleiman suggests having students do the following steps during the writing process:
+
+“Set directions for the goals, content, and audience that can be communicated to the AI system. This may, for example, involve writing introductory materials for the overall text and for each section. It could also involve writing much of the text and leaving some sections for AI to complete.
+Prompt the AI to produce the specific outputs needed. A prompt gives the AI its specific task, and often there will be separate prompts for each section of text. An AI tool can also be prompted to suggest sentences or paragraphs to be embedded in text that is mostly written by the human author.
+Assess the AI output to validate the information for accuracy, completeness, bias, and writing quality. The results of assessing the generated text will often lead to revising the directions and prompts and having the AI tool generate alternative versions of the text to be used in the next step.
+Curate the AI-generated text to select what to use and organize it coherently, often working from multiple alternative versions generated by AI along with human written materials.
+Edit the combined human and AI contributions to the text to produce a well-written document.”
+Framework #2: Dobrin’s Four Considerations
+Dobrin proposes four ways to think about writing instruction in an age of generative AI (GenAI):
+
+1. GenAI for Invention
+“Can we find ways to use GenAI to help students develop their own avenues into a conversation?” (Dobrin, 2023, p. 21). Early in the writing and research process, GenAI can be used to develop and refine research questions, insider search terminology, survey and interview questions for primary research, and background information on a topic area. Encouraging students to prompt AI during the initial stages of a long-term project can be an efficient and effective tool for entering an academic conversation.
+
+2. GenAI for Revision
+In a relatively short period of time, GenAI can offer specific feedback to students. That level of specificity is reliant on the students ability to prompt the GenAI effectively, so this is an approach best introduced in a structured classroom setting. As part of a peer review process, it can also encourage collaborative discussion about the uses and limits of the GenAI feedback.
+
+3. GenAI for Critical Thinking
+“One of the most prevalent critiques of GenAI in education has been the claim that GenAI will generate a new degree of laziness among students; that if GenAI platforms can do the work for them, students won’t take the time to think about the materials and assignments they’ve been given” (Dobrin, 2023, p. 21). This critique is mostly true only in the absence of explicit discussion and use of GenAI in the classroom. If writing instructors use GenAI’s output as a starting point for discussion, critique, and revision, students’ critical thinking about their writing can be assisted rather than supplanted.
+
+4. GenAI for Research
+The accuracy of GenAI’s analyses of information is increasing, especially with access to web-enabled iterations like ChatGPT 4 and Copilot. Primary research uses of GenAI can include thematic transcript analysis and the development of interview or survey questions. For secondary research, search terminology and learning the discourse of subject areas can be valuable and tailored to specific student inquiry areas.
+
+Framework #3: Harvard’s High-Level Principles
+Harvard's Derek Bok Center for Teaching and Learning provides the following strategies for encouraging students to do their work authentically to align with the intended outcomes of your learning objectives:
+
+1. "Talk directly and specifically with students about how your assignments are meant to work. Our students are not, by and large, looking for opportunities to cheat or take shortcuts. The vast majority, in fact, are just as concerned to determine the ethical and responsible use of AI as are their instructors. The primary challenge posed by generative AI is not that, in making cheating easy it will, therefore, make it rampant, but rather that its utility will blur the lines for even our most scrupulous students between seeking help or brainstorming ideas, on the one hand, and soliciting an unacceptable degree of assistance, on the other.”
+
+2. “Disaggregate process from product, and render it visible. Now more than ever, we would encourage instructors to ask students to share early stages of their research and writing, in the form of preliminary assignments like project proposals, lists of analytical questions, annotated bibliographies, brief source analysis exercises, draft introductions, etc. Asking students to share their work in progress makes it considerably harder, not to mention less appealing, for students to outsource their thinking and writing to a large language model, as it would require them to forge, convincingly, not one but multiple phases of thinking and drafting.”
+
+3. “Create opportunities for students to reflect on/talk about their work. So long as students imagine that they are submitting their final written work to a single reader (i.e. the instructor), and that said reader will never ask them to elaborate on, defend, or recapitulate their ideas in further conversation, leaning on generative AI might seem like a relatively safe (even victimless) indiscretion. If, however, students realize that they may have many readers—and, moreover, that those readers will ask them many questions about their writing [...] the value proposition of outsourcing all of those decisions to a large language model that won’t be able to help them respond to their readers in the moment becomes much less appealing.”
+
+Conclusion
+Whether you encourage the use of AI in writing-intensive courses is a matter of pedagogical choice, and there are some good reasons for being wary of the uncritical adoption of this new GenAI technology. The use of detection software to catch “cheating” is not a foolproof method to keep AI out of the classroom, and banning it outright might, unfortunately, encourage students’ non-transparent use. Partnering with students who are interested in making GenAI part of their research and writing process fosters collaboration and critical thinking about how this new tool changes our values and expectations around writing. But don’t assume that they will know how to use the technology without support and guidance. “In so far as you want to allow, or even encourage, your students to make use of AI to enhance their written work, you’ll want to make sure that they all have equal access to the most useful platform(s), and a fair chance to develop the requisite amount of proficiency in what is now called prompt engineering” (Harvard University, 2023, p. 9).
+
+
+Many instructors have used AI to generate instructional materials including varied examples, multiple explanations, low stakes testing content, summarize key themes in a course, rubric ideas, and more. Mollick and Mollick provide example AI prompts for the material types above and more strategies in their paper "Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts".
+
+However, we encourage you to take caution with pasting student work or copyrighted materials into AI tools without the author's express consent. Many of the AI tools train on data inputs so the author's intellectual property may become part of the AI model without the author's consent. For details on United States copyright laws for instructors and students, review Fair Use and Copyright.
+
+Also, it is important to scrutinize the output of the generative AI tool for accuracy prior to using the output. The tools may provide false information. Just like with student use, instructors should provide citations to other credible resources as necessary to support the information generated by the tool.
+
+Instructors should also demonstrate responsible use of generative AI to their students by disclosing and citing their own use of generative AI. The RIT Libraries provides an InfoGuide on How to Cite Generative AI Tools in MLA, APA, and Chicago Style.
+
+For other considerations while using generative AI, review the page on generative AI from the RIT Information Security Office.
+
+Contact the Center for Teaching and Learning to discuss course design using generative AI.
+
+Instructions and Examples
+Coming Soon!Avoid Sharing Private or Confidential Information
+
+Refrain from providing sensitive data such as student records, financial details, personal identifiable information (PII), intellectual property, or any other confidential material to AI systems.
+
+Understand the Risks
+
+Here’s why it’s dangerous to input sensitive information into AI:
+
+Data Breach Vulnerability: AI systems are susceptible to breaches and cyberattacks, potentially compromising confidential information stored within their databases.
+Privacy Concerns: Sharing sensitive data with AI may violate privacy regulations, exposing the university and individuals to legal repercussions.
+Ethical Considerations: Preserving the confidentiality of students' and faculty members' information is essential to maintain trust within the university community.
+Potential Misuse: Confidential data shared with AI could be misused or accessed by unauthorized entities, leading to unforeseen consequences.
+For more details on different classifications of information at RIT please refer to RIT’s Information Handling Matrix. (Anyone who handles private or confidential information is required to take the Information Handling Training.)
+
+Do's & Don'ts when using GenAI
+Do take time to understand the risks associated with GenAI technologies.
+Do take time to understand the limitations and biases embedded in GenAI tools.
+Do familiarize yourself with data protection laws (HIPAA, FERPA, etc.) to ensure you remain compliant when using GenAI tools.
+Do be cautious when paying for a GenAI tool to help ensure you are not being scammed.
+Do stick to using reputable AI sources (OpenAI, Google, Microsoft, Amazon).
+Do report any suspicious activity or potential breaches immediately to the RIT Service Center at 585-475-5000 or help.rit.edu.
+Don’t share sensitive or private information (student records, financial records, PII, etc.) with GenAI tools– unless pre-approved with RIT.
+Don’t rely solely on GenAI tools to complete tasks, answer questions, or generate any type of content.
+Do verify that the information provided through GenAI is accurate.
+As we explore these new technologies and their capabilities, let’s remain aware of our data security and handling responsibilities. RIT supports the responsible use of AI services, and we encourage our students, faculty and staff to do the same. Let’s move forward together, responsibly and securely.
+
+AI Safety and Security Advisory Committee (AISSAC)
+RIT has chartered an Artificial Intelligence Safety and Security Advisory Committee (AISSAC) to examine safety and security risks associated with deployment and operationalization of Generative artificial intelligence (GenAI) technologies. This cross-functional committee will identify and prioritize risks associated with these new AI technologies. AISSAC will provide recommendations on mitigating these risks to ensure the safety and security of RIT data, operations, and the RIT community. For more information, please contact infosec@rit.edu
+
+Recognizing the sometimes complicated world of fair use and copyright, Digital Scholarship offers resources and advice on the considerations involved with disseminating and protecting your work. We strive to stay current with the changes within the field to better advise and assist you in making informed decisions about how you choose to share your work with the world. 
+
+RIT Libraries takes multiple approaches to the application and understanding of US Copyright Law. This includes pedagogical, theoretical, and practical uses of copyright and Fair Use. The Digital Scholarship department focuses on the application of copyright in regard to sharing faculty research and using copyrighted materials in digital projects. 
+
+Digital Projects Copyright Policy
+
+As per United States Copyright Law, the RIT Libraries is authorized to provide reproductions of copyright-protected works for the use of private study, scholarship, or research. For uses beyond this, written permission from the copyright holder(s) is required. Usage that requires copyright permission includes reproduction, distribution, publication, public performance, and public display. This includes publication and distribution via print or electronic mediums. It is the user’s responsibility to:
+
+obtain written permission from the copyright holder(s), or
+determine if Fair Use applies, or
+determine if the work has passed into the public domain.
+RIT Libraries does not accept any responsibility for copyright violations and the user assumes sole risk of copyright infringement. 
+
+In order to proceed with digital projects with RIT Libraries, please sign the below form to indicate understanding of this policy and send to Frances Andreu. 
+
+
+Fair Use
+
+Fair Use, as defined in Section 107 of US Copyright Act, is a legal doctrine that allows for limited use of copyright-protected materials without first obtaining permission from the copyright owner, or paying licensing fees, such as for the purposes of "criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research."
+
+The factors considered when determining Fair Use are: 
+
+the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes
+the nature of the copyrighted work;
+the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
+the effect of the use upon the potential market for or value of the copyrighted work.
+While it is important to consider how the intended use of a copyrighted work fits into these factors, they very much rely on the context of each individual case. There are no specific rules that state whether a certain usage counts as Fair Use or not (for example, "using only 20%" of a copyrighted work). This can only be definitively proven in a court of law. The most that can be done is to perform a Fair Use analysis and to document the findings of that analysis. To assist in this process, please see the below form: 
+
+
+Note that this does not count as a legal document and completion of this form does not guarantee Fair Use. 
+
+Self-Archiving and Copyright 
+
+When publishing scholarly articles and other work, copyright is often transferred to the publisher. While this limits an author’s ability to post the final product online, many publishers have what is known as a “self-archiving” policy, which refers to uploading a version of the work to the author’s own website, an institutional repository, or a pre-print server. Typically, this will not be the final, published version of the paper, but an earlier draft such as the pre-print (pre-peer review) or the post-print (post-peer review). 
+
+The SHERPA/RoMEO database is an easy way to search the self-archiving policies of a number of publishers. Publishers may also list this on their websites or in the publication agreement. 
+
+Copyright Resources
+
+Copyright Term and the Public Domain in the United States: Helpful starting point for determining if a work is in the public domain
+University Copyright Policy: Official Copyright Policy of the Rochester Institute of Technology
+If you have additional questions or want to set up a consultation, contact Frances Andreu.

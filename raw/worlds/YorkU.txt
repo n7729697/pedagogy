@@ -1,0 +1,226 @@
+WHAT IS IT?
+“Generative artificial intelligence (AI) refers to a class of machine learning models that can create new
+data similar to the training data it has been given. These models are capable of identifying patterns and
+relationships in large datasets, and using that knowledge to generate new data that resembles the
+original training data.” (Definition provided by ChatGPT). Note: this definition of “generative AI” was
+created by an AI technology as a demonstration of precisely how effective and realistic artificially
+generated material can be!
+WHY IS THIS IMPORTANT?
+Although the popular discussion surrounding the use of generative AI tends to focus on the potential for
+AI tools to make acts of plagiarism and academic misconduct easier, emerging AI technologies can be
+used as a tool to support pedagogical practices in the classroom and to support student learning. For
+example, text generators, such as ChatGPT, can generate written content in response to prompts or
+questions inputted by the users; image generators, such as DALL-E, can generate visuals and other
+images, such as paintings, drawings, and charts, in response to key terms suggested by the user; and
+audio generators, such as text-to-speech, can produce spoken content and provide students with a
+different mode of presentation of course content (which also is beneficial for supporting accessibility).
+Given that AI technologies will improve over time in terms of the sophistication of the material they can
+help produce, and given that these technologies are here to stay, they will invariably shape the work
+environments our students graduate into. As a result, not only do educators have a responsibility to help
+prepare students to be informed, critical, and effective users of these tools, but educators can also use
+these tools in creative ways to help transform the learning experience for students in numerous ways.
+HOW CAN INSTRUCTORS IMPLEMENT GENERATIVE AI TECHNOLOGIES IN THEIR TEACHING?
+For instructors who are interested in implementing generative AI technologies to support student
+learning in the classroom, consider the following suggestions:
+1. Incorporate generative AI technologies as teaching strategies. For instance, instructors can ask
+ChatGPT a question during lectures and students can work in pairs or small groups to evaluate
+and assess the generated response. Similarly, you can ask students to come up with their own
+questions for ChatGPT based the course readings to allow them to engage with the course
+content more directly.
+2. Use generative AI technologies to assist with curriculum design. Generative AI technologies
+such as ChatGPT can aide instructors with designing essay prompts or study questions for
+exams, creating detailed summaries of key concepts, or creating case studies to give students a
+chance to apply their understanding of core course content..
+3. Implement generative AI technology to develop students’ critical thinking skills. AI technology
+is not perfect, and there are occasions where it will provide factually incorrect information,
+fabricate facts and sources, and speak with authority on a given topic in response to the
+prompts it receives from the user. To help students to reflect more critically on the information
+hey are learning, provide ChatGPT with deliberately wrong information about a topic or
+concept, and have students apply their knowledge of course content to demonstrate the
+inaccuracies of the AI-generated response.
+4. Use generative AI technology to support accessibility in teaching. For example, ESL students
+could use text-to-speech tools, as well as translation tools, to communicate their ideas without
+limitations and can use ChatGPT to correct the grammar and syntax to help learners learn
+course content with greater ease. Similarly, generative AI can help instructors with the creation
+of Alt-Text (alternative text) to make their content more accessible to students with e-readers
+and other assistive technology devices.
+5. Ensure transparency and promote academic integrity. In accordance with the York University
+Senate policy, if you wish to permit the use of generative AI technologies by your students in the
+classroom or in the partial creation of their assignments, clearly and explicitly communicate this
+information to them. This can be included in your course syllabus, in your assignment
+instructions, and instructors/TAs can verbalize these allowances to students in the classroom
+throughout the semester. If students do not feel comfortable using this technology (e.g. privacy
+concerns), provide alternatives to ensure that no student is excluded from the course.
+
+As an instructor, anticipate that students will be curious about these tools and that they require clear direction about whether they are permitted to use them for academic work within your course. As such, instructors are encouraged to engage students in an open discussion on AI-based tools, and how these intersect with academic integrity.  
+
+  
+
+Institutional Expectations
+When talking to students, let them know about institutional expectations. The Senate Academic Conduct Policy and Procedure, (effective September 1, 2024) includes information on how the use of AI-based tools relates to academic integrity. Specifically:
+
+If students use “an undocumented or unreferenced content generator” (including the use of text-, image-, code-, or video-generating artificial intelligence), this would be considered a breach of academic conduct (section 5.2a, i).
+Additionally, if students receive assistance from these tools that is not authorized by their instructors, this would also be considered to be a breach of academic conduct (section 5.2a, ii).
+Furthermore, specific responsibilities for both instructors and students are identified under “Roles and Responsibilities” in the Academic Conduct Policy and Procedure (section 6):
+
+Students are responsible for following their instructors’ expectations for using AI tools, and are also required to acknowledge use of these tools. If they are unsure of expectations, students should seek clarification (section 6.2c)
+Instructors are responsible communicating with students and supporting them in following their expectations on the use of AI tools (section 6.3b)
+Instructor Expectations
+Expectations on the use of AI-based tools may vary between instructors. To support students in following your expectations:
+
+Be very clear about your expectations, and explicit when providing assignment instructions
+To help reduce confusion, ensure these expectations are communicated in various ways, such as including them in eClass, within course syllabi, instruction guidelines and repeated in class 
+Explain how different instructors can have different expectations for GenAI use, and if it is permitted by one instructor, this does not mean it will be permitted by others
+Provide citation resources to students and explain that AI output needs to be cited whenever students paraphrase, use direct quotations, or when they incorporate information they’ve sourced from using the tool. You can direct them to these resources from York University Libraries:
+SPARK Creating Bibliographies module
+Libraries’ Citing Your Work: Artificial Intelligence (AI) Tools
+Like the technology itself, citation guidelines on AI tools are evolving. You can direct students to the Libraries’ APA, MLA and Chicago (Author/Date and Notes & Bibliography) Style Overviews for specific instructions
+Encourage students to ask you questions about GenAI and let them know how you prefer to be contacted
+
+Student Discussion Topics 
+Hold discussions with students to learn about their perspectives and concerns about this technology. Some guiding questions could include:
+
+What are some ways that you can use these tools in ways that support your learning  in this course? 
+When do you think it’s use should be considered cheating?
+What concerns do you have about students using AI-based tools in this course? In your program? In general? 
+Alternatively, you can survey your students by using these survey questions to stimulate conversation about GenAI, or use the questions in an anonymous survey to better understand their thinking.
+
+Finally, consider providing a forum where students can connect by including an artificial intelligence discussion thread so they can share information, ask questions, post articles, etc. 
+
+Co-Create Class Guidelines with Students
+Consider co-creating class guidelines/a charter with your students regarding the use of GenAI in your courses.
+
+
+To do so, you can discuss some of the issues involved and explain that using AI-based tools should align with ways that support learning and in ways that uphold academic integrity.
+
+Some commitments that the learning community could uphold include: 
+
+Equity and Inclusivity: using only free and publicly available tools; evaluating AI-generated content for any bias or discriminatory language
+Transparency: being honest about GenAI use; citing and/or documenting its use
+Original work: ensuring submitted work is the student’s own original work and not copied from an AI generator
+Responsible: using tools in ways that support student learning, not undermine it; Understanding the ethical implications of using these tools; protecting personal information
+
+GenAI technology has created a need to revise assessment practices, and at the same time it offers some new possibilities for in-class learning. Assessments can be redesigned so that students are not submitting work that AI tools can easily produce. Some ideas for redesigning assessments are listed below.  
+
+Expand/Replace Assessments
+Consider expanding or replacing written assessments to:
+
+focus more on the process of the writing assignment rather than on the final product 
+have students emphasize evidence of original thought and critical thinking as AI tools have been shown to be weak at demonstrating these higher-order skills
+ask students to use current sources (post-September 2021)  
+ask students to apply personal experience or personal knowledge to course topics 
+create assessment questions that are based on the context of classroom discussion
+or, replace a written assessment with a multimodal one 
+You may also want to update your grading criteria or rubrics to emphasize assessment of deeper discipline-specific skills such as argumentation, use of evidence, or interpretive analysis, rather than the mechanics of writing and essay organization. This can help re-weight your assessments in favour of student learning and away from skills easily performed by AI tools.
+
+Integrate Generative AI Technology
+Some ways that students can use technology like ChatGPT to apply higher-order skills are to:  
+
+generate a ChatGPT response to a particular question, and then write an analysis of the strengths and weaknesses of the ChatGPT response 
+fact-check the responses that ChatGPT provides to identify incorrect information 
+generate a paper from ChatGPT and evaluate its logic, consistency, accuracy and bias, including any stereotypes it may reinforce
+use ChatGPT to create an outline that students can then use to develop an essay
+Note: If using the above strategies, be mindful of potential accessibility and equity issues that may arise when shifting assessment modalities.
+Communicating Course Expectations through Syllabus Statements
+To select the appropriate statements for your courses, consider if/how you would like students to use AI tools for their assessments (e.g., no use permitted, use permitted for some assessments, or use permitted with all assessments).
+
+Visit the Academic Integrity Syllabus Statements page for different statement options that you can use in your course syllabi or that you can post onto eClass to clarify your expectations about the use of AI tools to your students. Additionally, you can use these statements for discussion with students throughout the term.
+
+If students are to use AI tools for some or all assessments, consider how students should be transparent about the use of these tools. For instance you could ask students to:
+
+cite any AI-generated material ​
+only use GenAI tools at preliminary stages (e.g., brainstorm assignment ideas​, produce an outline, etc.)
+fact-check all GenAI output
+evaluate AI-generated content
+submit an appendix that specifies:
+which tool was used
+how this tool was used (e.g., to generate ideas, research, explain concepts, summarize)
+how the output was integrated into submitted work
+what was learned through interacting with the AI tool
+Requiring Students to Provide Further Information: Using Checklists
+To ensure transparency in students’ use of these tools, consider asking them to provide details on how they utilized the tool for each assessment or activity. Some examples of the information they could provide includes:
+
+Identifying the tool and how they used it;
+Indicating the ways in which they used the tool responsibly/appropriately;
+Disclosing how they evaluated AI-generated output;
+Specifying how they integrated AI-generated output into their own work;
+Documenting what they learned through using an AI-based tool(s)
+
+Template forms that you can use with students are provided below. In order to simplify the process of providing this information, each form consists of different checklists where students can simply check off relevant items.
+
+You can use any or all of these three forms, and change them to suit your discipline, students and/or assessments.
+
+Form	Description
+1. Declaration of AI-Based Tool Usage (.docx format)
+
+Declaration of AI-Based Tool Usage (PDF format)	This form asks students to identify the tool they used and to communicate the way(s) in which they used it to aid in their learning.
+2. Appropriate Use Statement (.docx format)
+
+Appropriate Use Statement (PDF format)	This form asks students to review the steps involved in using AI tools appropriately to ensure that the work they submit is aligned with these expectations.
+3. AI-Based Tools: Evaluation and Reflection (.docx format)
+
+AI-Based Tools: Evaluation and Reflection (PDF format)
+This form guides students in fact-checking and critically evaluating AI-generated output while encouraging reflection on what they have learned through their interactions with these tools.
+Communicating Assessment Expectations through the AI Assessment Scale (AIAS)
+To enhance clarity and promote responsible use of Generative AI, the AI Assessment Scale (AIAS) framework was created for educators and students who may have limited familiarity with these tools.
+
+The AIAS framework includes five levels, ranging from “no AI” to “full AI,” each with brief examples, that can be applied across various disciplines. Consider incorporating these guidelines into your assessments to clearly and concisely communicate your expectations regarding the use of AI-based tools. A pilot study indicated that implementing this tool resulted in a reduction in academic misconduct cases involving GenAI.
+
+Beyond formal assessments, GenAI tools can also be used in ungraded or low-stakes learning activities during class time. Bringing this technology into lectures or discussions can help students understand how and when to use AI technology effectively and responsibly, and in ways that align with the norms and standards of your disciplinary context. Some learning activities you might consider include:
+
+Using GenAI text as the starting point for class discussion on a particular topic.
+What does it get right?
+What is it missing? 
+How would it need to be revised to meet the scholarly standards of your field?
+Having small teams of students experiment in using GenAI to create text about a given subject, and then comparing the results (what grade would they assign its response using a course rubric?) and/or the process (what prompts and tweaks were needed to generate the text?)
+Engaging in a class debate against GenAI. Use the tool to generate counterarguments that can help students explore perspectives and strengthen their own arguments
+Asking your students! Gather anonymous feedback about whether they are using the tool, what value it provides them, and how they think it should be used in your disciplinary or teaching context.
+
+While numerous detection tools are now available, none have been proven to definitively identify AI-generated content. To date, these detectors have shown to be unreliable, often producing both false positives and false negatives. Many have not been fully tested, and are not able to keep pace with the evolving nature of the technology. Additionally, there are significant privacy concerns, as most detection tools require you to copy and paste student work into their systems, raising issues of data security and confidentiality.
+
+To detect AI-generated content without the use of a detection tool, you can keep in mind the limitations of generative AI tools (e.g., misinformation, fabricated references, lack of in-depth information, among others). By familiarizing yourself with these shortcomings, you can more effectively assess the authenticity of student work. Additionally, by leveraging your subject matter expertise and judgment, you can identify discrepancies and evaluate the authenticity of submitted work more accurately than automated detectors allow.
+
+If the unauthorized use of generative AI is suspected, instructors should follow the process outlined in Senate Academic Conduct Policy and Procedure (effective September 1, 2024). For assistance on detection, contact academicintegrity@yorku.ca.
+
+This section includes a compilation of the resources included in the preceding sections. These resources aim to provide help with clarifying instructor expectations and promoting transparency and responsible use of AI-based tools among students.
+
+Citing GenAI: Guidelines for Students
+
+When using an AI-based tool, students need to provide citations whenever they paraphrase the output, use direct quotations from the output, or when they incorporate information they’ve sourced from using the tool.
+
+For more information about citing the use of GenAI, you can connect students to:
+
+SPARK Creating Bibliographies module
+Libraries’ Citing Your Work: Artificial Intelligence (AI) Tools
+Like the technology itself, citation guidelines on AI tools are evolving. You can direct students to the Libraries’ APA, MLA and Chicago (Author/Date and Notes & Bibliography) Style Overviews for specific instructions
+
+Academic Integrity Syllabus Statements
+Academic Integrity Syllabus Statements contains different options that you can use in your course syllabi, or post onto eClass to clarify your expectations about the use of GenAI to your students.
+
+To select the appropriate statements for your courses, consider if/how you would like students to use GenAI for their assessments.
+
+Additionally, consider incorporating learning outcomes that specifically address the use of GenAI. For examples of learning outcomes that target GenAI in particular and academic integrity more broadly, refer to Academic Integrity in the Learning Environment.
+
+Survey Students about GenAI Use
+The Questions for Students about GenAI page contains questions that could be used to learn about how students are using AI tools and their thoughts on using these tools.
+
+Options:
+use these questions in an anonymous survey to better understand students’ perceptions
+use the questions in in-class discussions to stimulate conversation with your students about AI tools
+You can find additional discussion questions to explore the topic of academic integrity with your students within Academic Integrity in the Learning Environment.
+
+
+Using Forms to Obtain Further Information about How Students Used AI-Based Tools
+For more information, refer to the Communicating Expectations on GenAI Use section (above)
+
+Form	Description
+1. Declaration of AI-Based Tool Usage (.docx format)
+
+Declaration of AI-Based Tool Usage (PDF format)	This form asks students to identify the tool they used and to communicate the way(s) in which they used it to aid in their learning.
+2. Appropriate Use Statement (.docx format)
+
+Appropriate Use Statement (PDF format)	This form asks students to review the steps involved in using AI tools appropriately to ensure that the work they submit is aligned with these expectations.
+3. AI-Based Tools: Evaluation and Reflection (.docx format)
+
+AI-Based Tools: Evaluation and Reflection (PDF format)
+This form guides students in fact-checking and critically evaluating AI-generated output while encouraging reflection on what they have learned through their interactions with these tools.

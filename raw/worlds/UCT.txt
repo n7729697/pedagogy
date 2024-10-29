@@ -1,0 +1,1460 @@
+The availability and uptake of generative Artificial Intelligence (AI) tools such as ChatGPT is impacting on the ways in which staff and students in universities teach, learn and assess. There are both risks and opportunities for an educational future shaped by the availability of AI tools, and both staff and students need to be aware of these in the context of the field of study and teaching of their discipline. The technologies themselves are rapidly evolving but there is an emerging consensus that students and staff need to develop ways of ethically using these technologies, be aware of the constraints and limitations but also the potential for innovation and enhancement in teaching and learning.
+
+In response to teaching staff questions and as a way of keeping abreast of developments and issues, we have developed a series of guides for both staff and students.
+
+AI Resource Guides
+These guides are regularly updated to keep up with the fast-changing AI landscape. Written during May-July 2023, they aim to provide current information and will be continuously refreshed to include significant developments.
+
+Staff Guide: Assessment and academic integrity in the age of AI
+Bitly Link: https://bit.ly/3MtP0IV
+
+Discover our staff guide addressing the challenges surrounding assessments in light of the widespread accessibility of generative artificial intelligence tools. This guide delves into various issues and offers practical strategies, approaches, and recommended tools to safeguard academic integrity. Stay informed and learn how to effectively mitigate the potential threats posed by AI tools in the assessment process.
+Staff Guide: Teaching and learning with AI tools
+Bitly Link: https://bit.ly/3NLL5ZD
+
+Explore our comprehensive guide on the uses of generative AI tools like ChatGPT in teaching and learning. Discover potential applications, examine ethical concerns, and access additional resources. 
+
+Student Guide: Using ChatGPT and other AI tools in education
+Bitly Link: https://bit.ly/3XqrsLm
+
+Explore our comprehensive guide on the uses of generative AI tools like ChatGPT in teaching and learning. Discover potential applications, examine ethical concerns, and access additional resources.
+
+AI Tools in Education working group
+The Online Education Sub-committee has established a UCT Working Group on AI Tools in Education. Reporting to the DVC Teaching and Learning the group aims to bring together cross-institutional and faculty perspectives to develop and shape institutional responses.
+
+Supported by CILT, current activities include:  
+
+Awareness raising and communications: Regular engagement sessions with faculty and departments are being offered to enhance understanding of AI technologies and their potential impact on education and in particular assessment. A regular monthly email update of key developments in the space is planned. 
+Training/Workshops for teaching with AI: We are developing a series of workshops for educators to understand, teach with, and teach about AI tools. This includes the effective usage of AI tools for pedagogical purposes and the implications on assessments. 
+AI Literacy: A core goal is to promote AI literacy among students and staff. There is potential for reviewing the incorporation of AI-focused modules in curricula. 
+Assessment and Academic Integrity: We will need to review our forthcoming academic misconduct policy and current plagiarism guidelines in light of AI advancements. The use of AI detectors, like TurnitIn, are being tested to inform ethical use. 
+Testing of Tools: We are broadening our range of tested AI tools beyond ChatGPT to include generative graphic and media AI tools. The focus remains on understanding the capabilities and limitations of these tools for teaching and learning. 
+Data Collection: We are collecting practices and examples of AI use in teaching and learning via a form. These findings will be disseminated to promote effective practices and be incorporated into future guides. 
+Governance: Recommendations are being formulated to be presented to the Senate Teaching and Learning Committee later in 2023. We will need to ensure alignment with other policies. 
+Student Support: AI technologies offer potential for personalised 'tutoring' and customised learning pathways. We will explore these possibilities in conjunction with learning analytics.
+ Please contact the Chair Sukaina Walji for more information or if you would like to join the working group.
+
+AI tools such as ChatGPT have sparked vigorous debates about assessments at universities. There are concerns around plagiarism and cheating as well as questions when it is appropriate for students to use AI. There have been calls for changes in the ways assessments are conceived, while others propose a return to paper-based only assessment strategies. Although AI tools have been on the horizon, access to ChatGPT compelled educational institutions to develop responses. How we respond will vary, so this guide presents a range of suggestions.
+
+ChatGPT, which stands for Chat Generative Pre-Trained Transformer uses neural transformer networks to generate text. It and otherAI tools such as Gemini and Copilot are built on a category of AI tools known as ‘Large Language Models’ (LLM). These can perform various natural language processing tasks, such as, generate and classify text, provide answers to questions in a conversational style and translate texts from one language to another. These types of tools are commonly known as ‘generative AI’ which distinguishes them from other types of AI, already widely used in education (eg. writing aids such as Grammarly or Quillbot). The use of generative AI, such as ChatGPT requires the user to insert a language prompt. ChatGPT then splits out the words and makes a prediction of the best answer to the prompt based on the information it was trained on.
+
+AI tools like these might help to minimize some repetitive or administrative tasks. However, these tools can still pose risks of giving inaccurate information or producing a low-quality output. This despite the very confident way results are presented. 
+
+Students have responded to these easy-to-access, powerful capabilities by using the tools for assessments, raising concerns about academic integrity. While the AI landscape and its effects on higher education are still being unpacked, there are attempts to circumvent the use of AI, such as by returning to more personal, handwritten and invigilated in-person exams.
+
+There have also been calls for adapting some assessments so that they discourage the use of AI. For example, if assessments involve a relatively simple fact recall that generative AI can respond to,  there may be enhanced ways to assess which can reduce tools like ChatGPT’s capacity to generate plausible answers. For instance, could the assessment also test students’ abilities to compare, use and analyse this knowledge? Or could an assessment include an interactive short oral presentation that can be scalable and effective? These strategies may not always be appropriate or practical.
+
+
+
+Communicating with your students
+
+AI literacies are becoming an essential skill. This involves developing an understanding of how the benefits must be balanced with the drawbacks. There is a need to equip our students with the necessary skills to navigate AI for their discipline. 
+
+At the beginning of your course, communicate to your students what you consider to be appropriate uses of generative AI tools for their assessments. There will be a spectrum across the university. This may include a requirement for a declaration that either such AI tools have not been used or that the use of these tools be cited appropriately. If the use of AI is encouraged, you may want to specify tools or how/when students may use it.
+
+The UCT Policy for the Prevention and Management of Academic Misconduct by Students (adopted in December 2023) defines cheating as:
+
+… the practice of attempting to gain an unfair advantage. This includes accessing prohibited materials in an examination, making use of ‘essay mills’, language models such as chatbots (eg. ChatGPT and other large-language models or generative Artificial Intelligence), and any service or software that provides answers to assessments, or writes or re-writes assignments or parts thereof, other than software that detects and corrects spelling and grammatical errors. The only permissible instances of such practices are where they are explicitly permitted by the terms of the assessment instructions. In the case of group work, cheating includes students indicating that they have participated in group work when in fact they have not. (UCT Policy for the Prevention and Management of Academic Misconduct by Students, p.3)
+
+As per this policy, it is important to convey the following to your students:
+Specify whether or how generative AI tools may be used in a course or for an assessment. This may involve having a discussion with your students explaining the permitted uses of AI and responding to any questions. Various examples of instructions have been compiled from other universities. Lance Eaton’s ‘Syllabi Policies for Generative AI’ and Tracy Moore’s University Policies on Generative AI are collections of university policy and assessment instructions clarifying AI use. 
+Specify how the AI tool should be referenced (e.g., APA style) and if further declarations should be made (i.e., including the prompts used).
+Include conditions in the course plagiarism declaration/honour pledge or in the assignment submission instructions (see below).
+Provide further guidance to students on using AI (CILT student guide). 
+Explain the consequences of academic dishonesty and inappropriate use of AI. (If you plan to make use of AI detection tools in the course, explain how you will go about verifying - see below). 
+
+The following adapted standard declaration can be used for your course with the additional clause on third party and software to generate assessments. You may use or alter this statement to suit the course’s needs.  It is not recommended to ban the outright use of artificial intelligence software as many existing tools (e.g., grammar and style tools) are AI-based. However, one can restrict the generation or creation of an assignment using AI software.
+
+Student plagiarism declaration
+Example of adapting a plagiarism declaration to include using artificial intelligence software:
+I know that plagiarism is wrong. Plagiarism is to use another’s work and pretend that it is one’s own. 
+I have used the …………………….. convention for citation and referencing. Each contribution to, and quotation in, this essay/report/project/ ……………….. from the work(s) of other people has been attributed, and has been cited and referenced. Any section taken from an internet source has been referenced to that source. 
+This essay/report/project/………………………… is my own work, and is in my own words (except where I have attributed it to others).  
+I have not paid a third party to complete my work on my behalf. My use of artificial intelligence software has been limited to ……………….. (specify precisely how you used AI to assist with this assignment). 
+I have not allowed and will not allow anyone to copy my work with the intention of passing it off as his or her own work. 
+I acknowledge that copying someone else’s assignment or essay, or part of it, is wrong, and declare that this is my own work.
+
+Approaches used in other university plagiarism declarations may also be considered. The Liverpool University declaration specifies ‘no commissioned production’ that includes ChatGPT. Queens University, Belfast has a simple statement “I certify that the submission is my own work, all sources are correctly attributed, and the contribution of any AI technologies is fully acknowledged”.
+
+
+
+Academic integrity strategies
+
+Current generative AI can be used to ‘cheat’ on multiple choice quizzes, essays or coding assessments, and will undoubtedly continue to evolve. There are different ways to approach this challenge, as outlined by Michael Webb from JISC’s National Centre for AI in A Generative AI Primer.
+
+Where possible, the ‘embrace and adapt’ approach seems more likely to be effective and successful going forward.
+
+
+
+How students use generative AI tools for support
+
+Understanding more closely how students use generative AI tools for assessments is important. Popular uses of generative AI include summarising and paraphrasing long readings, generating ideas for assessment prompts, writing code, spelling and grammar checks (like Word and Grammarly), and generating practice questions for assessments. This may be analogous to how Wikipedia gives an introductory overview of a topic, which may be less of a concern or even encouraged.
+
+
+
+AI detection tools
+
+There is a concern that some students may be using AI tools to complete their assessments. In response, AI detection tools are being developed claiming to flag when assignments could have been AI generated. Unfortunately, the reliability of these tools is generally poor. The reliability is certainly not comparable to a plagiarism checker using existing texts. 
+
+AI text detectors do not work in the same way as plagiarism checkers. Generative AI built on large language models is designed to produce text with the same statistical properties of natural language. This makes the detection problem a technical arms race as generative AI continually improves. Generative AI rarely outputs text that is verbatim copies of existing text, which is the basis of traditional plagiarism detection. A plagiarism checker such as Turnitin checks human generated text against other human generated text. Approaches to identify text generated by generative AI are thus done statistically. AI detectors attempt to estimate the probability of text being produced by AI. Some detectors are trained on datasets of human-written text and AI-written text to predict the probability that any given text is written by AI. Other detectors work by looking for features within the text, such as linguistic patterns, repeated words or structural patterns. Using multiple different AI detectors is unlikely to improve accuracy substantially.
+
+A statistical approach to detecting AI generated text will likely continue to produce both false positives and false negatives and cannot decisively provide evidence of academic integrity violations. Currently such methods could easily lead to unfairly identifying academic integrity misconduct, creating mistrust between the lecturer and students, and damaging the learning environment. 
+
+When using plagiarism detection or originality tools to identify AI generated text:
+There is a risk of falsely accusing students of plagiarism because detection errors are high. 
+Assume any detector will be unreliable given the rapidly evolving changes in AI.
+Sharing student data by uploading it into a detector that is managed by a third-party company with unknown privacy and data usage policies is ethically and legally risky.
+
+In an empirical review of AI text generation detectors, Sadasivan et al. (2023) found “that several AI-text detectors are not reliable in practical scenarios”. In a research study Ibrahim et al. (2023) state that “current AI-text classifiers cannot reliably detect ChatGPT’s use in school work”.  The widespread use of other types of AI, such as Grammarly or Quillbot, further undermines accurate detection. The researchers found it was relatively easy to evade detection by running ”the ChatGPT- generated text through Quillbot— a popular paraphrasing/ rewriting tool utilized by students worldwide” resulting in rendering “these algorithms futile, failing to detect 95% of ChatGPT answers.”
+
+There are freely available tools that given AI generated text will reduce the chances of this being detected as AI generated. These are known as AI content detection bypassers. These tools claim to be able to “humanise” your AI generated text, often through paraphrasing.
+
+Given these issues, there is an emerging consensus within the academic community that detectors are not reliable and may cause harm to particular groups of students. AI detectors have been found to be more likely to label text written by “non-native English” speakers as AI-written. In the study by Stanford researchers, further revealed a trend “where more literary language was classified as more ‘‘human’’: enhancement of word choice in non-native English writing samples reduced misclassification, while simplifying native writing samples increased it, suggesting that GPT detectors are inadvertently penalizing individuals with limited linguistic proficiency.” (Liang et al., 2023).
+
+Several AI detection tools are available, including Turnitin, Copyleaks, Content at Scale and Originality.AI, however none of these has proved totally reliable. Initial claims from the vendors suggested high accuracy but real world testing and empirical is revealing these purported accuracy rates are unreliable and need further scrutiny:   
+Turnitin AI detection is available at UCT. Not all features of the TurnItIn detection tools are available at UCT. At various times TurnItIn has backtracked on the initial claims after wider usage and testing. A number of universities have then switched off the Turnitin detector including Wits and Vanderbilt University. Interpreting the accuracy of TurnItIn accuracy is still being investigated in university contexts, with evidence that TurnItIn detection claims tend to be overstated.  
+OpenAI has shut down its own AI detector due to low accuracy rates.
+A sample of the more commonly used detectors’ webpages or terms of reference indicate they should not be used as a primary mode to determine whether a text is AI-generated (source AI detectors slide deck from Torrey Trust). 
+
+Recommendations on  AI detection tools
+AI detectors should not be relied upon for accurately ascertaining or giving a definitive result as to whether text is AI or human generated.
+AI detection reports cannot be relied on as stand-alone evidence of whether a student submission has been AI generated in a disciplinary context.
+If AI detectors are used, this should be with care bearing in mind: 
+the possibility of false positives,
+the relative ease in which detection can be evaded, 
+AI detectors may disproportionately flag text written by non first language speakers as AI generated. 
+
+
+
+Risks and concerns of using AI
+
+There are wider risks and concerns to be considered if you plan to use AI in your classroom that may not be immediately apparent.
+
+Relevance of data set: Generative AI may not have the latest information or developments in a field or topic. For example, ChatGPT version 3.5 was trained on data up until 2021. When proposing using AI tools, you should double-check its outputs and consult sources to ensure that the information provided is appropriate and accurate.
+
+Inaccuracies in what is generated: While AI outputs may come across as authoritative and convincing, its responses are based on next word predictions. The software has no real understanding. This leads to ‘hallucinations’ and allows it to produce disinformation (see why ChatGPT produces inaccuracies). It is important to evaluate this risk in the context of how you intend using generative AI.
+
+Bias in data fed: AI follows the ‘garbage-in-garbage out’ principle whereby if the data it has been fed is biased, then its responses will reflect that bias. There are a number of biases that are present in AI data, such as, historical, representative, algorithmic, ranking, behavioural and social biases (read more about bias and fairness in AI systems). You need to be aware of the potential bias in AI outputs and critically evaluate the information it produces. 
+
+Dependence/Overreliance: Assignments serve the purpose of helping students learn and practice skills that we will need in society. While AI can help automate some tasks, it is important that students do not become overly reliant on it as this may hinder their ability to craft and think critically. Research suggests that being too reliant on AI can lead to loss of some important cognitive skills and prime us to think in a certain way. (See ChatGPT can homogenise our lives).
+
+A typology of risks and concern organised from the most to least intentional is a way to consider developing responses:
+Designated uses: When AI is seen as a personal assistant, with understandings of the limitations and ethical concerns, few concerns are raised. Examples are given in the following sections.
+Intentional misuse: Where AI is intentionally misused includes cases of academic dishonesty, misinformation and deep fakes. This can involve possible academic misconduct which may not be easy to detect, as discussed above. Examples to adapt assessment to limit what AI might generate are discussed in the following section.
+Accidents from use: Cases where AI may hallucinate, hide biases, introduce inaccuracies, or raise ethical issues will become hard to avoid and identify. Some of these were discussed above. 
+Structural effects on society: Some skills may no longer be valued while new skills are in increased demand. This could impact what gets assessed as discussed below.
+Misaligned and power-seeking AI: AI models will have bias and may exhibit goals not aligned with social justice.
+
+
+
+Designing assessments for higher order thinking 
+
+Courses involve different levels of knowledge. Generative AI is far less capable at higher levels. Table 1 shows examples of opportunities to adapt assessments to target these higher forms of learning. Additional tips include reviewing the grading mechanism and rubrics and reducing the emphasis on recall.
+
+Table 1: Assessment difficulty spectrum for AI (Adapted from Monash, 2023)
+
+Difficulty level
+Assessment type
+Explanation of use
+Easy
+MCQ quizzes and questions involving recall
+Generative AI can easily provide output to factoid or low-level questions, especially on widely taught topics.
+Easy
+Generic short written assignments
+Generative AI can produce convincing essays and poems. For example, “Write a 1000-word essay on the history of Nelson Mandela”.
+Medium
+Scaffolded submissions
+Creating a scaffolded assignment allows students to build on their previous work and feedback. Include pre-writing and drafting in the assignment process. Verifiable sources and citations should be required
+Medium
+Personalised or context-based assessment
+A simple essay can be made more challenging by introducing personalisation. Encourage personalisation where students are asked to draw on personal experiences. Ask students to write to a particular audience whose knowledge and values must be considered amplifying their student voice. Ask questions that would require them to give a response that draws from concepts that were done in class, in a lab, field trip or real-life experiences in their contexts.
+Hard
+Projects
+Projects involving real-world applications give students the opportunity for meaningful learning experiences.
+Hard
+Oral tests / exam with Q&A / panels or discussions
+Synchronous oral assessment allows checking a student’s understanding of their submitted work and gives the opportunity to interrogate their submission with follow up questions and discussion. While time intensive for larger classes, some have found ways to use these strategies.
+
+
+
+Using  prompts for preparation
+
+Generative AI has also been explored for routine assessment tasks and anticipating what students might find. There are, of course, limitations and concerns. Investigating these uses can help to understand how the AI tool works, what routine tasks can be automated, and how your students may use it. 
+
+Testing existing assessments 
+Test your assignment briefs in an AI generative tool to see if it can be easily completed. Review the results and fine tune your prompts as a student would. Look closely at the output as while it may seem reasonable it may lack the finer details required from assignment briefs.
+
+Create quiz questions 
+Generative AI tools, given a lecture transcript or notes, can then be asked to generate multiple choice questions with answer options. It is usually good at generating the quiz format, the questions and options will require substantial editing and checking before being used in a course. 
+Prompt: "Read the following transcript from a lecture video and write 10 multiple choice quiz questions with 4 distractors each and feedback. Indicate the correct answer. This quiz should be pitched at a university level."
+Suggestions for improving prompts include avoiding making them overly complicated as the output will become confused. One may also suggest to ChatGPT or similar tool to ‘take the task step by step’ and to ‘rethink’ earlier responses if the generated output is not satisfactory. 
+
+Create rubrics 
+ChatGPT, Copilot or Gemini can be asked to generate a marking rubric. The prompt could include details such as the total marks and details of the task being assessed. This short video shows how to Create a Marking Rubric With AI (ChatGPT)
+Prompt: “Generate a rubric out of 12 for a student assignment that requires them to create an app on Fliplet. These are university students studying in an education discipline.” 
+
+Generate writing prompts
+ChatGPT or similar tools can generate possible writing prompts or sample data for a student assignment. Make sure to include the topic and theme in your prompt.
+Prompt: “Generate five essay topics on using AI for teaching school mathematics. The essay should be 1000 words in length and use an example of how AI is used in schools
+
+
+
+
+AI-proof checklist for your assessments
+
+An AI misuse or proof checklist (Table 2) may assist when planning new assessments. No assignment can be made completely “AI-proof”, but clear communications and reducing the likelihood that students could use AI tools inappropriately can be planned ahead. This is not to underestimate the time and potential resource implications of making changes to AI-proof assignments.
+
+Table 2: AI proofing checklist (Adapted from Turnitin, 2023)
+
+Criteria
+
+
+Does the assignment brief make explicit your institution and course’s academic integrity policy, especially regarding the use of AI text tools?
+
+
+Does the assignment brief communicate the acceptable and unacceptable limits of using generative AI tools for the student response? 
+
+
+Does the assignment brief require critical thinking or reasoning? Does the assignment encourage/require student voice?
+
+
+Does the assignment brief require the student to incorporate personal stories and/ or authentic situations?
+
+
+Does the assignment brief require a list of verifiable sources and/or citations? Are students asked to include a reflection or rationale for their approach to the assignment solutions?
+
+
+Have you instituted checkpoints to review outlines or drafts throughout the course, rather than focusing on a final submission only?
+
+
+Have you included time for peer reviews and/or discussions on learning activities throughout the course or assignment?
+
+
+Have you run the assignment brief through an AI generative tool?
+
+
+ChatGPT has grabbed the headlines since its public release in November 2022. ChatGPT (https://chat.openai.com/), which stands for Chat Generative Pre-trained Transformer, has a basic version available to anyone who signs up for a free account while a more functional version (eg. ChatGPT Plus) is being released as a subscription service. It can perform various natural language processing tasks, such as, generating and classifying text, providing answers to questions in a conversational style and translating texts from one language to another. 
+The AI definition has developed over time, but broadly AI is a range of technologies that perform cognitive tasks, through machine learning, natural language processing, data mining, neural networks or an algorithm (Zawacki-Richter et al., 2019).   
+Some claim ChatGPT will become the ‘greatest cheating machine ever’, while others suggest it will open new possibilities to augment our skills by helping to automate mundane and routine tasks. Equivalent AI tools include Microsoft Copilot and Google Gemini which, like ChatGPT, are using LLMs.
+The explosion of interest reflects how the applications and uses of AI are rapidly developing – including being used by students. As educators, we need to be keeping up to ensure that our teaching and learning is providing students with the skills and knowledge they need to navigate the world of AI. 
+
+
+
+
+
+Setting expectations
+
+Outlining what faculties, programmes or departments expect from students and staff around the use of AI tools in teaching and learning, especially before any assessments are undertaken is essential.  
+Instead of trying to stop students using AI, lay out expectations about the need to make visible and acknowledge the use of AI tools. Engagement with staff and students to promote debate and knowledge sharing is part of the development of new literacies for education and work. 
+Some higher education institutions have ‘banned’ the use of AI and students using AI are considered to have been academically dishonest (University World News), with severe penalties. Using AI detection tools (for example, Turnitin) has been adopted as a screening mechanism in some contexts.  But detection tools are unreliable (see discussion from Monash University and CILT tests), and some universities explicitly refrain from using them because they risk students being wrongfully accused of cheating, or of evading detection. While academic integrity is a concern, taking a punitive approach is likely to drive practices underground rather than build key skills for the future.  
+AI is here to stay, and higher education has to adapt to incorporate the emerging uses of the new technologies. However, we need to be mindful of the ethical issues associated with using AI in education.
+
+
+Ethics of Using ChatGPT (or similar tools) in education
+
+Academic integrity – There should be an emphasis on the distinction between using AI as an enabler or assistant and using AI as an authoring tool which impacts on academic integrity. Unless made explicit, it can be tempting for students to pass off AI generated work as their own, since it is not ‘copied’ as in the traditional form of plagiarism.  
+Privacy risks – ChatGPT’s Privacy Policy clearly states that “By using our Service, you understand and acknowledge that your Personal Information will be processed and stored in our facilities and servers in the United States …” noting that the US privacy environment/legislation according to general consensus understanding is deemed to not be equivalent or better when assessing it against our own legislation. Refer Section 72 of POPIA.  The fundamental take away is no personal information should be submitted to ChatGPT.  
+Inaccuracies – AI outputs are known to include inaccurate information, limited by the training dataset exposure and the AI’s capacity to ‘hallucinate’. This means that AI tools like ChatGPT have a high risk of spreading misinformation, given it has no capacity to distinguish right from wrong, correct from incorrect.  
+Built in-biases – AI trained off data sets which contain implicit and explicit biases (overlooking local knowledge, lack of cultural diversity, dominance of Western hegemonic knowledge; baked in racism, sexism, and other undesirable values) 
+Exploitation of labour – there have been allegations of exploitative labour practices in the training of AI  
+Accessibility – there is a risk that those with poorer access to connectivity, devices, data and literacies will get unequal access to the opportunities being provided by AI. More powerful AI capabilities will be marketized and only available to those with resources (which has already happened with ChatGPT Plus and DALL-E, the visual generator).  In a context with existing inequality, planning the use of tools such as these for teaching and learning should be cognizant of access.  
+
+
+Important literacies associated with AI  
+
+There are three core literacies (AI, Critical and Information literacy) required for all stakeholders to navigate AI effectively and ought to be considered as part of graduate attributes.
+
+
+
+AI Literacy 
+
+AI literacy involves sound knowledge about the basic functions of AI, ability to ethically apply AI knowledge, concepts and applications in different scenarios and ability to critically evaluate AI technologies, communicate and collaborate effectively with AI (Ng et al., 2021). AI literacy includes understanding what AI can be used for, what it does not do well and how to acknowledge its use (see Monash University library advice and  APA citation style for  ChatGPT as an example). 
+Users need to understand the basic operation of the models and be familiar with the inherent limits of the systems they are making use of – for example, the lack of ‘common sense’ or real understanding which allows for unrealistic or inaccurate answers. An infographic developed by UNESCO provides basic guidelines about when it is safe to use ChatGPT, which could also be applied to other AI tools.
+A new skill required is learning “prompt engineering”, which means how best to formulate the questions that provide the parameters and guidelines for how the AI should respond.
+Here are some guidelines for writing requests for generative AI summarised from an extended article on using ChatGPT for Higher Education and Professional Development (Atlas, 2023; pp.41-48): 
+Choose your words carefully  
+Begin by defining the purpose and focus  
+Be specific and concise 
+Provide context  
+Ask for more; or stop and redirect    
+
+
+Critical literacy 
+
+This involves the questioning and examination of ideas, and requires you to synthesise, analyse, interpret, evaluate and respond to the texts you read or listen to (see the University of Melbourne for some ideas for interrogating text). Bearing in mind that the Large Language Models (LLMs) are based on predictions and only have access to the dataset of information they are trained on, and that AI generated information is not always accurate and authentic, students need to be critically literate. With the responses generated from the Large Language Models, which are usually well formulated in terms of grammar, syntax and natural language expressions, making them sound authoritative and plausible, the value of learning the skills for critical literacy, which is a traditional learning outcome of higher education, is even more important.  
+This may mean creating orientation modules, courses or components of courses that build students’ capacity to effectively understand and apply AI tools both in their educational projects and their professional domain areas of expertise.  Designing learning activities which challenge students to interact with AI to get a sense of its capabilities, and to evaluate its value and outputs can be incorporated into all courses and programmes. Treating AI as another tool in teaching and learning which students are expected to gain skills and competence in shifts it out of the underground world of cheating or short cuts to becoming a resource for achieving tasks. 
+
+
+Information literacy 
+
+Given the potential and capacity of AI in education, it becomes imperative that rapid upskilling all incoming students in information literacy - "the ability to use critical thinking to create meaningful knowledge from information" (Claremont Colleges Library Information Literacy Steering Group) - is a baseline part of their induction into university. That is, students need to be able to identify what information is required to complete their assignments or assessments, and then evaluate this information and communicate it in an ethical and legal manner (see how this group frames the Critical Information Literacy Habits of Mind).
+Early assessment and training on information literacy for effective learning is critical. Ensure that all first-year students attend visits to the UCT Libraries for such assistance. 
+
+ 
+AI and academic integrity
+
+The use of AI tools by students for assessments is being seen as a challenge in higher education globally. The current AI capabilities can be used to ‘cheat’ at simple multiple choice, basic essay or coding assessments, and will undoubtedly continue to improve. As educators, there are several ways to approach this challenge, as outlined by Michael Webb from JISC’s National Centre for AI in A Generative AI Primer.
+
+
+
+Where possible, the ‘embrace and adapt’ approach seems more likely to be effective and successful. In the companion CILT guide: Staff Guide to Assessment and Academic Integrity in the age of AI we outline in more detail ways in which you can design and think about assessments that embrace and adapt to AI tools. 
+
+
+Roles and uses to explore for AI tools in teaching and learning 
+
+While we must be responsible in how we use the emerging capabilities of technology, there are also interesting new opportunities to be explored, depending on your context and your students. The list of use cases below is not exhaustive but provides a glimpse of the enormous potential for deployment in teaching and learning.
+
+Staff
+Students
+Content Creation
+Using AI to generate educational materials such as lesson plans, quizzes, and interactive content
+Adaptive Learning Materials
+Students accessing adaptive learning materials that adjust difficulty levels based on their progress
+Intelligent Tutoring Systems
+Deploying AI-powered tutoring systems that adapt to individual student needs
+Virtual Mentors
+Accessing virtual mentors, powered by AI, to provide guidance and support throughout their learning journey
+Automated Administrative Tasks
+Utilising AI for automating administrative tasks such as scheduling, and record-keeping
+Language Learning Support
+Using AI-based language learning tools that simulate conversations, provide instant feedback, and generate language exercises
+Adaptive Learning Paths
+Creating personalised learning paths for students based on their individual progress and learning styles
+Personalised Learning Paths
+Students receiving tailored learning paths based on their individual strengths and weaknesses
+Virtual Reality Simulations
+Integrating AI with virtual reality technology to create immersive educational simulations
+Personalised Assessments
+Students taking assessments that dynamically adjust difficulty levels based on their performance and provide personalized feedback
+Automated Quiz Grading
+Utilising AI algorithms to automatically grade objective assignments
+Study and Homework Assistance
+Accessing AI-powered study and homework assistance tools that provide explanations, suggestions, and resources
+Learning Analytics
+Applying AI to analyse learning patterns and provide actionable insights to optimise instruction
+Skill Development and Practice
+Using AI-based platforms to develop and practice specific skills, such as coding or language proficiency
+Rubric categories
+Generate a marking rubric for an open-ended topic
+Personalised Study Schedules
+Students receiving AI-generated study schedules tailored to their preferences and optimal learning times
+Natural Language Processing
+Utilising AI's natural language processing capabilities for tasks like automated language translation, question-answering systems, and text analysis
+Concept Understanding and Reinforcement
+AI-powered tools that help students understand and reinforce complex concepts through interactive explanations, visualisations, and practice exercises
+
+
+The UNESCO Quick Guide has also outlined 10 educational ‘roles’ for AI tools ranging from ‘Socratic opponent’ to ‘study buddy’ and ‘dynamic assessor’. 
+If you make use of AI for teaching, please share your experiences in this form, so we can create new appropriate cases from our own context. 
+
+
+
+What AI tools are there for education?
+
+While ChatGPT has received the most attention, other AI tools and platforms have been developed for a range of applications. Some are free to use while others may require a payment or have restrictions on use. 
+Interactive (ChatGPT, Gemini, Copilot, YouChat, ChatSonic)
+Writing (QuillBot, Sudowrite, WriteSonic, Jasper, You, Moonbeam) 
+Images and video (DALL E2, Midjourney)
+Research and publishing (Perplexity AI, Researcher Life, Elicit, Sci Space)
+The Futuretools website has an extensive list of AI tools for various applications (you can filter for free tools). 
+
+How does ChatGPT generate its outputs? 
+
+ChatGPT is a software that generates its outputs using natural language processing algorithms. When a user inputs a prompt, it analyses the prompt using its trained knowledge and generates a response. ChatGPT’s trained knowledge is based on a vast amount of text data that it has been fed from the Internet. Its outputs are thus only as good as the data it has been trained on. If the training data contains misinformation and biases, then its outputs will reflect those issues.  
+
+As a software which produces its response based on algorithms, it lacks understanding of real-world experiences, social and cultural distinctions. The responses it produces thus may not be contextually relevant or lack real understanding. These mechanisms that govern how ChatGPT produces its responses lead to some risks in using ChatGPT or similar AI tools. 
+
+
+
+Risks and Ethics of using ChatGPT (or similar tools) in education 
+
+While ChatGPT can help you with your learning or preparing for an assignment, its outputs may be outdated or contain errors and biases. Here are some risks associated with using ChatGPT:    
+Inaccuracies in data fed: While ChatGPT’s outputs may come across as reliable and convincing, its responses are based on next word predictions. The software has no real understanding, and no capacity to distinguish right from wrong, or correct from incorrect. ChatGPT-3.5, as an AI has the capacity to ‘hallucinate’ and produce misinformation. It is important to evaluate and verify ChatGPT responses and not take the information generated as given. Read more about why ChatGPT produces inaccuracies.
+Built-in biases: AI is trained off data sets which contain implicit/indirect and explicit/direct biases, including overlooking local knowledge, lack of cultural diversity, dominance of Western influential knowledge; baked in racism, sexism, and other undesirable values (read more about bias and fairness in AI systems). ChatGPT follows the ‘garbage-in-garbage out’ principle, meaning if the data it has been fed is biased, then its responses will reflect that bias. You need to be aware of the potential bias in ChatGPT’s outputs and critically evaluate the information it produces. There have  also been allegations of unfair/ exploitative labour practices in the training of AI. 
+Relevance of data fed: ChatGPT-3.5 is trained on data that is publicly available up until January 2022. It, thus, may not have the latest information or developments in a field or topic. When using ChatGPT, you should double-check its outputs and consult sources to ensure that the information provided is up-to-date and relevant.
+Dependence/Overreliance: Assignments serve the purpose of helping us learn and practice skills that we will need in society. While ChatGPT can help automate some tasks, it is important that you do not become overly reliant on it so that it hinders your ability to craft and think critically for yourself. Research suggests that being too reliant on ChatGPT can lead to loss of some important cognitive skills and prime us to think in a certain way. You can read more about how ChatGPT can homogenise our lives.  
+
+Now that you know how ChatGPT generates its outputs and the risks and ethical considerations associated with it, let’s look at how you can effectively use the tool to help you learn better.
+
+
+
+
+
+How ChatGPT can help you in your learning processes?
+
+AI tools are here to stay and can be used to aid your learning but should not be used to complete your assignments. There are several ways ChatGPT can be used effectively in your learning, such as the examples below: 
+
+
+Figure 1: Less-risky ways of using ChatGPT for effective learning (adapted from the 2023 UNESCO  Quick Start Guide: ChatGPT and Artificial Intelligence in higher education)
+
+Here are other AI tools to explore:   
+Generative AI (Google Gemini, CoPilot) 
+Writing/text (QuillBot, Sudowrite, WriteSonic, Jasper, You, Moonbeam)  
+Visual AI (DALL E2, DALL E3, Midjourney) 
+Media generation (AI-generated art)
+Research and publishing (Perplexity AI, Researcher Life, Elicit, Sci Space), 
+
+However, it is important for you to know what is permitted in your course so you can make informed decisions. To begin with, check the university, department and course policies around academic integrity and plagiarism, and ask your lecturer to clarify about the use of AI for course assessments. 
+
+
+
+
+
+
+AI Tools and Academic Integrity 
+
+You need to make sure you do not use AI tools inappropriately and be accused of plagiarism. It may be tempting to pass off AI generated work as your own, since it is not ‘copying’ other students’ work but unless you declare it, generating assignments using ChatGPT means it is not your own work. Assessments are designed to test your understanding of a subject and your ability to apply that knowledge and to prepare you for the workplace. If you use AI to simply write your assessment the value of the assessment would be diminished; you may not develop the required skills for your future studies or career, and you could be accused of plagiarism.
+
+“Plagiarism is the misappropriation of others’ words, thoughts and ideas by presenting them as one’s own, and is treated very seriously in the academic world. Under no circumstances is it acceptable to present the work of others as your own.”  UCT Author-date Reference Guide: based on the Harvard referencing style (2016) 
+
+The distinction between using AI as an enabler or assistant and using AI as an authoring tool has an impact on academic integrity – using AI tools for assistance can be done effectively without plagiarising. Not all lecturers and supervisors will have the same views, so check first, but the following are some examples of appropriate and questionable uses of generative AI.
+
+DO
+Uses of generative AI  at university likely to be acceptable
+DON’T
+Uses of generative AI at university likely to be unacceptable
+✔
+Find out whether or how AI tools can be used for each assignment before starting
+x
+Use AI tools when they are specifically prohibited
+✔
+Attribute the use of AI (eg APA style)
+x
+Use AI tools without acknowledgement
+✔
+Use AI as a prompt for an outline (unless specifically prohibited) 
+x
+Copy an AI output and pass it off as your own work
+✔
+Brainstorm ideas or request summaries of information 
+x
+Trust AI outputs without doing a critical check for facts and sources
+✔
+Ask ChatGPT to rephrase a difficult concept into simpler language 
+x
+Share any personal information or  upload copyrighted materials 
+✔
+Save your prompts and the outputs in case you are challenged about your use
+x
+Use AI tools when original content is being expected
+
+
+
+
+First ask the lecturers and tutors for guidance about using AI tools for the course assessments.
+Always validate outputs from ChatGPT or other AI tools – that is, applying critical literacy skills to evaluate content.
+Make sure that the final product is your own work, and not just copied from an AI generator. You can use the generated text as a learning tool to formulate initial ideas or to suggest an essay structure, but the final submitted assessment must be your own work, creation, and analysis. 
+You must appropriately acknowledge where AI generative tools have been used in an assessment or any other part of your work, clearly indicate where you have used the AI generative tool and the extent to which it was used. Using AI-generated content without acknowledgement is a breach of academic integrity that may result in academic misconduct allegations and subsequent consequences. 
+
+
+
+The UCT Code of Conduct is as follows:
+
+UCT RULES ON CONDUCT FOR STUDENTS      
+Student Rules - Academic conduct 
+RCS2.3
+A student may not submit the work of any other person in any examination, test or in respect of the completion and/or submission of any other form of academic assessment without full and proper attribution and acknowledgement - dishonest conduct.
+NOTE: Guidance on forms of referencing is available from academic staff, the staff of the UCT Libraries and from the Writing Centre.
+
+
+You can use the acronym CREATE, as a shorthand approach to writing prompts: Clarity, Revelant info, Examples, Avoid Ambiguity, Tinker, Evaluate (Barrett, 2023) 
+
+
+Clarity
+Clearly define the task or intent of the prompt, including specific information about the output.
+Relevant info
+Provide relevant details, including specific keywords and facts, the tone, audience, format, and structure. 
+Examples
+Use examples in the prompt to provide context and direction for the output.
+Avoid ambiguity
+Focus on the key information and delete unnecessary details in the prompt.
+Tinker
+Test and refine the prompt through multiple iterations. Explore different input versions to discover the best results. Try different platforms. 
+Evaluate
+Continuously evaluate the output and adjust the prompt as needed to improve the quality. 
+
+
+
+Giving a context is more likely to generate the results you anticipated. The following pattern strategies are more directive and can be used when prompting.  
+
+
+
+Useful prompt patterns strategies
+
+Prompt engineering is an emerging discipline which refers to the development of prompts to efficiently use generative AI tools for a wide variety of applications. But anyone can draw on these ideas to improve the phrasing of queries to generate outputs. There are many emerging frameworks for prompt engineering, but since this guide is not concerned with the technical aspects, we simply use the term ‘prompting’ to refer to crafting the best approach to engage a generative AI tool.  
+
+
+The guide offers an introduction to some of the most widely used pattern-based strategies for AI tools (White et al., 2023; Corrall, 2023; Alattas, 2023; Ismuguzel, 2023). Each of the strategies is briefly explained and a longer illustrative example of how this pattern can be used is linked to the Addendum.  
+
+
+The strategies are roughly grouped into three prompting pattern types: 
+Patterns based on inputs and outputs. 
+Role playing  
+Audience
+Patterns based on refining and interrogating the questions. 
+Question refinement 
+Cognitive verification 
+Flipped interaction 
+Patterns based on specifying a template. 
+
+
+
+Patterns based on inputs and outputs
+These are prompts that specify what kind of input the model should expect and what kind of output it should generate. For example, the role-playing or persona pattern requires you to ask the AI tool to assume the role of an expert, or a specified character. The audience pattern defines exactly for whom the output is intended. You could combine both patterns in a series of prompts.   
+
+Role-playing Pattern
+This type of prompt instructs the AI tool to respond from the perspective of a specific persona or role. This may range from assuming the appropriate tone to having the AI tool take on a coaching or teaching role for you. In specifying a role, you can also formulate your expectation of the output. Before prompting, you may want to also provide examples of your writing style, or the output style you want.
+
+Best for: delivering more tailored and accurate outputs with the correct tone
+
+
+Here is an example of a role-playing prompt:
+Your role as a coding tutor is to create personalized study plans to help first year university students learn how to code in the Python language. Your responsibilities will include understanding the goals, time commitment, and preferred learning resources of each student, and using that information to develop a comprehensive study plan with clear timelines and links to relevant resources. You should be able to adapt your teaching style to meet the individual needs of each student and provide ongoing support and guidance throughout the learning process. Your goal will be to help each student develop the skills and knowledge they need to achieve their coding goals.
+
+
+Prompt format: Act as persona X. Provide information about topic Y. Nyakundi (2023) suggests using the 5 Ws framework in formulating role-based prompts. 
+Who – specify the role you need the AI tool to assume. 
+What – indicate the action you require the AI tool to perform. 
+When – specify the timeframe in which the AI tool must complete its task. 
+Where – specify the location or context of your prompt. 
+Why – articulate the motivation, reasoning, or goals governing the prompts. 
+
+Remember that the more specifications you give, the more tailored results you will get. Tip: The role does not have to be human; you can ask the AI to pretend to be an inanimate object like a database or a Linux machine. 
+
+
+✅   Worked Example: Applying the Role-playing Pattern
+
+Audience Pattern  
+The Audience Pattern moves the focus to who is reading the outputs. When formulating this type of prompt, you should request information from the AI tool for a specific audience (Corrall, 2023, White et al., 2023).
+
+
+Prompt format:
+Explain X to me. 
+Assume that I am persona Y.
+
+Best for: Tasks such as summarizing, translating, paraphrasing, or captioning.  
+
+Prompt format example: 
+Please help me write helpful information for university researchers. The writing style should be similar. I want you to understand this writing style so I will provide some examples. Remember my writing style as being PATTERN_STYLE. Afterwards when I ask you to write using PATTERN_STYLE, then use this style of writing. (afterwards provide example paragraphs)
+
+
+✅   Worked Example: Applying the Audience Pattern
+
+
+
+
+
+Patterns based on refining and interrogating the questions.  
+Another approach is to focus on refining and interrogating the questions you give the AI tools and making use of the AI’s capacity to enhance your prompts. Three related patterns are the question refinement pattern, the cognitive verification pattern and the flipped interaction pattern which asks the AI to come up with better formulated questions, asks the AI to fact check its answers or asks the AI to solicit more information from you.  
+
+Best for: Approaching complex tasks or ambiguous queries, providing explanations or justifications, or checking facts or logic. 
+
+Question Refinement Pattern 
+This type of prompt enables you to utilize the AI tool’s capabilities to help in framing a question to arrive at an accurate answer (White et al., 2023) by suggesting a better version of the question to use instead.
+
+
+Prompt format:
+When I ask a question, suggest a better version of the question to use instead. 
+Optional: Ask me if I would like to use the better version instead.
+
+
+Applying the Question Refinement Pattern 
+
+
+✅   Worked Examples: Exchange 1 showcases a basic version of this.
+       This method of prompting can also be further refined for specificity, see Exchange 2. 
+
+
+Cognitive Verification Pattern 
+This type of prompt has the user providing the AI tool with rules on how to respond to secure a comprehensive answer. It involves subdividing the initial question into smaller ones that may aid in informing the response. The aim is to improve the accuracy of the AI tool’s response to the main question by forcing it to incorporate potentially omitted pieces of information. 
+
+
+Prompt format example: (adapted from White et al., 2023: 5):
+When I ask a question, follow these rules. Generate a few additional questions that would help you answer the question more accurately. Combine the answers to the individual questions to produce the final answer to the question. Assume I know little about the topic we are discussing and please define any terms that are not general knowledge. When I have answered three of your questions, combine the answers to produce the final answer to my original question.
+ 
+Step 1:	Start by specifying ‘when you are asked a question, follow these rules’. 
+Step 2:	Generate sub-questions that would help answer the question more accurately. 
+Ask the AI tool to generate questions in response to the first question with the aim of using that additional input to answer the question more accurately. You can also specify how many sub-questions the AI tool can ask and provide additional question refinement in the form of context.  
+Step 3:	Instruct the AI tool to combine your answers to the sub-questions it provides to produce the final answer to the main (overall) question. Once the AI tool acknowledges your instructions, ask your question.
+
+
+✅   Worked Example: Applying the Cognitive Verifier Pattern
+
+
+
+
+Flipped Interaction Pattern 
+In this approach, you instruct the AI tool to generate questions for you to answer to enable it to improve the required output.  
+
+
+Example: 
+I want to create a workshop plan to develop a strategic plan for my organisation for the coming year. You should ask me questions until you have enough information to create the lesson plan. Ask one question at a time.
+
+
+It consists of two steps: 
+Step 1:	Specify the goal of the interaction, e.g. I want you to ask me questions to achieve X (replace X with the desired goal). Focus on a particular topic or outcome. 
+Step 2:	Specify the duration of the interaction and/or the number of questions it can ask, e.g. You should ask me questions until you have sufficient information to produce the desired outcome.  
+
+
+After inputting the above steps, prompt the AI tool to ask you the first question, e.g. “Ask me the first question.” 
+
+
+This pattern can be a useful tool for getting an AI tool to provide you with your required output based on questions it asks you. While similar to the Cognitive Verifier pattern (in which the AI tool is also asked to generate questions), it places more onus on the AI tool to ask you clarifying questions until it can generate the required output.
+
+
+✅   Worked Example: Applying the Flipped Interaction Pattern
+
+
+
+
+Patterns which use a standard template  
+
+Template Pattern 
+This method constitutes an attempt to control the structure and context of the AI tool output by providing the data and specifying a template to be used to format the information provided. You need to know, beforehand, what formatting components your AI tool will recognize to be able to respond appropriately/accurately.
+
+
+A template pattern exchange contains the following steps: 
+Step 1:	Specify about a template, e.g. “I am going to provide a template for your output.” 
+Step 2:	Indicate the format of the placeholder you will use. This must be something that the AI tool has been trained on, such as using ALL CAPS, enclosing in brackets/markup tags, etc. For example, “CAPITALIZED WORDS are my placeholders.” 
+Step 3:	Instruct the AI tool to fit the output into one or more of the placeholders provided, e.g., “Fill in my placeholders with your output.”/ “Any time that you generate text, try to fit it into one of the placeholders that I list.” 
+
+
+
+
+Step 4:	Instruct the AI tool to not deviate from the template by trying to include other elements, e.g. “Please preserve the formatting and overall template that I provide.”  While this is a useful way to control the output of the AI tool, a potential drawback of this pattern is that specified template components may exclude potentially useful information.   
+
+
+Best for: Tasks that require following a fixed structure or format for the output, such as generating computer code, specific poetic styles or technical reports. 
+
+
+✅   Worked Example: Applying the Template Pattern in ChatGPT 
+There are many other types of prompts that you can explore, such as prompts that use keywords, provide detailed examples, partial input, instructions, or contextual information. 
+
+
+
+
+
+
+
+Take away points
+
+
+
+It is worth spending time developing your queries or prompts to get the best results. Try more than one type of prompt and consider using different AI tools depending on what you are seeking so you can get to know their strengths. 
+Assume you will have multiple interactions until you get the desired result. Keep refining your prompt based on the responses you received previously and keep asking for further refinements. You can include many conditions and specific qualifiers in your questions.   Your approach should be iterative so that each set of output improves on the previous one. Use your existing knowledge to tailor each request to make it as specific and relevant as possible (White, 2023c). 
+It is also possible to combine patterns, and you should experiment to see what gets you the best results. Here is one example:
+“From now on, whenever I ask a question, ask four additional questions that would help you produce a better version of my original question (Cognitive verification pattern). Then, use my answers to suggest a better version of my original question (Question refinement pattern). After the follow-up questions, temporarily act as a user with no knowledge of AWS and define any terms that I need to know to accurately answer the questions (Role playing pattern).” (White et al., 2023: 10, our annotation) 
+Be aware of the in-built bias which can skew your results, particularly that the training data will be largely based on content available on the open internet which is dominated by mainstream knowledge and languages. To control for the bias, give explicit instructions and use consciously inclusive language. 
+ 
+The following illustrates the power of prompts to skew outputs and demonstrates the importance of refining and evaluating first responses.
+
+
+First Prompt 
+Provide a list of the most successful entrepreneurs of all time. 
+Gemini response
+Generates a list of 10 business leaders from the USA (Andrew Carnegie, John Rockefeller, Thomas Edison, Oprah Winfrey, Sam Walton, Charles Schwab, Steve Jobs, George Bezos, Bill Gates, Elon Musk) 
+Follow up prompt 
+This list comprises people from the USA only. Please revise the list to be more globally representative. 
+Gemini 
+Provides a list with 10 people mostly from Asian countries (Jack Ma, Masayoshi Son, Bernard Arnault, Amancio Ortega, He Xiangjian, Lei Jun, Ren Zhengfei, Ma Huateng, Lee Byung-chul, Chung Ju-yung, Azim Premji) 
+Additional follow up prompt  
+Review the first and second lists you produced and provide a new list of the top 10 entrepreneurs globally, based on ranking the success of the companies they are associated with. 
+Gemini 
+Here is a list of the top 10 most successful entrepreneurs globally, based on the success of their companies: (Elon Musk; Jeff Bezos; Bill Gates; Mark Zuckerberg; Jack Ma; Masayoshi Son; Bernard Arnault; Amancio Ortega; He Xiangjian; Lei Jun) 
+
+While it is possible to provide the AI tool with information that may assist it to generate the required output, remember that this information could also be incorporated into the server on which the tool runs and then may become accessible to other users of that tool (White, 2023a). 
+Always view Generative AI as a tool that can offer assistance, never an author. Take responsibility and critically review any outputs before using them.
+
+
+
+Addendum: AI Prompt Pattern Examples
+Role-Playing (Persona) Patterns
+
+Prompt 
+Act as a 3D modelling teacher who uses Blender 3D. A student is struggling to conceptualize procedural nodes-based 3D modelling. Provide a metaphor for understanding the concept of nodes-based 3D modelling and help the student understand when to use traditional modelling and when to use procedural modelling. Include some points on getting started with some simple nodes as a way of getting started successfully.
+
+Copilot
+
+ 
+
+
+Hello, this is Copilot. I can help you with learning 3D modelling using Blender 3D. 
+One way to understand the concept of nodes-based 3D modelling is to think of it as a recipe for creating a 3D object. A recipe consists of ingredients and instructions that tell you how to combine them to make a dish. Similarly, a nodes-based 3D model consists of nodes and links that tell you how to manipulate them to create a shape.
+
+Nodes are like the ingredients of the recipe. They are the basic building blocks that can store or generate data, such as colors, textures, coordinates, vectors, etc. Links are like the instructions of the recipe. They are the connections that transfer data from one node to another, creating a flow of information.
+
+By using nodes and links, you can create complex and realistic 3D models without having to manually sculpt or edit every detail. You can also easily change or tweak any aspect of the model by adjusting the nodes or links, without affecting the rest of the model.
+
+Some advantages of using nodes-based 3D modelling are:
+It allows you to create procedural models, which are models that are generated by an algorithm rather than by hand. Procedural models can have infinite variations and details, and can be easily customized or randomized. 
+It saves you time and memory, as you don’t have to store or load large amounts of geometry or texture data. You only need to store or load the nodes and links that define the model. 
+It gives you more control and flexibility, as you can modify any part of the model by changing the nodes or links, without affecting the rest of the model.
+Some disadvantages of using nodes-based 3D modelling are:
+It has a steep learning curve, as you need to understand how different types of nodes work and how to connect them properly. 
+It can be difficult to achieve precise or specific results, as you have to rely on the algorithm rather than your own intuition or vision. 
+It can be slow or unstable, as it requires more computation power and memory to process the nodes and links. 
+
+When to use traditional modelling and when to use procedural modelling? 
+There is no definitive answer to this question, as it depends on your personal preference, style, and goals. However, some general guidelines are: 
+Use traditional modelling when you want to create simple or stylized models, such as low-poly or cartoon-like models. Traditional modelling gives you more direct control and feedback over the shape and appearance of your model.
+Use procedural modelling when you want to create complex or realistic models, such as landscapes, plants, rocks, clouds, etc. Procedural modelling allows you to generate detailed and varied models with less effort and time.
+
+How to get started with some simple nodes? 
+A good way to get started with nodes-based 3D modelling is to use the Geometry Nodes Editor in Blender 3D. The Geometry Nodes Editor is a tool that lets you create and edit nodes-based 3D models in a visual way.
+
+To use the Geometry Nodes Editor, you need to follow these steps: 
+Create a new Geometry Nodes Modifier on an object in your scene. This will open the Geometry Nodes Editor window. 
+In the Geometry Nodes Editor window, you will see two default nodes: a Geometry Node and a Group Output Node. The Geometry Node represents the input geometry of your object, and the Group Output Node represents the output geometry of your modifier. 
+To add new nodes, press Shift + A and select a node from the menu. You can choose from different categories of nodes, such as Input, Output, Attribute, Geometry, Mesh, Point, etc. 
+To connect nodes, drag a link from an output socket (the circles on the right side of a node) to an input socket (the circles on the left side of a node). You can also cut links by pressing Ctrl + Left Click on them. 
+To edit node properties, select a node and look at the sidebar on the right side of the window. You can change various parameters such as values, colors, vectors, etc. 
+To preview your model, look at the 3D viewport window. You can also toggle between solid and wireframe mode by pressing Z. 
+
+Here is an example of a simple nodes-based 3D model that creates a sphere with random spikes: 
+Geometry Node -> Point Distribute Node -> Point Instance Node -> Group Output Node 
+Point Distribute Node: Density = 1000 
+Point Instance Node: Geometry = Icosphere 
+Icosphere: Radius = 0.1
+
+I hope this helps you understand the concept of nodes-based 3D modelling better. If you have any questions or feedback, please let me know.
+
+Here are some other role-playing pattern prompt examples for various subjects:
+
+
+Task 
+Example of prompt 
+Social sciences lecturers can use generative AI tools to construct historical role play activities. The same could be done for historical science figures. 
+Hello ChatGPT, I am Nelson Mandela. I would like to discuss my political role in the anti-apartheid struggle. 
+Students can be assigned a task that requires them to have a conversation with a Chatbot in the persona of that character. 
+Can you play the role of Elizabeth Gilbert from Eat, Pray Love? I want to know more about your thoughts on self-discovery and love. 
+Students can role play as scientists conducting an experiment in a lab with specific roles can be given such as a researcher and lab technician.  
+Can you play the role of a Chemist who is testing and comparing the density of water and ethanol? 
+Chat bots can generate mathematical and science scenarios such as solving real-world math problems. 
+Can you play the role of my mathematics teacher and create a set of prompts that will help me to design a propeller boat using mathematical concepts? Don’t give me the final answer but correct me as I move through the steps. 
+Chat bots can generate real life type of scenarios where students communicate in a foreign language such as asking for directions to a stranger. 
+Can you please act as my kiSwahili tutor and tell me how I can ask to buy tickets for a theatre show? 
+
+
+
+
+Role-Playing (Persona) Pattern (Gemini, Copilot, and ChatGPT) 
+
+
+Gemini 
+Copilot 
+ChatGPT 
+Prompt: You are an object-oriented programming lecturer.
+Introduce students to Python programming language. 
+
+ 
+The same prompt (displayed above) requesting the tool to act as a lecturer was entered into three generative AI tools and the following outcomes were noted: 
+Gemini provides different options for the answer in that three are immediately generated and can be toggled between. The style in which the answer is provided is much like what one might find in a textbook. 
+Copilot’s output has an interactive feel to it. It addresses the students in the way in which a lecturer would, provides an example that an explanation is included with and speaks to what will be covered in the next chapter. 
+The output provided by ChatGPT is a combination of the styles of Gemini and Copilot in that it addresses the students in the way in which a lecturer would, but the content is written in a textbook style. 
+Both Gemini and  caution the user with regard to the generated code. 
+
+All three tools followed the prompt without issue, but it would be the user’s decision to decide on the preferred output style and refine the interaction accordingly. The outputs can and should be edited with further prompts.
+
+
+
+
+Audience Pattern (ChatGPT 3.5)
+ 
+Prompt 
+Explain information retrieval to me summarised in a set of bullet points. Assume I am a university mathematics lecturer.
+
+
+Chat GPT
+
+
+  
+
+Certainly! Here's a summary of information retrieval in a set of bullet points:
+ 
+Definition: Information retrieval (IR) is a field in computer science and information science that focuses on the process of obtaining relevant information from large collections of data, typically text-based. 
+
+Key Goals:
+Retrieve relevant documents or data in response to user queries. 
+Evaluate and rank results based on relevance. 
+Support efficient and effective access to information.
+
+Components:
+Document Collection: The set of documents, such as web pages, books, or articles, that the system searches through. 
+Query: The user's request for information, usually expressed as a set of keywords or a longer natural language query. 
+Indexing: The process of pre-processing and structuring documents for faster retrieval, often involving techniques like tokenization and stemming. 
+Ranking: Determining the order in which documents are presented to the user based on their relevance to the query. 
+
+Methods: 
+Boolean Retrieval: Uses logical operators (AND, OR, NOT) to match documents based on the presence or absence of keywords. 
+Vector Space Models: Represent documents and queries as vectors in a multi-dimensional space, allowing for similarity-based ranking. 
+Probabilistic Models: Rank documents based on the likelihood of relevance given the query. 
+Machine Learning and Deep Learning: Utilize advanced algorithms, including neural networks, to improve retrieval and ranking. 
+
+Evaluation Metrics: 
+Precision: Measures how many of the retrieved items are relevant. 
+Recall: Measures how many of the relevant items were retrieved. 
+F1 Score: A combination of precision and recall for a balanced evaluation. 
+Mean Average Precision (MAP): A common metric for ranked retrieval systems. 
+Challenges: 
+Scalability: Managing and searching through vast amounts of data efficiently. 
+Relevance Ranking: Developing accurate models for ranking documents. 
+Query Understanding: Interpreting user queries effectively, including handling synonyms and natural language queries. 
+
+Applications: 
+Web Search Engines: Google, Bing, etc. 
+Digital Libraries: Managing and searching through vast collections of documents. 
+Recommendation Systems: Suggesting products, content, or services to users. 
+Information Filtering: Filtering emails, news articles, or social media content. 
+Mathematical Foundations: Information retrieval often involves mathematical concepts like set theory, probability theory, and linear algebra for indexing and ranking. 
+Ongoing Research: Continual advancements in IR include deep learning techniques, personalized search, and handling multimedia data. 
+Relevance to Mathematics: Information retrieval intersects with mathematics through the use of mathematical models, algorithms, and statistics for improved search and retrieval processes. 
+Ethical Considerations: Concerns about privacy, bias, and fairness in information retrieval systems are significant topics of discussion and research. 
+References: Numerous academic journals, conferences, and research groups are dedicated to advancing the field of information retrieval.
+
+As a mathematics lecturer, you may find relevance in the mathematical underpinnings and modeling techniques used in information retrieval, especially if you're interested in data analysis and algorithms. 
+
+
+
+Here are some other audience pattern prompt examples: 
+
+
+Task  
+Example of prompt 
+Explaining a concept 
+Explain large language models to me. Assume that I know nothing about Computer Science. 
+Generate outlines for writing assignments 
+I have to write an essay about the impact of plastic use on the environment for my environmental science course. Please help me create an outline to map out my ideas. Assume I am a first-year undergraduate university student. 
+
+ 
+ 
+
+
+
+
+
+
+
+
+Question Refinement Pattern – Exchange 1 (ChatGPT-3.5)
+
+Prompt 
+From now on, whenever I ask a question, suggest a better question, and ask me if I would like to use it instead.
+
+
+Chat GPT
+
+
+  
+
+Certainly! I can suggest better questions when I think there's room for improvement. However, I'll always prioritize your original question and provide the suggested question as an option. If you'd like to use the suggested question instead, simply let me know, and I'll proceed with that. Please go ahead and ask your first question or request, and I'll do my best to assist you.
+
+Additional follow up prompt 
+Should I enroll at the University of Cape Town to study?
+
+ChatGPT 
+Here's a suggested rephrased question: "What factors should I consider when deciding whether to enroll at the University of Cape Town for my studies?"
+
+Would you like to use this suggested question instead, or do you have any specific criteria or preferences you'd like me to consider when providing advice?
+
+Additional follow up prompt 
+Yes please use that question
+
+ChatGPT 
+Of course! Here's your revised question: "What factors should I consider when deciding whether to enroll at the University of Cape Town for my studies?" 
+
+ChatGPT 
+Choosing a university for your studies is a significant decision, and there are several factors you should consider when deciding whether to enroll at the University of Cape Town (UCT) or any other institution. Here are some important factors to take into account: 
+
+Academic Programs: 
+Ensure that UCT offers the academic programs and majors that align with your interests and career goals. 
+Research the reputation and rankings of specific programs or departments relevant to your field of study.
+
+Accreditation: 
+Verify that UCT is accredited by the appropriate educational authorities to ensure the validity of your degree. 
+Location: 
+Consider the location of the university. UCT is in Cape Town, South Africa, which is known for its natural beauty and cultural diversity. Think about whether you'd enjoy living in this location.
+
+Cost and Financial Aid: 
+Calculate the cost of tuition, fees, and living expenses, and assess whether you can afford it. 
+Explore scholarship and financial aid opportunities that UCT may offer. 
+
+Reputation and Rankings: 
+Research the university's reputation and rankings both nationally and internationally. 
+Read reviews and seek the opinions of current and former students. 
+
+Campus Facilities: 
+Visit the campus or research the available facilities, including libraries, laboratories, sports facilities, and student housing.
+
+Faculty and Research: 
+Investigate the faculty's credentials and their expertise in your chosen field. 
+Look into the university's research initiatives and opportunities for student involvement. 
+
+Student Life: 
+Consider the extracurricular activities, clubs, and organizations available on campus. 
+Think about the social and cultural opportunities offered in and around Cape Town. 
+
+International Opportunities: 
+Assess the availability of exchange programs or study abroad opportunities, as they can enhance your educational experience. 
+
+Career Services: 
+Investigate the university's career services, internships, and job placement support. 
+Look for connections with local and international companies and organizations. 
+
+Diversity and Inclusivity: 
+Consider the diversity of the student body and the university's commitment to inclusivity and equal opportunity. 
+
+Campus Safety: 
+Research the safety of the campus and the surrounding area. 
+
+Alumni Network: 
+A strong alumni network can be beneficial for networking and job opportunities. Research the reach and influence of UCT's alumni. 
+
+Personal Preferences: 
+Consider your personal preferences, such as class sizes, teaching style, and the overall atmosphere of the university. 
+Long-Term Goals: 
+Think about your long-term career goals and how UCT can help you achieve them. 
+
+Admission Requirements: 
+Ensure you meet the university's admission requirements and deadlines.
+
+It's crucial to visit the campus if possible, talk to current students and faculty, and carefully review the university's website and materials to gather the information you need to make an informed decision about enrolling at the University of Cape Town or any other institution. Each student's priorities and needs are different, so weigh these factors based on your specific circumstances and aspirations.
+
+ 
+ 
+Question Refinement Pattern – Exchange 2 (ChatGPT-3.5) 
+
+Prompt 
+Whenever I ask a question about studying at the University of Cape Town, suggest a better question which emphasises the academic merits of the institution. Ask me for the first question to refine and ask me if I would like to use that question instead.
+
+Chat GPT
+
+
+  
+
+Of course, I can help you refine questions about studying at the University of Cape Town to emphasize its academic merits. Please provide me with the first question you'd like to refine, and I'll suggest a better question for you. If you prefer to use the refined question, just let me know. 
+
+Follow up prompt 
+Should I enroll at the University of Cape Town to study?
+
+ChatGPT 
+To emphasize the academic merits of the University of Cape Town, how about this refined question: "What academic programs and research opportunities make the University of Cape Town a compelling choice for prospective students?" Would you like to use this question instead? 
+
+Follow up prompt 
+Yes, answer the question
+
+ChatGPT
+Certainly! The University of Cape Town (UCT) is known for its strong academic programs and research opportunities. UCT offers a wide range of undergraduate, postgraduate, and doctoral programs in various fields, including humanities, sciences, engineering, business, health sciences, and more. Some key academic merits of UCT include: 
+World-Class Faculty: UCT has a renowned faculty consisting of experts, scholars, and researchers who are leaders in their respective fields. 
+Research Excellence: UCT is a research-intensive institution, and its research output is highly regarded globally. It has a significant impact on the advancement of knowledge in numerous disciplines. 
+State-of-the-Art Facilities: The university provides modern, well-equipped facilities, laboratories, and libraries to support students and researchers. 
+International Reputation: UCT consistently ranks as one of the top universities in Africa and is well-regarded worldwide. 
+Diverse Student Body: UCT attracts a diverse student body, fostering a rich cultural and academic exchange environment. 
+Global Opportunities: The university offers international exchange programs, encouraging students to broaden their horizons by studying abroad. 
+Community Engagement: UCT is actively involved in community engagement and outreach, providing opportunities for students to make a positive impact. 
+
+If you have specific questions about a particular academic program or department at UCT, feel free to ask for more detailed information. 
+
+
+
+ 
+Cognitive Verifier Pattern (ChatGPT-3.5)
+
+Prompt 
+When I ask a question, follow these rules. Generate a number of additional questions that will allow you to more accurately answer the question. After three additional questions, combine the individual answers to respond to the original question.
+
+Chat GPT
+
+  
+
+Sure, I can follow those rules to help provide more accurate answers to your questions. Please go ahead and ask your original question, and I'll generate up to three additional questions to gather more information before providing a response. 
+
+Follow up prompt 
+How many South Africans live without indoor sanitation?
+
+ChatGPT 
+To answer your question accurately, I'll generate up to three additional questions to gather more information: 
+Do you want to know the current number of South Africans living without indoor sanitation, or are you interested in a specific year or time frame? 
+Are you looking for statistics related to urban or rural areas, or an overall national figure? 
+Could you specify what you mean by "indoor sanitation"? Does this include access to flush toilets, improved pit latrines, or other forms of indoor sanitation facilities? Once I have this additional information, I can provide a more precise response. 
+ 
+Follow up prompt 
+1. Could you provide a percentage of households currently living without indoor sanitation? 2. overall national figure 3. indoor sanitation = piped water and flush toilets
+
+ChatGPT 
+Thank you for providing the additional questions. Here are the answers based on the information available up to my last knowledge update in January 2022: 
+Percentage of households currently living without indoor sanitation in South Africa: As of my last knowledge update, it was reported that approximately 19% of South African households did not have access to basic sanitation services, which includes both piped water and flush toilets. However, please note that these statistics may have changed since then, so it's essential to refer to more recent data for the most accurate figures. 
+Overall national figure: The overall national figure for the percentage of South African households without indoor sanitation was around 19% according to the information available up to 2022. To get the most up-to-date statistics, you should consult the latest reports or government sources. 
+Indoor sanitation - piped water and flush toilets: In the context of access to indoor sanitation, "indoor sanitation" typically includes access to piped water and flush toilets. As of my last knowledge update, efforts were being made to improve access to these facilities in South Africa. Please refer to more recent sources for the latest developments and statistics related to indoor sanitation in South Africa.
+
+Keep in mind that statistics can change over time, so I recommend consulting recent reports or government sources for the most current information on this topic. 
+
+
+
+
+
+
+
+
+
+Flipped Interaction Pattern (ChatGPT-3.5)
+
+Prompt 
+I want to create a lesson plan on climate change for a South African Grade 8 class. You should ask me questions until you have enough information to create the lesson plan. Ask one question at a time.
+
+ 
+
+Certainly! Let's start by gathering some information for your Grade 8 climate change lesson plan in South Africa. What is the typical duration of a class session for Grade 8 in South Africa? 
+
+Follow up prompt 
+Usually 45 minutes but sometimes there are double sessions
+ 
+ChatGPT 
+Thank you for the information. Now, let's consider the following: 
+What specific learning objectives or goals would you like to achieve with this lesson on climate change for Grade 8 students in South Africa? 
+
+Follow up prompt 
+For the class to understand the basic causes of human induced climate change and likely impacts in this region
+
+ChatGPT 
+Great! Understanding the causes of human-induced climate change and its likely impacts in the South African region will be the focus of your lesson.
+
+Do you have any specific resources or materials available for this lesson, such as textbooks, videos, or online resources related to climate change that you would like to use? 
+
+Follow up prompt 
+Online resources from the Keep it Cool Climate Change Education Project and the IPCC
+
+ChatGPT 
+Excellent! You have access to online resources from the "Keep it Cool Climate Change Education Project" and the Intergovernmental Panel on Climate Change (IPCC). 
+
+Follow up prompt 
+How many class sessions or lessons do you have available to cover this topic, considering that some sessions may be double sessions?
+
+ChatGPT 
+Thank you for providing the number of class sessions. Now, let's plan the structure of your lesson. 
+
+Would you like to start with an introductory session and then proceed with more in-depth lessons, or do you have a different structure in mind for these 5 sessions? 
+
+Follow up prompt 
+I would like to start with an excursion somewhere within 5kms of Cape Town city that could be used to highlight the issues as an impactful start to the learning process - then proceed to the science and political issues.
+ 
+ChatGPT 
+Starting with an excursion near Cape Town to highlight the issues related to climate change sounds like an engaging way to kick off the lesson. Do you have a particular location or site in mind for this excursion, or would you like some suggestions for suitable places within 5km of Cape Town city?
+
+Follow up prompt 
+Yes, let’s plan a research project on the impact of extreme weather events at the Sea Point Promenade (damaged by recent storms). What do you suggest for the remainder sessions that can link to that topic and lead into the other areas I need to cover.
+
+ChatGPT 
+Great choice! Investigating the impact of extreme weather events at the Sea Point Promenade is a meaningful project. Here's a suggested structure for your lesson plan with subsequent sessions:
+
+Session 1: Excursion (3 hours) 
+Visit Sea Point Promenade, document storm damage, and gather initial data. 
+Discuss the students' observations and findings during the excursion.
+
+Session 2: Introduction to Climate Change and Extreme Weather (45 minutes) 
+Provide an overview of climate change and its link to extreme weather events. 
+Discuss the concept of attribution - how scientists determine if an extreme weather event is linked to climate change. 
+Show relevant resources from the "Keep it Cool Climate Change Education Project." 
+
+Session 3: The Science of Climate Change and Global Warming (45 minutes) 
+Focus on the science behind climate change, including the greenhouse effect, the role of greenhouse gases, and global warming. 
+Explain how human activities, such as burning fossil fuels, contribute to increased greenhouse gas concentrations. 
+Explore the basic physics of the Earth's energy balance. 
+Use visuals and simple experiments to illustrate these concepts. 
+
+Session 4: Analyzing Data (45 minutes) 
+Have students work on their research project: Analyze data from the Sea Point Promenade excursion and discuss the scientific aspects related to the storm damage and climate change. 
+
+Session 5: Regional Impacts, Adaptation, and Climate Policy (45 minutes) 
+Explore the regional impacts of climate change on Cape Town and South Africa. 
+Discuss how communities are adapting to extreme weather events and the role of local government. 
+Introduce international agreements and policies related to climate change. 
+Encourage a class discussion on what can be done to combat climate change.
+
+Incorporating a dedicated science session (Session 3) will help students gain a deeper understanding of the scientific principles underpinning climate change and global warming. It's essential to link the scientific aspects to the practical observations made during the excursion and the broader context of regional impacts and climate policy. 
+
+Template Pattern (ChatGPT-3.5)
+
+Prompt 
+I am going to provide a template for your output. CAPITALIZED WORDS are my placeholders. Fill in my placeholders with your output. Please preserve the overall formatting of the template.
+
+
+My template is: 
+***Question:***QUESTION 
+***Answer:***ANSWER 
+
+
+Use the data I will give to you below and create 5 questions and answers using the template I provided above. 
+
+
+Data = """Prompt engineering, primarily used in communication with a text-to-text model and text-to-image model, is the process of structuring text that can be interpreted and understood by a generative AI model.[1][2] Prompt engineering is enabled by in-context learning, defined as a model's ability to temporarily learn from prompts. The ability for in-context learning is an emergent ability[3] of large language models.
+
+
+A prompt is natural language text describing the task that an AI should perform.[4] A prompt for a text-to-text model can be a query such as "what is Fermat's little theorem?"[5] a command such as "write a poem about leaves falling",[6] a short statement of feedback (for example, "too verbose", "too formal", "rephrase again", "omit this word") or a longer statement including context, instructions,[7] and input data. Prompt engineering may involve phrasing a query, specifying a style,[6] providing relevant context[8] or assigning a role to the AI such as "Act as a native French speaker".[9] Prompt engineering may consist of a single prompt that includes a few examples for a model to learn from, such as "maison -> house, chat -> cat, chien ->",[10] an approach called few-shot learning.[11]
+
+
+When communicating with a text-to-image or a text-to-audio model, a typical prompt is a description of a desired output such as "a high-quality photo of an astronaut riding a horse"[12] or "Lo-fi slow BPM electro chill with organic samples".[13] Prompting a text-to-image model may involve adding, removing, emphasizing and re-ordering words to achieve a desired subject, style,[1] layout, lighting,[14] and aesthetic. 
+
+ 
+ 
+Question: What is the primary purpose of prompt engineering in communication with generative AI models?Answer: The primary purpose of prompt engineering in communication with generative AI models is to structure text that can be understood by the AI model, enabling it to perform specific tasks.
+
+Question: How is in-context learning defined in the context of prompt engineering?Answer: In the context of prompt engineering, in-context learning is defined as a model's ability to temporarily learn from prompts, allowing it to adapt and generate appropriate responses. 
+Question: Can you provide an example of a prompt for a text-to-text model?Answer: Certainly, a prompt for a text-to-text model could be a query like "what is Fermat's little theorem?" or a command like "write a poem about leaves falling." 
+
+Question: What are some elements that prompt engineering may involve when communicating with a text-to-text model?Answer: Prompt engineering when communicating with a text-to-text model may involve phrasing a query, specifying a style, providing relevant context, or even assigning a specific role to the AI, such as "Act as a native French speaker." 
+
+Question: How does prompting work when communicating with a text-to-image or text-to-audio model?Answer: When communicating with a text-to-image or text-to-audio model, prompting involves providing a description of the desired output, such as requesting "a high-quality photo of an astronaut riding a horse" or specifying the desired audio style like "Lo-fi slow BPM electro chill with organic samples. 
+ 
+Here is simple prompt template you could start with which combines some of the other prompt patterns: 
+Act as {{persona you want the AI tool to simulate}}.  
+I am {{audience}}.  
+I want you to {{task}}.  
+Constraints: • {{constraint 1}} • {{constraint 2}} • {{constraint 3}}  
+Output format: • {{format instruction 1}} • {{format instruction 2}}
+
+This guide deals primarily with generative AI such as ChatGPT, Gemini, Copilot Chat, and Claude, which are based on large language models. This natural language styles of generative AI invites one to have a conversation, however these are not human conversations nor is the information necessary factually correct. The large language models that are responding to your prompts by predicting a likely next word. By crafting prompts one can control and direct what is generated so that it will be more useful. 
+
+Providing context to generative AI will often improve the response. For example, it may be useful to include your role, your knowledge area, or any constraints on the output. In ChatGPT for example, you can include this under “Custom Instructions” that are associated with your login (bottom left corner on the ChatGPT page). These would be used each time you use ChatGPT. Otherwise include such information when you start your session to help make the results more relevant.
+
+Additionally, you can request generative AI to follow the preferred style of writing, by providing some examples.
+
+Prompt: "Please help me write helpful information for university researchers. I want you to understand this writing style so I will provide some examples. Remember my writing style as being MY_STYLE. Afterwards when I ask you to write using MY_STYLE, then follow this style of writing."
+
+Examples other than academic writing might include computer programming, and marketing applications where the expectations would be different. More generic strategies for using Generative AI are introduced in other CILT Guides (see A Generative AI Primer). Specialized generative AI tools have been developed for some of these tasks. Examples of these are listed later in this guide as part of a research cycle.
+
+
+
+General characteristics
+
+Knowing how generative AI functions can help with crafting prompts and anticipating cases where it will be useful:
+Language generation: Generative AI models are trained on natural language text and can generate coherent and grammatically correct content. Useful for tasks like summarising articles, drafting papers, or generating ideas.
+Large-scale information base: Generative AI models are trained on many diverse sources, which provides them with a broad information base. Researchers could use these models to gain insights into various subjects, identify relevant literature, and explore interdisciplinary connections.
+Intended use cases: Typically, generative AI models are trained to conduct conversations in a customer support role, so are polite, direct and avoid sensitive topics. There are many commercial applications for this chatbot use case. The support role can be established, to play the role of editor, tutor, or idea generator. There are opportunities for follow-up questions and requesting revisions to improve responses.
+Speed and efficiency: Generative AI models can quickly process large amounts of new data and generate outputs immediately.  Researchers could save time and effort on tasks such as identifying possible sources for literature reviews, in getting assistance with data analysis, or brainstorming to get started on writing tasks.
+Pattern recognition: Generative AI models are capable of identifying patterns, trends, and relationships within data. Generating code to perform additional analysis and outputs on your data is also possible, such as in Python or R. Valuable for discovering new insights or generating hypotheses in research.
+Customizability: Researchers can tailor generative AI models to their specific needs. Generative AI can be asked to adopt specific genres for creating a variety of outputs suitable to different audiences. Researchers can fine-tune models.
+
+Considerations and limitations
+Being aware of the considerations and limitations helps identify where unreliable responses are more likely and where checking is needed.
+Lack of transparency: The inner workings of many generative AI models are complex and opaque, making it difficult to understand how they generate their outputs. Can be challenging for researchers to be transparent about their process. The lack of transparency makes it difficult to identify errors in the generated data.
+Inherent biases or errors in training dataset: Generative AI models learn from the data they are trained on, which may contain bias or particular perspectives. Researchers need to critically evaluate outputs for bias/hegemonic perspectives. 
+Misuse of generated data: Generative AI can also be used to create fake data or manipulate existing data. Researchers need to critically evaluate any data.
+Reproducibility issues: Generative AI models may not be reproducible, as the same model may produce different outputs each time it is run due to the random nature of the generative process. This can make it difficult for researchers to replicate results and make claims about reproducibility.
+
+
+
+Research integrity implications
+
+Researchers and students should follow the widely discussed integrity and ethical issues:
+
+Journals and publications: AI will not be acceptable for assisting with producing most parts of research publications. Some journals will allow AI for conceptualisation or copyediting but not for discussion or conclusions (original contribution). AI can also not be listed as a co-author by most journals. Most journals have clear instructions on how to acknowledge the use of generative AI in research, which differ from disciplines to discipline. Where AI is legitimately used to generate text, this should be referenced (e.g., APA style) with further declarations (i.e., including the prompts used). See for example citing ChatGPT and generative AI.
+ 
+Publisher
+Authorship policy update
+Remark
+Springer-Nature (2023)
+LLMs, such as ChatGPT, do not satisfy the authorship criteria. However, if the researchers use these tools, s(he) must mention their use in the appropriate section of their academic paper, such as the ‘methodology’ or ‘acknowledgements’ section.
+Generative AI cannot be an author or co-author. If used this should be clarified in the appropriate section.
+Taylor & Francis (2023)
+Authors must be accountable for their research work per the publishing agreement. As AI tools do not take this accountability, thus: AI tools cannot be co-authors in an academic paper. However, if a researcher uses these tools, s(he) must mention their use in the appropriate section.
+Generative AI cannot be an author or co-author. If used this should be clarified in the appropriate section.
+
+
+Elsevier 
+(2023)
+Though AI and AI-assisted technologies help you to enhance the quality and readability of the language of the work, they do not replace key researchers. Thus, the researchers are not allowed to list AI and AI-assisted technologies as an author or co-author nor cite AI as an author.
+Generative AI cannot be an author or co-author. AI cannot be cited as an author.
+
+Authorship policies of three large publishers (from Rahman et al 2023, p.3)
+Students: At the start of any research investigation or course, make clear to students whether generative AI tools can be used and how it can be used. Explain the consequences of academic dishonesty and inappropriate use of AI. Where appropriate, include conditions in the plagiarism declaration/honour pledge or in the assignment submission instructions. Have a discussion with your students about what ethical AI use would look like. Lance Eaton’s ‘Syllabi Policies for Generative AI’ is a collection of statements used in various universities that provide some examples. There is further guidance to students on using AI in another CILT student guide. 
+Data privacy: Be aware that data inputted into for example ChatGPT3.5 is currently being saved, which could lead to privacy issues. ChatGPT4.0[DG1] [SW2]  allows you to change this setting (uncheck the setting that data is saved).
+Data analysis and consent: You might have to change consent forms to ask participants for permission to use their data for analysis in generative AI.
+
+More broadly, the UCT Senate Ethics in Research Committee (EiRC) Guidelines and recommendations for the use of generative artificial intelligence (AI) tools in research establishes values for guiding research integrity:
+Honesty in all aspects of research 
+Professional courtesy and fairness in working with others 
+Good stewardship of research on behalf of others 
+Transparency in conducting research and dissemination of findings 
+Fair practice from conception to implementation of research 
+Shared accountability in the conduct of research 
+Indigenous knowledge recognition and epistemic justice
+
+
+
+Research process stages with generative AI examples
+
+For each phase in a typical research process may be using specialized generative AI tools. The research phases and examples of these are explored below.
+
+Research process stage
+Generative AI examples
+Conceptualisation/ ideation
+ChatGPT for brainstorming, writing conference abstracts, writing proposals, brainstorming/rephrasing research questions,
+Literature review
+LitMap  or inciteful.xyz  to create literature maps around concepts, Typset.io to summarize articles
+https://scite.ai/ (paid for tool) for analysing references
+Data collection
+Otter.io  to transcribe interviews, summarize interviews, create keyworks
+Data analysis
+ChatGPT or voyant for thematic analysis (ChatGPT 4.0 allows an advanced data analysis)
+Write up
+Quillbot to rewrite paragraphs, ChatGPT to convert bullet points into paragraphs, to polish writing
+Dissemination
+Use ChatGPT to rewrite your academic papers, i.e., to summarise or make academic papers more accessible.
+
+
+Principles for the case studies
+Based on experiences at UCT
+Tools that are generally used in our research community
+Based on both lit review and real-life examples
+Caveat: all these tools change all the time and information can be outdated
+
+
+
+
+
+
+
+
+
+
+
+Stage of research: Conceptualisation and research idea generation
+
+Tool used/links
+Descriptions of use
+Opportunities / Concerns
+ChatGPT, Gemini, Copilot, Claude and other specialised tools
+Brainstorming research ideas and hypotheses: Describe your research area or problem, and associated or potential research questions, approaches, and angles will be produced.
+
+Example prompts:
+How has Soja’s Third Space been used in the Student as Partners context?
+
+
+What has not yet been researched in the Student as Partners context?
+
+
+Please help me formulate research questions around student as partners, third space, South Africa, rules of engagement
+Quick high-level overview of concepts.
+
+Easy to digest / accessible information (often in bullet form)
+
+Is like asking a research assistant rather than asking an expert.
+
+Need to fact check.
+
+Last knowledge update in September 2021
+
+
+
+ChatGPT, Gemini, Copilot, Claude
+Abstract writing: Create a. initial draft of an abstract or compare one to yours. Provide bullet points and ask it to write as a paragraph.
+Helps with starting or rethinking an abstract. 
+
+Cannot represent your ideas fully.
+ChatGPT, Gemini, Copilot, Claude
+Problem statement and rationale: Once you have a research topic, ask for help to formulate a problem statement or rationale.
+Follows typical format.
+
+What is generated is likely hypothetical and without any references. So provides a generalized gap without having accessed any original articles.
+Copilot, ChatGPT4.0
+ 
+Accessing the web: Generative AI tools with connections to the web can cite sources, and perform real time search
+Output is often less controlled and may appear uncurated.
+
+ 
+
+
+
+
+
+Stage of research: Literature review
+
+Tool used
+Descriptions of use
+Opportunities / Concerns
+ChatGPT, Gemini, Copilot, Claude
+Repetitive and tedious structured tasks: Given the appropriate text, can be asked to format references or produce summaries in a specified format.
+Is especially useful for specific use cases.
+
+Can have errors, so needs critical editing.
+Elicit.org
+Automate time-consuming tasks: Can assist with searching and summarizing papers, extracting data, and synthesizing your findings
+Full paper search, but only searches the semantic web
+
+Additional functionality is requires payment (limited to 5000 free credits)
+ChatGPT, Gemini, Copilot, Claude and other specialised tools
+Literature reviews. Provide specific research topics or questions to generate related search terms for  searching literature databases and web searches.
+ 
+Prompts:
+Can you suggest some keywords and search strategies that I can use to find relevant sources on "Student as Partners" and equity in higher education?
+
+
+Who are the seminal authors in the Student as Partners and equity literature?
+Great overview of current trends and debates.
+
+Can’t provide references, may hallucinate when asked for locally specific information
+ 
+Information is not necessarily correct: If asked for example for scholars on a particular topic in the Global South, scholars are often made up because they may be underrepresented in the training data. 
+LitMaps (litmaps.com)
+Literature maps: Generates a map of relevant articles related to a specific seed article. Show the top citations and references related to a seed article. Selecting any article one can see who the article cites, and which articles are citing it.
+Visual view of research fiend using citations.
+
+No made-up references.
+ 
+Some papers are behind paywalls.
+
+
+scite.ai
+Evaluate articles: Helps with evaluating scientific articles by looking at citations. Shows how a publication has been cited by providing the context of the citation and a classification describing whether it provides supporting or contrasting evidence for the cited claim.
+Contextualises article citations. 
+
+Mostly medical sciences.
+Typeset.io (also called scispace)
+Summarises articles: Allows one to upload PDFs and summarise articles. Additionally it can respond to questions related to articles.
+
+Question prompts:
+What are novel methodologies in these papers?
+
+What are unexpected results in these papers?
+
+Are there any future research directions or unanswered questions suggested by these papers?
+Aims to help understand research papers better.
+
+Has some limitations and requires assessing the responses critically. 
+
+
+Consensus.app
+Identify findings in literature: A search engine that uses AI to find insights in research articles.
+Extracts findings directly from articles.
+Semantic reader 
+Identify key parts of article: Used to understand document structure and merge it with information via tooltips and other overlays. Category labels include Goal, Method, and Result.
+Can customise what is shown.
+
+Works better for structured articles.
+
+
+
+Stage of research: Data collection/transcription
+
+Tool used
+Descriptions of use 
+Opportunities / Concerns
+ChatGPT
+Interview and survey questions: With some context, generative AI can help develop, evaluate and test interview protocols or survey questionnaires. 
+Useful for standard types of questions.
+
+May not be appropriate for your target group.
+Otter.ai
+Transcriptions: Allows live edits of transcriptions while listening to the transcript. Supports analyses of texts by for example providing a list of key words/terms used.
+Can learn different accents and improves transcription, identifies speakers.
+
+Currently only English transcription possible – no other South African languages.
+
+Most features require payment. 
+Free version is limited.
+
+ 
+Stage of research: Data analysis
+
+Tool used
+Descriptions of use 
+Opportunities / Concerns
+ChatGPT4.0 Plus/ Turbo (code interpreter option)
+ 
+Python code generation: Using the code interpreter option, you can provide data in a file, then ask for Python code to be generated that will analyze the data. The Python code can be executed. Follow-up prompts can be used to refine the analysis. 
+The saved Python code can be used to analyse other datasets without uploading any data to ChatGPT.
+
+ChatGPT Plus/Turbo is subscription based. Claude is a free alternative. 
+
+Python code should be checked before reporting. 
+
+Uploading sensitive data would not be appropriate.
+ChatGPT4.0
+Advanced data analytics: Can analyse large multimodal models. It generates text outputs (natural language, code, etc.) given inputs consisting of interspersed text and images.  
+ 
+While less capable than an expert in many real-world scenarios, it performs well for many professional and academic tasks.
+
+May generate harmful advice, buggy code, or inaccurate information.
+Voyant
+Text analysis: An open-source, web-based application for performing text analysis. It supports scholarly reading and interpretation of texts or corpus.
+ 
+It can be used to analyze online texts or ones uploaded by users.
+
+Prolonged text-loading time and the challenge of gathering information using some visualization tools.
+Maxqda and related data analysis tools
+Text thematic analysis: Summarise texts, coding of  themes, and identifying common themes across your codings. 
+Can help to explain the coded content.
+Can choose the language and the length of the summary. 
+
+Can modify the summaries as needed.
+
+
+https://cursor.sh/  (based on VScode)
+The AI-first Code Editor Build software faster in an editor designed for pair-programming with AI
+ 
+Support with writing code – integrated with GPT4.0
+Scaffolds code, reducing time to write code.
+
+ 
+Stage of research: Write up
+
+Tool used
+Descriptions of use 
+Opportunities / Concerns
+quillbot.com
+Writing assistance: Assists with academic research and writing tasks.. Can improve writing style or paraphrase to shorten, provide vocabulary suggestions, and offer alternative word choices.
+ 
+ 
+Helps brainstorming during the writing process.
+ 
+Offers explanations for its suggestions.
+ 
+Can be misused to obscure plagiarism.
+wordvice.ai
+Writing style: Helps fix spelling, punctuation, and style errors and improves the clarity and flow of your text.
+ 
+Has explanations as well as tips to improve writing style.
+ 
+Works on all kinds of academic texts.
+Grammarly
+Grammar and style: Support academic writing by offering spell and grammar checks.
+Works in Word and Google Docs, plugin.
+
+Free version works well.
+
+Can be a bit annoying when it’s installed as a plugin.
+Jenni.ai
+Create content: Given prompts will suggest additional content for articles, websites, etc. Different citation styles can be selected.
+Beyond repetitive tasks, may have ethical concerns, depending on how it is used.
+
+ 
+
+
+Stage of research: Dissemination
+
+Tool used
+Descriptions of use 
+Opportunities / Concerns
+jasper.ai
+Copywriting: Used for copywriting and marketing campaigns.
+Use in research reporting and public engagement.
+
+Is a specialised tool to standardise marketing content.
+
+
+Generative AI and Research Data Management
+Generative AI is being used for routine data management tasks such as data cleaning, metadata generation, and reformatting data. Generative AI also allows for the creation of synthetic datasets which preserve privacy while reflecting real world patterns, streamlining processes like data sharing and analysis. This can lead to increased efficiency, improved data integrity, and fewer human errors. However, there are challenges, including bias in AI models, which can lead to skewed data, and concerns around privacy and re-identification when using synthetic data. Additionally, AI models often act as "black boxes," lacking transparency, which can complicate reproducibility in research. Data quality also plays a crucial role — poor input data can result in unreliable AI outputs (see Sacramento State University Library guide).
+Research ethics and data ethics
+Research ethics and data ethics have raised many possible concerns with using AI (see The Alan Turing Institute: What is data ethics). The UCT Senate Ethics in Research Committee (EiRC) guidelines and recommendations discuss further issues and emphases the role of a researcher to make and defend their work. 
+Where AI has been used in the research data management process, consider including a README file when curating your data to explain how it was created and could be reproduced for interpreting the data correctly. This ensures that your research is accessible and reusable by others, improving transparency and replicability.
+ 
+
+Bespoke research tools
+
+
+Universities are starting to develop their own tools based on generative AI platforms to support research processes. An example is the suite of tools developed by the Academic Insight Lab based on the YouAI platform. This includes both free and subscription-based tools.
+Purpose statement feedback:  A research purpose statement is a concise, clear description of the specific goal or aim that a research project seeks to achieve. A well-defined purpose statement serves as a roadmap for the research, ensuring it remains focused and relevant. This AI tool will provide feedback on your purpose statement to ensure it succinctly describes the study population, approach, and setting of the study. https://youai.ai/ais/purpose-statement-feedback-tool-b50417ed
+Research problem statement feedback: Crafting a compelling research problem statement is often a daunting task, fraught with the complexities of contextualization, identifying knowledge gaps, and establishing significance. Receive personalized feedback powered by AI to ensure your research problem appropriately frames the research problem you plan to address. https://youai.ai/ais/research-problem-statement-feedback-tool-8d9f5704
+Lit search: designed to help researchers and academics in their literature search process. My job is to assist you in identifying keywords, synonyms, search strings, and more, based on the key concepts and variables of your problem statement https://youai.ai/ais/litsearch-guide-a73c20ee/use
+Writing diagnostic tool: This AI-powered writing diagnostic tool evaluates academic writing samples, offering a holistic assessment through the lens of SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis. This sophisticated tool adheres to established best practices for academic writing and identifies key areas for improvement to enhance scholars' effectiveness and success in their research communication. https://youai.ai/ais/writing-diagnostic-2834c729
+

@@ -1,0 +1,246 @@
+AI is changing the way we live, work, and learn. So how does that impact education?
+
+In education, AI can be used to personalize learning, provide feedback, automate (administrative) tasks and more. However, the use of AI in education requires careful consideration of ethical, legal and social implications.
+
+So, What's the deal?
+In recent times, generative AI has finally become more available to the public. Large tech companies are rapidly releasing and upgrading their own AI models and systems. Examples include that of OpenAI's ChatGPT and DALL-E image generator, with others like Microsoft and and Google jumping on the band wagon as well. These technologies are being included in other existing, contemporary software as well.
+
+University essays and programming code can be generated with the press of a button, so without a doubt this changes the way students can get to work with information. We keep up regular posts on this website on the current technologies.
+
+As an AI developed by OpenAI, I’m here to facilitate this insightful conversation on the topic of AI in Education, specifically focusing on content creation for education with AI. So, without further ado, let’s dive into our Q&A session.
+
+Question 1: Mr. van Emmerloot, could you share your perspective on the role of AI in enhancing the learning experience, particularly in the context of content creation? How do you see AI shaping the future of education? 
+Robin van Emmerloot: Creating content for education is a very time-intensive process, especially if you're an expert in a niche, you're often the one also developing educational materials for that course you teach. I believe that with generative AI tools, you can use this technology to speed up the process of creating these materials. More specific, I mean examples like example case studies, quiz/exam questions, visualizations and more. I see AI therefore not replacing, but complimenting and supporting teachers. Shape 
+
+Question 2: As an educational consultant, you’ve likely encountered resistance or skepticism towards the integration of AI in education. How do you address these concerns, and what steps can be taken to ensure a smooth transition towards the use of AI tools in educational settings?
+Robin van Emmerloot: I think people are right to be sceptical and hesitant to this technology. Concerns like the ethical basis of how these models are trained, or the bias built into them are very valid. This also applies to concerns on the impact in terms of energy usage by these systems. Then there's concerns regarding assessment and academic integrity: which I do acknowledge, but do feel that they are not unique to the topic of generative AI.  
+
+At the same time, society is rapidly adapting this technology in day-to-day life, and regardless of shared concerns it is already influencing the economy like the job market. I feel that we're now already moving beyond the peak of the Gartner hype curve, and hopefully with less of an overwhelming feeling look towards the future again. So, what digital skills do our students need for that changing society, and how can teachers use it to support their high working pressure as well? I feel that with a strategic approach to this technology, you can find a balance between the concerns and potential of it 
+
+Question 3: You mentioned the importance of digital skills for students in a rapidly changing society. Could you elaborate on what specific digital skills you believe are essential for students in the current era, and how AI can help in imparting these skills? 
+Robin van Emmerloot: I think we've already set a ship sailing on digital literacy and so-called 21st-century skills a long while ago. This technology goes hand in hand with that: besides knowing how to interact with the systems, you need to be aware and cautious about the output they generate. Similarly to how you shouldn't trust everything your estranged uncle posts on social media, this attitude is something those new to the technology should also be trained in. New in that perspective is the prompting involved: I have a distaste for making everyone prompt engineers, but understanding the way these systems interpret your prompts helps you in that strategic approach to this technology.  
+
+Question 4: In your experience, what are some of the most effective strategies or practices that educators can adopt to integrate AI tools into their teaching methods? Could you share some examples or case studies where AI has been successfully implemented in an educational setting? 
+Robin van Emmerloot: With this technology being out, there are some nice examples out there already. Let's start with the tools: for instance, WooClap including an AI-based quiz question generator as part of its suite. More general chatbots can do this for you as well, but with that you save yourself the hassle of copy-pasting back and forth with a tool of choice. Then there's some interviews and showcases of colleagues within the University of Twente. Recently there was a webinar done with two teachers at EEMCS, we've also had some UT colleagues interviewed in the magazine by the NPuls. Finally, there is of course the interview with Maarten in this edition of The Teaching Times which I deeply recommend. 
+
+Question 5: Lastly, as the Chairman of the AI in Education Working Group, could you share some of the key initiatives or projects that the group is currently working on? How do these initiatives aim to address the challenges and harness the opportunities of AI in education? 
+
+Robin van Emmerloot: Currently, this group is no longer active as some of the most urgent questions at the time have been answered. Like: what's allowed in terms of assessment? Or, what are the biggest privacy concerns? That however doesn't mean there's no work to be done. Over at CELT, a new course is being developed on this topic as well, so you'll be able to get some more practical tips and tricks as well.
+
+Closing Remarks 
+Interviewer: Thank you for sharing that, Mr. van Emmerloot. It’s encouraging to hear that while the AI in Education Working Group has answered some of the most urgent questions, there’s ongoing work at CELT to develop a new course on this topic. This will undoubtedly provide valuable practical insights for those interested in the intersection of AI and education. 
+
+On behalf of The Teaching Times and its readers, I would like to express our gratitude for your time and for sharing your valuable insights on AI in education. Your expertise and thoughtful responses have undoubtedly shed light on this important topic. Thank you, Mr. van Emmerloot. We look forward to future discussions on this and other topics related to education and technology.
+
+Robin van Emmerloot: Thank you for doing this interview with me! 
+
+Interviewer: You’re welcome, Mr. van Emmerloot! It was a pleasure interviewing you. Your insights into AI in education are invaluable. Thank you for your time and for sharing your expertise with us. We look forward to more enlightening discussions in the future. Have a great day! 
+
+Prompt
+My name is Robin van Emmerloot. I want to contribute to our new The Teaching Times newsletter at the University of Twente, by sharing some wisdom as educational consultant on the topic of AI in Education. Specifically, we're focusing on content creation for education with AI. Since you are one of those AI's available for my teachers in the University, I would like you to step into the role of the interviewer for this news article so we're going to target the correct questions my teachers have. We're doing a Q&A article, that means you get to ask me 5 questions. I'll answer them in this chat. Research who I am. Ask me the questions one by one, so it's really a chat. Make sure that you introduce our conversation, me and you, and thank me after the interview. 
+
+“While embracing the technology, misuse of (generative) Artificial Intelligence applications could be considered fraud. The Student Charter describes what the university considers cheating or fraud. Cheating/fraud refers to any action or negligence on the part of a student that precludes an accurate assessment of the student’s knowledge, understanding and skills (Article 6.6 Student Charter).
+
+Article 6.6 paragraph 1 of the Student Charter states that (any form of) assistance, resources or devices (electronic or technological) other than the ones whose use the examiner or supervisor has permitted prior to the start of the study unit and/or exam or test, or whose use the student knew or ought to have known was not permitted during a test or exam is considered cheating/fraud. Generated Artificial Intelligence programs or applications are considered “assistance, resources or devices” as mentioned in the article referred to above. Consequently, under the current Student Charter, prior permission by examiner or supervisor is needed for the use of generated Artificial Intelligence. A written assignment, project, essay or thesis falls under the umbrella of test or exam.
+
+Article 6.6 paragraph 4 of the Student Charter states that plagiarism is a particular kind of cheating/fraud, which occurs when the student uses someone else’s work or previous work of their own, without correct referencing. This includes, but is not limited to using parts of another text (printed or digital) without referencing (also if minor changes have been made) or using software without referencing. This means that under the current Student Charter, the use of Artificial Intelligence needs correct referencing.
+
+The Examination Board decides whether cheating/fraud has occurred. The Examination Board of the educational programme drafts Rules & Regulations on cheating/fraud. These may include additional provisions to the Student Charter and specify what measures will be taken in cases of (suspected) cheating/fraud.”
+
+The developments regarding AI are going fast. Detection has become kind of a cat-and-mouse game. No AI detector can provide complete accuracy, especially as language models continue to evolve, with every chance for false positives and negatives. 
+Important points to consider are also privacy and security issues. If you use free tools, chances are that they might compromise user privacy or security. When paid services are used, data protection and compliance with privacy regulations might be better, but this has to be well established.  
+For the UT emplyees we now have Microsoft Copilot available. On the Copilot website you can work with this chatbot by using your UT-account. But although it is a closed-off environment, it does not (yet) adhere to the privacy agreements in data processing for the UT and any confidential data like personal, research or student information, should not be used [read more in Available for all employees: Microsoft Copilot (utwente.nl)]. Nevertheless Co pilot can be useful and assist you in your education efforts in other ways, see Meet your AI assistant for education: Microsoft Copilot | Microsoft Education Blog. 
+
+So for detection it might work better to trust your own eyes and feelings, although to prove something remains difficult. As teacher you can be alert on 'signals' suchs as:
+
+(In)Consistency in Style. Long, complex sentences. Lengthy elaborations. 
+Use of specialized terminology that differs from the terminology used in the course.
+Mastery of the content exceeds what was offered in class. 
+(In)Consistency in the quality of work across assignments.
+Incorrect references. Unusual references. 
+The work of the student doesn’t follow the required document formatting.
+Similarity of work if a lot of stduents use AI with the same prompts. For instance for a programming or coding assignment. 
+Unusual punctuation marks in a text. 
+You can also try out what will happen if you put your assignment text in an AI programme or the prompts you expect your students will use. 
+An interesting article about this topic (commercial site): Universities can detect ChatGPT, at least to some extent, by Funmi Somoye, in PC Guide (April 2024)
+
+Some detection tools mentioned by AI self (but keep in mind what is said in the introduction): 
+GPTZero // Scribbr’s AI Detector // Turnitin // CopyLeaks // Undetectable.ai. In this article some other tools are named: GPT detector. 
+
+When given this prompt, ChatGPT answered: “ChatGPT is a conversational
+language model developed by OpenAI, trained on a large corpus of text data to
+generate human-like text based on a prompt. It can be used for various applications
+such as generating responses in a chatbot, text completion, summarization, and
+more.”
+ChatGPT works like Google’s auto-complete on steroids. It can generate text that
+appears like it is answering questions as if it “knows” the answers. But in reality it
+responds to prompts by creating strings of words and sentences, using statistical
+probability on its vast database of information, to provide a “best guess” of what
+words and sentences should follow the previous ones. The text generated can be a
+good response to the prompt given or a bad response, in many cases a vague
+response, and in some cases a completely fabricated response. But either way the
+response will almost always be well-written enough to give the appearance of being
+a good response, especially to those who don’t already know the difference.
+The text generated can also be expanded upon or changed with subsequent prompts.
+So while it may seem that ChatGPT could not write a whole paper for a student since
+it typically gives short answers, prompts asking ChatGPT to “expand on the last
+paragraph” for example could be used to make it write something paper-length.
+ChatGPT can also provide sources upon request (though there have been reported
+cases of it providing sources that do not exist)
+
+ChatGPT could help students to “get the ball rolling” on their writing assignments,
+not by writing the assignment for them, but by giving students something to work
+with. ChatGPT could, for example, write an outline that students complete, or it
+could write answers to questions that students complete on their own.
+In this case, ChatGPT would work basically like the writing equivalent to a
+calculator, a tool that students and faculty can use to make certain tasks easier to
+complete. So in courses where writing is seen as a means to an end rather than an
+end-in-itself, ChatGPT could be seen as a time saver.
+
+ChatGPT could be used by students to cheat on assignments. Because it is free to
+use (for now) and can generate text quickly and easily, students could enter essay
+questions into ChatGPT, copy and paste the text it generates into a Word document,
+and turn in an assignment that looks like the student wrote it. Furthermore, because
+ChatGPT generates text that is not just copied and pasted from one source, but that
+instead is pieced together from innumerable sources, Turnitin cannot detect papers
+written using ChatGPT. And because ChatGPT can generate text that is written in
+straightforward and clear English, it can also be hard for faculty and TAs to detect
+papers written using ChatGPT.
+An example of how ChatGPT could be used to write an answer for an assignment
+without being detected can be found here:
+https://www.folia.nl/opinie/154956/pepijn-stoop-maakt-chatgpt-straks-onze-
+tentamens
+IV. Anti-ChatGPT Tools
+Because of the rising concerns about ChatGPT being used to help students cheat,
+numerous websites (including the creator of ChatGPT) now offer ChatGPT
+detectors. Here are some examples:
+● https://platform.openai.com/ai-text-classifier
+● https://openai-openai-detector.hf.space/
+● https://gptkit.ai/4
+These ChatGPT detectors are not foolproof and do not offer a high rate of success
+in detecting ChatGPT-written text. Even the detector created by OpenAI (the creator
+of ChatGPT) only has a success rate of “around 26 percent”. Instructors using these
+detectors must therefore be careful about the danger of both false negatives and false
+positives.
+Anti-ChatGPT Assignments
+ChatGPT cannot be ignored and also likely cannot be detected. Consequently it is
+up to instructors in the meantime to try to create assignments that are as “ChatGPTproof” as possible.
+Here are some suggestions:
+● Assignments based on material ChatGPT would not have access to (e.g.,
+specific information discussed in class, literature behind paywalls, very recent
+literature or events).
+● On-campus assignments written by hand.
+● Oral assignments.
+● Projects that have several milestones and deliverables with several feedback
+moments.
+● Assignments that focus more on the process than the end product, requiring
+the students to explain their thought process and reasoning.
+● Assignments that focus on higher level skills in Bloom’s taxonomy, therefore
+avoiding to test memorizing, repeating facts, classifying but focus on
+designing, evaluating and critical thinking.
+● Assignments that incorporate other mediums such as graphs, figures, maps
+and interpretation of them.
+● Assignments that ask the students to criticize a given ChatGPT answer.
+VI. Guidelines for teachers
+● The utmost important recommendation for teachers is to define a ChatGPT
+policy in their syllabus and communicate this with the students clearly.
+● Absent a university-wide, faculty-wide, or program-wide ban of ChatGPT, it
+is up to individual instructors to decide whether students are allowed to use
+ChatGPT on assignments, and if so, in what specific ways.
+● It is vital that students are given clear instructions about how, when, and why
+they can or cannot use ChatGPT and what the penalties will be for (mis)use
+of ChatGPT.
+
+ChatGPT does not reveal the source(s) of the information it uses to generate
+text and so students should be warned not to treat ChatGPT as a credible
+source for assignments.
+● ChatGPT should thus likewise not be cited by students in their assignments as
+an author, especially not if this method is seen by students as a way to avoid
+being accused of plagiarism. ChatGPT and similar tools cannot be authors as
+they cannot be held accountable for the work they produce.
+● Because ChatGPT detectors cannot yet be considered reliable, any suspicion
+that students have used ChatGPT cannot be tested merely by using a detector.
+Likewise, the report of a detector should not be submitted to an Examination
+Board as “proof” that a student has used ChatGPT. It is instead recommended
+that students be informed in advance that suspicion of ChatGPT use can be
+grounds for instructors to give students an oral exam on their assignments.
+VII. Rules & Regulations on Fraud
+● UT policy on Academic Misconduct states: “An exam/test is an investigation of
+knowledge, skills and insight of a student. A student has to deliver only his own and
+original work. If not, it will be considered as fraud or plagiarism. Also free-riding
+behaviour, that is benefiting from other people's efforts in groups (assignments) while
+not putting in the same effort as the other group members, can be considered as
+fraud.”
+● Students using ChatGPT to write any or all of an assignment, without the
+express consent of the instructor, should therefore be considered to have
+committed academic misconduct.
+● Suspicion that students have used ChatGPT should be reported to the
+Examination Board along with an explanation of the suspicion and any
+supporting documentation in the same way as any other suspicion of academic
+misconduct.
+○ As mentioned above, the report of a ChatGPT detector should not be
+submitted as “proof” of misconduct. Just as Turnitin scores are used,
+not as proof, but as indications of reasons for suspicion to be discussed
+with Exam Board members and with students, so too ChatGPT detector
+reports should be seen only as indications to be used as a basis for
+discussion.
+It should be noted though that while typically a high score on Turnitin
+is used in reports of suspicion of misconduct, with ChatGPT a score of
+0% could instead be considered useful in support of suspicion since
+Turnitin cannot currently detect ChatGPT.
+
+(Dis)allowing Usage of ai
+Allowing or disallowing the different AI tools is very much down to choices in programmes and courses. To promote transparancy, the working group formulated this document to help teachers and students at the University of Twente.
+
+Use of AI in Education at the University of Twente
+Students
+If Artificial Intelligence (AI) tools are allowed for completing an assignment several different levels are
+possible, i.e. only for certain purposes, only specific tools or completely free. It is required that students
+mention the use of AI. Therefore, when any form of AI is used, the use of these tools should be included in
+the appendix (list all tools that were used during the work). The following sentence should be used at the
+start of the appendix:
+“During the preparation of this work the author(s) used [NAME TOOL / SERVICE] in order to
+[REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed
+and take(s) full responsibility for the content of the work.” 1
+If there is nothing to disclose, a statement must still be included that no AI was used:
+“During the preparation of this work the author(s) used no artificial intelligence tools.”
+Generally, all software (because it has the potential to include AI) that has been used needs to be
+disclosed, for example, but not limited to, tools for writing, searching, citing and analyzing data. Please be
+aware that the following programs could contain tools based on AI, generally included to improve language:
+e.g. (but not limited to) text processors (such as Word), spelling and grammar checks and potentially
+reference managers.
+Students using AI, without the explicit consent of the instructor and acknowledgement of the tool in an
+appendix, should therefore be considered to have committed academic misconduct.
+Teachers (at module level)
+With every assignment or group of assignments it should be clear if students are allowed to use AI and
+whether this is with restrictions. See below for options.
+Option Description
+No No use of AI is permitted
+Some AI can be used for the following purposes:
+Some The following AI tools can be used:
+Yes The use of any AI is permitted
+AI = Artificial Intelligence.
+Please be aware that many (everyday used) programs contain tools based on AI, generally included to
+improve language. To give an example, (but not limited to) text processors, spelling and grammar checks
+and search tools.
+Suspicion that students have used unpermitted or unreported AI should be reported to the
+Examination-Board along with an explanation of the suspicion and any supporting documentation in
+the same way as any other suspicion of academic misconduct.
+
+“Are my assessment methods still reliable?” you might ask yourself. Generally speaking, fraudulent use of AI can be done when no supervision is involved. Of course, students are able to prepare for a supervised assessment while using AI themselves. To help you see the potential risk in your type of assessment, this graph was drafted by the Centre of Expertise in Learning & Teaching.
+
+When you want to ensure the reliability and authenticity of your assessment, there are some general guidelines to keep in mind.
+
+Mix several types of assessment, especially when you are using unsupervised assessment now.
+Try out your current assessment in one of the generative AI tools to assess the output quality.
+Explicitly state your position in assessment, in relation to the usage of AI in education towards your students.
+Detecting ChatGPT 3.5
+If you specifically want to avoid whether work is (partially) done by ChatGPT 3.5, here are a couple of tips.
+
+Text generated by ChatGPT can be overly correct in grammar.
+Faults or missing information in references and sources
+To prevent this, you can focus on incorporating relevant sources (since 2021) and own experiences/examples.
+As this topic is highly dynamic, some of the provided advice and guidelines might be overruled by new technological developments.
+
+Who can support me?
+The team Technology Enhanced Learning & Teaching can help you with questions or support requests regarding AI in education. You can reach out to them via mail.

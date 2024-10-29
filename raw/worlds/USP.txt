@@ -1,0 +1,122 @@
+Recently, the world has seen a rapid development of Artificial Intelligence (AI) technology,
+and one that is now dominating our discussion is what is known as ChatGPT. This resource
+provides a guide for you as a teacher to understand what this is and its implications for your
+teaching.
+What is ChatGPT?
+An AI tool that uses natural language processing techniques to respond to user-generated
+prompts.
+Put simply: You ask ChatGPT a question or provide a prompt, it replies using natural
+language.
+Screenshot of ChatGPT prompt and response
+What can ChatGPT do?
+▪ Write essays
+▪ Write lesson plans
+▪ Write course outlines
+▪ Write learning objectives
+▪ Design quiz/test questions
+▪ Write a script for a podcast or video
+▪ Design a rubric
+▪ Provide directions for a learning activity
+▪ Write emails to students
+▪ Write computer code and more...3
+What can ChatGPT NOT do? (yet)
+▪ Write a self-reflection
+(e.g., "describe how the content we covered in class last week shifted your thinking
+about your role as a current/future teacher").
+▪ Write about anything that happened after 2021
+As ChatGPT is not connected to the internet, it does not learn from current events
+or any content after 2021.
+▪ Provide non-text based responses
+(e.g., "design an infographic, interactive Google Map, TikTok-style video, meme,
+multimodal timeline"). Note: ChatGPT can still help with writing a script for a
+podcast or video or crafting the text to go in an infographic, meme, poster, timeline,
+etc...
+▪ Make accurate and correct references to articles (Refer to “Trustworthiness”)
+
+Make predictions about future events
+
+What can I do as a teacher?
+Before you hastily consider banning technology from your classroom in favour of traditional
+forms of assessment such as handwritten essays and oral exams (not that there’s anything
+wrong with those methods, but they might lead to more student anxiety) consider how this
+tool might help you rethink teaching and learning.
+Instead, you might...
+▪ Update your course outline
+▪ Talk with your students about academic integrity. You may consider a declaration
+statement to ensure accountability and honesty for student submissions
+▪ Redesign your assessment
+▪ Encourage risk-taking, productive struggle, and learning from failure
+▪ Be transparent about assessment
+▪ Reconsider your approach to marking
+▪ Shift from extrinsic to intrinsic motivation
+
+What else do you need to know about ChatGPT?
+Beware of Privacy
+OpenAI (the company that designed ChatGPT) collects a lot of data from ChatGPT users.
+The privacy policy states that this data can be shared with third-party vendors, law
+enforcement, affiliates, and other users.
+While you can request to have your ChatGPT account deleted, the prompts that you input
+into ChatGPT cannot be deleted. If you, or your students, were to ask ChatGPT about
+sensitive or controversial topics, this data cannot be removed.
+TIP: Before asking your students to use ChatGPT (if you plan to do so), please read over
+the privacy policy and allow them to opt out if they do not feel comfortable having their
+data collected and shared as outlined in the policy.
+Be careful of Trustworthiness
+You need to be discerning of the information being churned out:
+▪ ChatGPT is not always trustworthy.
+▪ ChatGPT was trained using a massive dataset of text written by humans that was
+pulled from the Internet.
+▪ Thus, the responses can reflect the biases of the humans who wrote the text used in
+the training dataset.
+▪ Currently ChatGPT is not connected to the Internet and the data used to train it
+was collected prior to 2021.6
+▪ According to the FAQs, ChatGPT “has limited knowledge of world and events after
+2021 and may also occasionally produce harmful instructions or biased content”
+(Natalie, para. 4).
+▪ ChatGPT makes stuff up!
+▪ To make up for knowledge gaps (e.g., lack of training data to pull information from),
+ChatGPT will provide a response to the best of its ability (often made up) rather
+than say “error” or “cannot compute.”
+See “How to Talk to ChatGPT, the Uncanny New AI-Fueled Chatbot That Makes a Lot of
+Stuff Up” (Ropek, 2022).
+EXAMPLE
+ChatGPT provided the APA reference list below for a prompt about professional learning
+networks (PLNs). The first and last citations are NOT real articles (they do not exist!). The
+middle two are real articles (but not actually related to PLNs).
+References:
+Boud, D., & Molloy, E. (2013). Personal learning networks: Using social media to support
+professional learning. In S. Merry, & M. Smith (Eds.), Professional learning through
+communities of practice (pp. 47-59), Springer.
+Bryk, A. S., & Schneider, B. (2002). Trust in schools: A core resource for improvement.
+Educational Leadership, 60(3), 40-45.
+Ertmer, P. A., & Ottenbreit-Leftwich, A. T. (2012). Teacher technology change: How
+knowledge, confidence, beliefs, and culture intersect. Educational Technology Research and
+Development, 60(6), 623-644.
+Veletsianos, G. (2016). Navigating and participating in online professional learning networks.
+In G. Veletsianos (Ed.), Emerging technologies in distance education (pp. 105-123),
+Athabasca University Press.
+Asking students to use ChatGPT provides free labor to OpenAI
+ChatGPT is in its infancy. It will continue to become a more intelligent form of artificial
+intelligence...with the help of users who provide feedback to the responses it generates.
+Do you really want to ask your students to help train an AI tool as part of their education?
+Read the article: ChatGPT and Good Intentions in Higher Ed by Autumm Caines.Does Turnitin detect AI-generated text?
+In recent months, Turnitin has integrated its AI detection capabilities. In addition to the
+Similarity Report, and AI writing report will also elicited that determines the degree to
+which a student may have used AI technology for assignments.
+Read the Turnitin’s AI Writing Detection Capabilities for more on this.
+Is submitting AI-generated text considered cheating?
+There is no definitive answer whether AI-generated text is considered cheating; that will
+differ course by course. Most teaching staff assume that any written work that a student
+submits is written personally by that individual. Students may believe that it is acceptable to
+use text generated by AI that they proofread and revise as they are making a contribution
+to the end-product through their editing.
+Because this is an area without a clear answer, schools should set clear guidelines for
+whether AI-generated text is acceptable in their course. Refer to the “What can I do as a
+teacher?” section for examples and resources on updating your course outline and
+discussing academic integrity with your students.
+Does the university policy on academic integrity say anything about
+student submission of AI-generated text?
+No, at this time, the USP policy on academic integrity and cheating does not address student
+submission of AI-generated text. If you want to prohibit students from submitting AI-
+generated text in your course, consider adding language to your course outline or
+assessment parameters addressing it.

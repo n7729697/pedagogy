@@ -1,0 +1,164 @@
+AI-generated material in higher education
+In higher education, the development within so-called generative AI (where ChatGPT is probably the most well-known) has been a source of concern and many considerations. On these pages, the concept of generative AI is introduced, explained, and illuminated from various perspectives.
+
+Contact
+Pedagogical Development and Interactive Learning (PIL)
+pil@gu.se
+Box 300, SE 405 30 Gothenburg, Sweden
+
+Visiting Address:
+Pedagogen Hus A, Västra Hamngatan 25, Floor 1
+
+Phone:
++46 (0)31-786 0000
+
+In these pages, the term generative AI refers to tools that create new texts and other materials based on previous works they have been trained on. Knowledge about generative AI is important for developing an approach that, in the long run, can be the basis for well-considered and sustainable use.
+
+Through the menu, you can find more information about different aspects of generative AI.
+
+Use of generative AI at the University of Gothenburg
+The first question many ask is whether it is permissible for employees to use services such as ChatGPT and whether licenses are available. Currently, the Microsoft Bing Chat/Copilot service (login required) is accessible for both employees and students. Access to other services is not currently offered at the University of Gothenburg.
+
+There is also some complexity regarding the use of services not offered through the university since they have not been scrutinized from, for example, legal perspectives or in terms of security. Therefore, users of these services are advised to exercise caution. It is, for instance, very important not to share any personal data or sensitive information. This also applies to Microsoft Bing Chat/Copilot at present, even though it is offered through the university. Personal data includes all kinds of information that can be directly or indirectly linked to a living person, such as names, images, and voice recordings. Sensitive information refers to, for example, information about ethnic origin, political opinions, and health.
+
+Based on this, a possible stance could be that we should not use these services at all. However, we know that it is necessary to explore them to understand the opportunities and challenges they present, which educators in higher education need to consider, for example, when designing examinations. Since the use of generative AI in education at the University of Gothenburg is decided at the course, program, and/or department level, it may be necessary to explore, for example, Microsoft Bing Chat/Copilot.
+
+Guidance from the Board of Education
+The Board of Education has developed a guidance for teachers regarding the use of generative AI in education. This guidance defines generative AI, describes its relation to teaching and pedagogy, and its relationship to the University’s rules and regulations for first- and second-cycle examinations.
+
+Guidance for teachers on using generative AI in education (pdf)
+
+Swedish version:
+
+Vägledning för lärare om generativ AI i utbildningen (pdf)
+
+Guidance for students
+The Board of Education has also developed guidance for students. It is based on the guidance for teachers (see above) and is available in the Student Portal.
+
+Guidance for students on the use of generative AI in their studies
+
+Swedish version:
+
+Vägledning vid användning av generativ AI i studierna
+
+Guidance for teachers on using generative AI in education
+The Board of Education at the University of Gothenburg, during its meeting on September 
+20, 2023, has reached a consensus on the following guidance for teachers on using 
+generative AI in education.
+Definition of generative AI 
+AI is an abbreviation for Artificial Intelligence, which is utilised in many areas of today's 
+society. "Generative AI" refers to tools that generate new works based on data from previous 
+works, such as text, images, music, or speech. Examples of generative AI tools include 
+ChatGPT (or its underlying language model GPT), Bing Chat Enterprise, BERT, Github 
+Copilot, and DALL-E (or its underlying model). These tools create new text or images based 
+on the text or images they have been trained on. Counterexamples are tools that do not use 
+data to create new works but instead rely on predefined rules, such as Grammarly for 
+grammar correction, spell check in word processing programs, and Microsoft Teams for 
+transcription.
+Technological advancement is progressing rapidly, and generative AI is already integrated 
+into many existing tools. It is the responsibility of each student and teacher to investigate 
+whether the tools used in teaching and research utilise generative AI-based enhancements.
+University's position 
+The use of generative AI in education is not prohibited. How generative AI is employed in 
+education (recommended, permissible, or restrictive) is determined at the course, at the 
+program, and/or at department level, taking into consideration the current rules for the use of 
+IT tools at the University of Gothenburg.
+Relation to teaching and development of teaching and learning
+Many students will encounter and use various types of AI tools in their future careers. As is 
+the case with all the use of aids or educational tools, it is important to consider how these 
+contribute to the quality of the course and how teaching supports students' opportunities to 
+achieve learning outcomes. It is particularly important to ensure that all students have equal 
+access to recommended tools.
+Decisions regarding the use of generative AI in a teaching context are made in accordance 
+with the existing procedures for the use of aids/tools in a teaching context at the 
+course/program/institution level.
+Relation to examination 
+Rules and regulations for first- and second-cycle examinations at the University of 
+Gothenburg are applicable to generative AI. The following rules from the document are 
+central for generative AI:
+9A. Course coordinators are to ensure that information about examinations, in accordance 
+with the course syllabus and other examination preconditions, is available at least two weeks 
+prior to the start of the course
+14A. Permitted aids are to be communicated to students in a timely manner prior to 
+examinations.
+16A. Students are responsible for familiarising themselves with the applicable Rules and 
+Regulations for Examinations for their own course and study programme.
+30B. Often all aids are permitted for take-home examinations and written assignments. The 
+course syllabus must specify whether there are restrictions, for example in respect of 
+cooperation. ..
+Given these rules, it is of great importance that course syllabuses and instructions for 
+examinations are up-to-date, and students are informed about which aids are allowed in a 
+given examination. Teachers/examiners need to clearly communicate the boundaries of 
+acceptable generative AI use.
+Where and how the boundary is drawn (recommended, permissible, or restrictive) must be 
+determined for each individual examination in relation to the content and format of the task. It 
+is essential to consider:
+• That all students have equal access to recommended tools.1
+• That the university does not have a system to detect AI-generated works, as available 
+tools for this purpose lack reliability.
+Support 
+As a teacher, it is necessary to become acquainted with generative AI, and the following links 
+are a good starting point:
+• PIL: Startpage - Pedagogical Development and Interactive Learning (PIL), University 
+of Gothenburg, Sweden (gu.se)
+• Data Security: 1531415_regulations-for-it-security_-revision2015_rev_pl.pdf
+
+Guidance for students on the use of generative AI in their studies
+Policies on generative AI will vary across courses, programs, departments, and faculties. It is the teachers and examiners that decides if, when, and how these tools can be used in coursework and examinations.
+
+What support do you need regarding AI?
+We are currently reviewing the needs for support regarding generative AI among the University's students, so that we can develop guidance and support in academic language and writing.
+
+Participate in the survey on generative AI
+
+The information on this page is based on the University's guidance for teachers on using generative AI in education, published 9 October 2023.
+
+The University’s position on generative AI
+The University of Gothenburg does not prohibit the use of generative AI in education. Instead, the University allows teachers and examiners to decide if, when, and how generative AI may be used by students in coursework and examinations. This means that teachers and examiners can recommend, restrict, or permit the use of generative AI tools under certain circumstances.
+
+Policies on generative AI will vary across courses, programs, departments, and faculties. Teachers and examiners are responsible for communicating their policies about generative AI to students. Likewise, students are responsible for familiarising themselves with and following these policies, including any restrictions placed on the use of generative AI to complete coursework and examinations.
+
+What is generative AI?
+Generative AI or generative artificial intelligence refers to tools that use probability models and machine learning methods to generate new content based on data from previously published content. Generative AI is currently used to create code, images, music, speech, text, and video.
+
+Examples of generative AI tools you may have used or heard about include ChatGPT (OpenAI), BERT (Google), Github Copilot (Microsoft), Bing Chat Enterprise (Microsoft) and DALL-E (OpenAI).
+
+Given the rapid pace of technological development, it is important to note that generative AI is being integrated into applications such as Microsoft Office. Despite the widespread availability and use of generative AI tools, it remains up to your teachers and examiners to decide if, when, and how you are permitted to use these tools in your coursework and examinations.
+
+Differences from language assistance applications
+Generative AI tools are different from language assistance applications such as Grammarly and Microsoft Editor. Unlike generative AI tools that create new content based on data from previously published content, language assistance applications identify errors and suggest corrections based on predefined rules.
+
+Due to these differences, your teachers and examiners may have different policies for generative AI tools and language assistance applications.
+
+Limitations of generative AI tools
+Even if your teachers and examiners allow you to use generative AI, please keep in mind that these tools have limitations.
+
+Tools like ChatGPT (OpenAI), Bing Chat Enterprise (Microsoft), and Bard (Google) can generate texts containing factual inaccuracies and fabricated references. Moreover, these tools can replicate and amplify biases present in their training data.
+
+Given these limitations, you should not use generative AI to create fact-based content or to complete tasks that you do not have the knowledge and skills to complete yourself.
+
+How generative AI can impact learning and examinations
+Like any tool or resource, you are encouraged to think about how using generative AI will affect your learning and ability to meet course goals. If a generative AI tool is recommended in your course, your teacher or examiner will give you access to it.
+
+It is also important to note that the University does not recommend checking your work with an AI detection tool as existing tools are unreliable.
+
+Generative AI and the rules for examinations
+In the context of examinations, the University of Gothenburg considers generative AI a tool and the University’s rules and regulations for first- and second-cycle examinations apply. The rules that are especially relevant to generative AI are listed below. Click on the text to read the explanation.
+
+3A. Grading decisions are to be based on the individual student’s performance in relation to the course objectives.
+This means that your examiners must assess your individual performance when determining your grade. Consequently, you are not permitted to submit content created with a generative AI tool as your own, original work. If your examiner allows you to use generative AI tools to complete an examination, that examiner may also ask you to explain how you used these tools to complete the examination. This explanation will help your examiner assess your individual performance in relation to the learning outcomes.
+
+
+14A. Permitted aids are to be communicated to students in a timely manner prior to examinations.
+This means that your examiner should provide clear and explicit information about if, when, and how you are permitted to use generative AI to complete an examination. If your course contains more than one examination, your examiner should provide guidance about the use of generative AI for each examination.
+
+
+16A. Students are responsible for familiarising themselves with the applicable Rules and Regulations for Examinations for their own course and study programme.
+This means that you are responsible for reading and following the rules and regulations about the use of generative AI in your courses and programme.  
+
+
+30B. Often all aids are permitted for take-home examinations and written assignments. The course syllabus must specify whether there are restrictions, for example in respect of cooperation […].
+This means that if a take-home examination or written assignment does not explicitly restrict the use of certain aids or tools, you are allowed to use them. However, keep in mind that general rules and regulations still apply. For example, you are not permitted to present AI-generated content as your own, original work since this could be considered deceitful.
+
+Additional guidance
+Contact your teachers and examiners if you have questions about using generative AI tools to complete your coursework and examinations.

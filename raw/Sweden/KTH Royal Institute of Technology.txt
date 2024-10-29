@@ -1,0 +1,574 @@
+Generative AI in higher education
+Generative AI applications have become increasingly accessible and popular among both students and teachers around the world. As a university, we at KTH must consider the impact of generative AI on students' learning, both positive and negative. How can we use generative AI ethically, legally and in an academically honest way? And how do we reliably assess students' knowledge in this new digital era?
+
+AI and information retrieval
+AI tools can speed up and simplify scientific information retrieval. At the same time, it is important to be aware of the risks of inaccurate information and fictitious references. KTH Library have more information on how to use AI search tools: AI and information retrieval .
+
+What is generative AI technology? 
+Generative AI is a type of AI (Artificial Intelligence) that can create digital content, which is why it is called “generative” AI. Today, various generative AI applications are available on the internet, which anyone can use to create digital content according to their wishes, such as text, images, video, or code.  
+
+How does it work? 
+Generative AI applications are based on probability-based machine learning models trained on large data sets. These systems thus have no factual knowledge. Instead, they create material by predicting, for example, what the next piece of text should contain. The predictions are based on statistical models and the instructions they receive.  
+
+AI applications are not sentient and do not understand what they are creating. Some mimic human communication to give the illusion of sentience, making it easier to use and more appealing to humans.
+
+Use generative AI efficiently and ethically
+Generative AI applications seem to be on their way to joining the other kinds of AI-powered tools we already use at KTH, such as Grammarly. As with all new digital tools, we must consider how to effectively use generative AI while reducing the risk of misuse. We must learn to use it in a way that is ethical and academically honest, and help students do the same.
+
+Use generative AI efficiently and ethically
+
+Improve the learning experience
+On these pages, you can read more about how generative AI can improve student learning experiences. As a teacher, you can use generative AI to enhance your course, for example, refine course material or provide feedback. Students can use it to aid their learning process by, for instance, adapting course material to their individual needs.
+
+Improve the learning experience
+
+Assessing knowledge in a world with generative AI
+On these pages, you can read more about how to minimize the potential impact of generative AI on your assessment. Begin with deciding an approach, then what actions to take. Actions can roughly be divided into two categories: Preventive measures or hindering actions. These actions are not mutually exclusive, and you should actively consider both perspectives in your teaching.
+
+Assessing knowledge in a world with generative AI
+
+Ethical issues and legal matters
+The use of generative AI has several ethical and legal implications that must be considered and addressed, as with any other digital tool at KTH. However, for generative AI it is more difficult than usual due to the complexity of the large language models and the usefulness of the technology.
+
+Ethical issues and legal matters
+
+Use generative AI efficiently and ethically
+There are questions regarding the use of generative AI applications that needs answers before they can join the other AI-powered tools we use at KTH, such as Grammarly. How can we effectively use generative AI, while reducing the risk of misuse? How can we learn to use it in a way that is ethical and academically honest, and help students do the same?
+
+The number of generative AI applications that are available online is huge and are currently increasing every day. These applications can generate all sorts of materials: text, pictures, code, sound, video, music, etc.
+
+We will use ChatGPT as an example here, which is an AI application that generates text. It seems fitting since most people use this generative AI first, and many other generative AIs work similarly.
+
+Efficient ways to use generative AI such as ChatGPT
+To use a generative AI, you need to give it instructions in some way, usually in the form of questions or statements. These instructions are called prompts. For chatbots like ChatGPT you enter the prompts in a textbox and get the response in a chat. Most generative AIs accept prompts in similar ways, even if the result may be displayed differently.
+
+Write purposeful prompts
+You should write prompts with your idea of the output in mind, otherwise, you risk getting generic answers from the generative AI. When writing prompts, do the following to get more focused and relevant outputs:
+
+Specify constraints. For example, “only list the three most important points” or “do not repeat yourself”.
+State your purpose, either explicitly or implicitly. For example, “quiz me on X, I intend to learn the subject” or “suggest a lesson plan to best teach X”.
+Include longer texts and focus the rest of the prompt on those texts. For example, “create feedback on how to be a better writer based on the following essay”.
+Define a persona or role for the AI. Some simple examples: “you are an expert logician” or “answer as a confused student”. You can also add much more detail, see examples on the page AI Personas to Talk to in ChatGpt (aidemos.info).
+If you’re not happy with the result, ask the generative AI to try again with the same prompt or write a different prompt. You can also refine the output by iterating it through interactive dialogue with the generative AI, as explained under the next heading.
+
+Iterate through interactive dialogue
+Using a generative AI efficiently is more than just writing a great prompt, it is about working with the AI to iterate. After getting a response to your first prompt you can act as if you are interacting with a person. For example, ask it to explain something in more detail or by using other words, or ask it to correct something it got wrong. This way, you do not need to write a “perfect” prompt, you simply chat and guide the AI to the result you want.
+
+As an example, we asked ChatGPT (in May 2023): “How would you explain how to use ChatGPT to someone who has never used it before?” However, the answer was too long to cite here so we tried refining it by asking: “Can you please write this more summarized?”. So, we got an answer that was shorter and more on point:
+
+ChatGPT med en aktiv konversation och en chattbox på engelska. Vänstra palnelen visar tidigare chatt
+“Certainly! Here's a more summarized version:
+
+Enter your query or statement in the chatbox.
+Read the response from ChatGPT.
+
+Continue the conversation by asking follow-up questions or providing more details.
+
+Experiment with different queries and variations.
+
+Be clear and specific in your instructions or context.
+
+Remember that ChatGPT has limitations and may occasionally provide incorrect answers.
+
+Enjoy the conversation and provide feedback for improvements.
+
+Hope that helps! Let me know if you have any more questions.”
+
+If we wanted to, we could have kept improving the output. For example, by asking it to elaborate on points 3 and 4, remove point 7 and explain what we need to do about point 6. In this way, you can chat with the generative AI until you have the output you want.
+
+Ethical use of generative AI as a teacher
+How can we use generative AI in a way that is ethically justifiable? This question is not easily answered. There is a lot to take into consideration when deciding if you should incorporate it into your course. Here we have gathered support regarding ethical use, both practical hands-on advice and more general guiding questions.
+
+Further reading
+If you want to learn more about the ethical issues generative AI might cause, go to Ethical issues and legal matters.
+
+Dos and don’ts for ethical use
+Do not enter any personal information about yourself or your students, such as when writing prompts. The privacy and confidentiality of your students are important to consider.
+Be transparent about when and why you are using AI. By this you are providing a good practice to your students on how to use it honestly. 
+Be aware of and have a plan to handle biases and limitations of the AI and ensure that your students understand how to do it as well. AI tools are not free from bias and therefore we should use them with caution. 
+Do give students the choice to opt out of using AI or having it used on their material. You cannot ensure that the students' material will not be used to train the AI, and they should get to decide how their material is used. 
+If possible, opt out of giving your data to the AI application for training, to protect any potential problems with your copyright. For some AI applications this is possible to do under settings.
+Four key ethical considerations as an underlining guidance
+The European Commission has published Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for educators (European Union, 2022, education.ec.europa.eu). These guidelines identified four key ethical considerations as underlining guidance when using AI in teaching.
+
+Human agency. Consider how using AI will impact your and the student's capability to be competent members of society.
+Fairness. Make sure everyone can use the generative AI application and that the AI does not discriminate or exclude people due to biased algorithms.
+Humanity. You should have a human-centric approach to AI where there is respect for people's identity, integrity and dignity.
+Justified choice. Use knowledge and data to justify appropriate collective choices with multiple stakeholders. Do not over-rely on data that might be biased or insufficient algorithms.
+Selected guiding questions
+The following is a list of guiding questions to help you reflect on the ethical use of generative AI in your course. Use them to identify and address possible challenges for each learning activity involving generative AI. We recommend you revisit them as the course progresses, especially if generative AI is used differently than you expected before the course started. The questions are based on the “guiding questions for educators” in the Ethical guidelines on the use of artificial intelligence (AI) and data in teaching and learning for educators (European Union, 2022, education.ec.europa.eu).
+
+How does the AI system affect the didactical role of the teacher? Should any learning activities be adapted accordingly?
+How can students opt out and is it possible to do without it affecting their grades?
+How do you prevent overconfidence in or overreliance on the AI application?
+Are all teachers sufficiently trained to safely use the AI application without causing harm or violating the rights of students?
+Does the use of the system create any harm or fear for individuals or for society?
+Are the instructions and information accessible and presented in a way that is clear both for teachers and students?
+Is the system accessible to everyone in the same way without any barriers? How is this ensured?
+Who is responsible for the ongoing monitoring of content produced by the AI application?
+Who is responsible and accountable for final decisions made regarding the procurement and implementation of the AI application?
+Can you require students to use AI?
+No, we cannot require students to use generative AI at this moment (written in august 2023). The reason is that we cannot yet ensure that generative AI applications are legal according to data privacy, copyright and GDPR laws. This topic is widely discussed and is currently being investigated in the EU, therefore it is possible that this recommendation will change in the future. Read more about ethical issues and legal matters.
+
+Until we are able to fully control how our data is being used by generative AI applications, we should be extra careful with how we use them and only require useage on a voluntary basis.
+
+Further reading 
+General usage:
+
+ChatGPT and artificial intelligence in higher education: quick start guide (unesco.org)
+
+Writing prompts: 
+
+ChatGPT Prompt Engineering for Developers (deeplearning.ai)
+A Teacher's Prompt Guide to ChatGPT aligned with 'What Works Best' (studocu.com)
+Generative AI and ethics:
+
+Recommendation on the Ethics of Artificial Intelligence (unesco.org)
+
+Improve the learning experience
+On these pages, you can read more about how generative AI can improve student learning experiences. As a teacher, you can use generative AI to enhance your course, for example, refine course material or provide feedback. Students can use it to aid their learning process by, for instance, adapting course material to their individual needs.
+
+Enhance your course with generative AI
+Generative AI has the potential to enhance and optimise your course and course material. You can use it to create and refine course material, generate course-specific media and test your course with simulated students. You can also provide more frequent feedback. More advanced utilisation might be possible in the future, if generative AI is more deeply integrated into existing systems at KTH, like Canvas.
+
+Enhance your course with generative AI
+
+Personalise learning with generative AI
+Generative AI can help your students adapt the course material to their individual needs, aiding them much like a personal tutor would do. It can also help make course material accessible to students with a wide range of disabilities.
+
+Personalise learning with generative AI
+
+Improve feedback using generative AI
+Both teachers and students can use generative AI to provide feedback to help the student's learning process. Generative AI can offer teachers the opportunity to provide more targeted feedback to students and students to get feedback on their own.
+
+Improve feedback using generative AI
+
+Enhance your course with generative AI
+Generative AI has the potential to enhance and optimise your course and course material. You can use it to create and refine course material, generate course-specific media and test your course with simulated students. You can also provide more frequent feedback. More advanced utilisation might be possible in the future, if generative AI is more deeply integrated into existing systems at KTH, like Canvas.
+
+This page will focus on how you as a teacher can improve your course, the course material and your feedback to the students. For information about using generative AI to improve students' learning experience, go to the page Personalise learning with generative AI.
+
+Create and improve course material with generative AI
+How to use generative AI
+See the following page to learn how to Use generative AI efficiently and ethically.
+
+New and old course material can both benefit from generative AI, as explained in more detail under the following headings.
+
+Note! Remember to review and customise the AI-generated outputs to ensure they align with your pedagogical approach and the specific needs of your students.
+
+Brainstorm new material
+Generative AI can be an invaluable tool for brainstorming, which is especially useful when creating new material. Ask a generative AI application for suggestions for material that fits your course and learning outcomes. You will likely have to keep working on the material created by the AI, but it will help you get started. You can refine the suggestions on your own or with the continued use of the generative AI application.
+
+For example, you can use a generative AI to get suggestions for:
+
+course structure, by giving the AI the course’s key topics and learning outcomes
+suitable learning activities for a topic
+questions for quizzes and exercises
+how to vary mock exam questions
+scripts for course videos
+realistic examples of a topic, formula or phenomena.
+Refine or complement existing material
+Your existing course material can benefit from generative AI; they do more than create entirely new content. A generative AI can enhance your materials' clarity, engagement, and coherence by, for example, making a text more reader-friendly or suggesting complementing discussion topics.
+
+Tip!
+Check the quality of the output of popular generative AI applications, even if you do not use them. Remember that your students might use them, but they lack your expertise in judging the quality of the output. Consider checking ChatGPT (free account required, chat.openai.com) and OpenUni.ai.
+
+For example, you can use a generative AI to:
+
+place descriptive headers in your texts
+rewrite a text in plain language
+highlight strengths and weaknesses in your course material and suggest improvements
+create complementing discussion or quiz question
+highlight the connection between the current topic and a previous topic
+generate alternative explanations or analogies
+summarize lengthy texts such as research papers or textbook chapters.
+Create course-specific media
+Finding media that fits your specific course can be a hassle or not worth the time. However, with generative AI, you can easily create images, videos and audio to your specifications. You can use the generated material on its own or supplement your existing material, for example, by adding an image or animation to a text. There are many tools available that only require text instructions (prompts) to create media, such as DALL-E or Midjourney, so you do not need to know how to edit the media yourself.
+
+Note that since this technology is new, there are areas that require improvement. For example, generative AI only sometimes creates the correct number of fingers or teeth. Always review the output from the AI before using it in your course.
+
+Test your course and lessons with AI
+It is difficult to predict if your course will work as intended before the students interact with it, as every teacher knows. It is unsustainable to test every course with real students, but testing your course with generative AI is relatively simple.  
+
+Generative AI can simulate students with different levels of understanding and motivation, which you can use to test your course. For example, the AI can generate hypothetical student reactions, questions, or concerns that align with the intended students' level of knowledge. Of course, you will need to make some assumptions about the students that might or might not be correct. Nevertheless, this method will hopefully help you anticipate potential issues, gaps in understanding, or unclear areas in your course material.
+
+For example, test your practice or exam questions by asking a generative AI to answer them "as a first year engineering student" or "as a master student with dyslexia". You could also provide the AI with a lesson plan and ask it if it can find some issues or ask if the plan is coherent or not. There are a lot of different ways to use it, try and see what works best for you and your course. Read more about how to use it purposefully in the section "Write purposeful prompts" on the page Use generative AI efficiently and ethically.
+
+Be extra careful and use an AI where you can opt out of it saving your data if you are testning your own, original material. This to make sure your material is not used to train the model or in any other way that you might not approve of.
+
+Further reading 
+General: 
+
+New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments (papers.ssrn.com).
+Can AI Help Teachers With Grading? (edsurge.com).
+Automatic feedback to teachers:
+
+Feedback from an AI-driven tool improves teaching, Stanford-led research finds (news.stanford.edu).
+
+Personalise learning with generative AI
+Generative AI can help your students adapt the course material to their individual needs, aiding them much like a personal tutor would do. It can also help make course material accessible to students with a wide range of disabilities.
+
+Generative AI makes personalised learning possible on a much larger scale than before, which helps solve the ineffectiveness of the traditional “one-size-fits-all” approach to education. The promise of a personalized learning experience is that every student would enjoy a unique educational approach that is tailored to their individual abilities and needs. This could directly increase students’ motivation and reduce their likelihood of dropping out.
+
+Personal tutoring aid
+Generative AI can be used as a personal tutoring aid for students in higher education in various ways. This is relevant knowledge for you as a teacher, since it can help you support your students to find adequate aid. For example, students can ask a generative AI to:  
+
+analyse and adapt their learning process
+explain and interpret complex problems
+adapt or alter learning material to their own preference
+help improve their language abilities
+provide feedback on their work.
+For these examples we need to know in what ways generative AI can aid students and what risks there are. As a teacher you might want to discuss with your students how to use it in a meaningful way.
+
+Analyse and adapt their learning process
+AI algorithms can analyse a students' performance and identify areas where they struggle, providing targeted support to help them overcome these challenges. This allows for a more individualized learning experience, tailored to each student's strengths and weaknesses.  
+
+Many digital learning platforms already have algorithms that calculate which content each student needs to practice more. Using AI, it is possible to create even better adaptive learning environments that help students understand their own learning processes and patterns better. This can lead to more effective studying strategies and better support for all students.
+
+Explain and interpret complex problems
+Generative AI applications are good at explaining complex problems, for example concerning mathematics, programming or natural science. However, students should be aware that most language models today (such as ChatGPT) are not specifically trained on math or code. They are trained on data in the form of text which sometimes contain explanations of mathematical or other complex problems. Therefore, they do not have actual knowledge on the subject and might give incorrect answers or explanations. If students use it, they should always verify that the output is correct.
+
+Adapt or alter learning material according to preferences
+Generative AI can be used by students to alter learning materials, for instance summarize lengthy articles. This makes it easier for students to understand the main points and retain information. There are other generative AI tools that can alter other types of material as well, for instance pictures, videos, or audio.
+
+The case of OpenUni
+OpenUni is a free and open-source tool that can watch a video lecture and answer specific questions or summarize the content. OpenUni is developed by a student here at KTH, aiming to help other students study more efficiently by aiding their lecture re-watching process.
+
+A risk when altering material is that the alteration might change the content too much and miss the main points. Students need to be aware of this limitation when adapting or altering their learning material.
+
+Help improve students' language abilities
+Generative AI can be used as a language learning tool, helping students practice and improve their language skills. This is useful not only for improving academic language but also for non-native language speakers, students with dyslexia or students with social communication difficulties.  
+
+Natural language processing (NLP) is a field withing machine learning which enables AI-powered tools to understand and interpret human language. Such tools can, for example, provide real-time feedback on a student's written work. For students with dyslexia or other language-related learning disabilities, this can be particularly helpful.  
+
+Students with social communication difficulties can use AI tools for social scripting, helping them navigate conversations and develop social skills.
+
+Provide feedback
+Students can use generative AI to get feedback on their work, for example, get an essay proofread. Read more about this on the page Improve feedback using generative AI.
+
+Support students with disabilities
+Earlier on this page, we talked about the variety of personal tutoring possibilities that generative AI can provide. Note that these are useful for all students, but necessary for some. Generative AI has the potential to revolutionize the way students with disabilities are supported in their learning process. By providing personalized learning and enhancing accessibility, AI can help create a more effective and inclusive educational environment.  
+
+There are many assistive technology tools today that are used to help students with various disabilities. Generative AI can help improve these tools, such as improve text-to-speech, speech recognition, predictive spelling, and text editing. They could then better help students work around their challenges and leverage their strengths.
+
+Provide accessible material
+Generative AI can be used to improve the accessibility of learning materials for students with visual or hearing impairments. For example, AI-powered tools can convert text to speech or provide real-time interpretations for deaf students. Note that such tools should not be used as a substitute for creating accessible material, but as a complement.  
+
+Ethical concerns
+Despite the potential benefits of generative AI in education, there are also concerns about its use. Some view generative AI as a cheating tool and a threat to academic integrity. Universities and academics have shown skepticism about it, questioning its effectiveness and reliability. Additionally, there are concerns that students will rely too heavily on generative AI tools and not learn to produce original content. It is essential to teach students how to use generative AI responsibly, ethically and efficiently.
+
+Further reading
+Tutoring:
+
+How to Use ChatGPT as Your Personal Tutor (gradepivot.com)
+Some ways to Use ChatGPT for Students (umeacademy.com)
+Support students with disabilities:
+
+ChatGPT for students with Dyslexia? Expert Opinion (on.dystinct.org)
+Artificial Intelligence Will Revolutionize Accessibility and Inclusion (disabled-world.com)
+Examples of a Technology that Serves People with Disabilities (inclusivecitymaker.com)
+General advice:
+
+ChatGPT Advice Academics Can Use Now (insidehighered.com)
+ChatGPT is the push higher education needs to rethink assessment (theconversation.com)
+How AI and Data Could Personalize Higher Education (2019, hbr.org)
+
+Improve feedback using generative AI
+Both teachers and students can use generative AI to provide feedback to help the student's learning process. Generative AI can offer teachers the opportunity to provide more targeted feedback to students and students to get feedback on their own.
+
+Teacher-generated feedback on student's progress
+Getting feedback is vital for students to improve their learning. However, writing feedback is time-consuming and is therefore only done in moderation. Using generative AI, you can give more feedback to each student and give feedback more often without spending extra time. This applies to both pre-made feedback (for quizzes) and feedback on students' submissions.  
+
+AI-created, teacher-reviewed feedback
+A quick way to create feedback is to let a generative AI application analyse and suggest feedback to student submissions or answer options in a quiz. You take the suggested feedback, proofread it and either approve or change it before sending to your students or adding it to a quiz. This method is time-efficient but might create less specific feedback as the AI lacks your expertise. You can also instruct the students how to do this themselves.  
+
+Teacher-created, AI-expanded feedback
+You can create feedback in the way you normally do but only write down the main ideas of your feedback in short sentences and keywords. Then you let the generative AI expand upon that to create detailed feedback that is easier to understand. This method combines your expertise on the subject with the AI's efficiency in writing longer texts. Still, it scales less well than the method “AI-created, teacher-reviewed feedback”.
+
+Student generated feedback
+Students can of course use generative AI themselves to get feedback on their work as they are working with it. This will help them increase the quality of their work before you as a teacher see it, so you can focus your energy on more advanced feedback.
+
+Make sure to inform your students of the limitations of generative AI and to help them ​ use generative AI efficiently and ethically.
+
+As your students will become well-versed in using generative AI, we recommend you consider how you can ​ prevent and discourage prohibited use of generative AI.
+
+Use cases
+In the following list we present suggestions for use cases of student-generated feedback. Feel free to adapt, add or remove any one of them in order to make them work for your specific course.  
+
+Students can ask generative AI to:
+
+proofread written material
+suggestion improvements to their language (especially useful for those new to academic language
+find and explain faulty logic or mathematics
+perform code review on their code and check for inconsistencies or flaws
+help them keep to avoiding tangents in their texts
+check that programs they have written are producing the expected outcomes.
+Further reading
+The potential of artificial intelligence in assessment feedback (timeshighereducation.com).
+
+Assessing knowledge in a world with generative AI
+On these pages, you can read more about how to minimize the potential impact of generative AI on your assessment. Begin with deciding an approach, then what actions to take. Actions can roughly be divided into two categories: Preventive measures or hindering actions. These actions are not mutually exclusive, and you should actively consider both perspectives in your teaching.
+
+Background
+Generative AI technology has a potential impact on assessments in higher education and most likely will it affect the way we assess the students' work from now on. One reason is that longer texts on specific topics now can be generated quickly using generative AI applications online. Other assessment materials can also be generated, for example program code. Cheating is therefore more accessible and often cheaper than before, but using a third party to produce assignments is not a new problem in itself. The difference is that with generative AI tools online, everyone can now access it, and it is free to use.
+
+Decide your approach to generative AI
+What approach to generative AI should you implement in your course: total prohibition, free usage without supervision, or somewhere in between? All have advantages and disadvantages, so it depends on the learning activity. The approach should be aligned with the learning outcomes and the type of knowledge or abilities taught and assessed.
+
+Decide your approach to generative AI
+
+Prevent and discourage prohibited use of generative AI
+Preventive measures have the purpose of discouraging students from using generative AI in a dishonest way, mostly with clear communication and by putting less pressure on the students. However, the most important preventive measure is to create a culture among students at KTH where cheating is not even considered an option.
+
+Prevent and discourage prohibited use of generative AI
+
+Hinder and detect prohibited use of generative AI
+By adapting the implementation of an exam, you can hinder the use of generative AI and increase the likelihood of detection. Design questions that generative AI have a hard time answering and test them with an AI. Restrict the exam setting with proctored exam or complement the exam or project with oral presentations. You can also combine these actions with detection tools, although such tools are flawed. All approaches require you to set clear boundaries on what is prohibited use of generative AI.
+
+Hinder and detect prohibited use of generative AI
+
+Decide your approach to generative AI
+What approach to generative AI should you implement in your course: total prohibition, free usage without supervision, or somewhere in between? All have advantages and disadvantages, so it depends on the learning activity. The approach should be aligned with the learning outcomes and the type of knowledge or abilities taught and assessed.
+
+We will explain three different approaches, spanning from total prohibition to free usage without supervision. Note that it is possible to use a combination of these approaches or use different approaches for different parts of your course. The most important point is to align the approach to the learning outcomes and to the type of knowledge or abilities that will be taught and assessed. For example, maybe your students should not be allowed to use generative AI without supervision during an exam if most learning outcomes are based on factual knowledge.
+
+Approach 1: Prohibit all use of generative AI during examination
+Prohibit all use by controlling the setting in which your students' knowledge is assessed. An advantage of this approach is that you can test factual knowledge. You can be certain the answers are the students’ own and what you assess is their knowledge and nothing else. However, this approach might be challenging and time-consuming to enforce. Also, it does not help students prepare for a possible future where AI is a working tool.  
+
+Use this approach for learning outcomes that are mostly factual and not specific to a course setting or content.
+
+The easiest way to achieve this is to have a proctored examination, but there are several other ways. Read more about how to Hinder and detect prohibited use of generative AI.
+
+Approach 2: Assume it will be used and adapt your course
+Assume that your students will use generative AI to study, learn and possibly to produce submissions. Adapt your teaching and examinations accordingly. Teach your students how to use generative AI as a powerful tool in relation to your subject. Help them take advantage of its strengths while compensating for the weaknesses.  
+
+This approach might be time consuming if you must rewrite assignments, exercises or examinations. They must incorporate generative AI tools while also training students' abilities such as reflection, source criticism and analysis.  
+
+Use this approach for learning objectives where students should reflect, analyse or discuss a specific topic. Most Generative AIs are unable to produce useful material of this type independently. In addition, there are several potential benefits that students might get from learning to use generative AI in a purposeful way. Read more about how to Personalise learning with generative AI.
+
+For now, we recommend the approach “allow – do not force”. Allow your student to use generative AI, but do not make it mandatory. This is due to GDPR and legislations discussions that are still in motion. We do not want to enforce the use until we are certain that it is legal.
+
+Approach 3: Let students use it freely without supervision or support
+Assume students will use generative AI to study, learn and possibly to produce submissions. Allow them to use it in whatever way they want to, to what extent they see fit. This approach will be choosen for you if you do not make an active choice.
+
+The advantage with this approach is that you don’t have to change your teaching methods or your examination. However, for unsupervised exams there is a risk that more students than before will present submissions as their own that they haven’t produced themselves. This will cast doubts on the validity of the grades you give in the course. You will also miss an opportunity to teach your students how to use generative AI in an academically honest way.
+
+This approach is not recommended. The reason we present it here is to inform you of the risks of not making an active choice regarding generative AI. For some courses this approach might work well enough, probably by coincidence. But we always recommend you analyse your course content, learning objectives and current assessments to see if they are aligned with each other. Thereafter you should actively decide your approach regarding generative AI in your course.
+
+Further reading
+Adapting assignments:
+
+My class required AI. Here's what I've learned so far (oneusefulthing.org).
+
+Prevent and discourage prohibited use of generative AI
+Preventive measures have the purpose of discouraging students from using generative AI in a dishonest way, mostly with clear communication and by putting less pressure on the students. However, the most important preventive measure is to create a culture among students at KTH where cheating is not even considered an option.
+
+When you are planning your course you should consider preventive measures, for example, by varying or adapting your examinations. To make an informed decision on what preventive efforts to carry out, you need to consider the best approach to generative AI for your course. Decide your approach to generative AI.
+
+Note that these measures are general and long-term. You will need to adapt and iterate them to fit into your course and your approach to generative AI.
+
+Preventive measures
+There are several preventive measures that you can take when you are planning your course and examination. If the following efforts are not possible to carry out in your course – maybe hindering measures works better? Hinder and detect prohibited use of generative AI.
+
+Clearly explain course assessment and learning outcomes
+If the students understand what is expected of them and how they will be assessed, it reduces their experienced need for external (prohibited) help. Uncertainty regarding this can lead to more students taking actions that are not allowed to get a passing grade. Therefore, it is a good preventive measure to communicate learning objectives and how they will be assessed clearly and early in the course.
+
+Vary the forms of examinations
+Proctored written classroom examinations are not the only way to prevent the use of generative AI to cheat and mislead. KTH advocates diversity in examination forms, and many are no more vulnerable to cheating with the help of generative AI than written classroom exams. Some examples are:  
+
+Oral examination.
+Examination in seminar form with problem-solving on the blackboard.
+Supervised digital examination using Safe Exam Browser (KTH Digicertus Exam).
+Consider if it is possible to vary the examination forms in your course using these examples, or using other examination forms you can think of. These examination forms can also be advantageously utilized as a continuous assessment during the course rather than as a comprehensive final examination.  
+
+Divide your examination into several smaller exams
+One final comprehensive examination is more vulnerable to cheating than several smaller ones, as students only have one chance to succeed. By dividing your assessment into several smaller exams, you reduce the pressure on students, which may reduce cheating.
+
+This approach also lends itself well to continuous assessment throughout the course, which has many other advantages. For example, students get better insight on their continuous learning.
+
+Foster a culture that does not use generative AI to cheat
+The most important preventive measure is fostering a culture where students do not perceive using generative AI to cheat as an option. This is also the best long-term approach. The students at KTH are here to learn and get the right skills for their future. We must assume that students know this and that most do not want to cheat. However, prohibited help has become more accessible with the introduction of generative AI. Therefore, we must continuously work together to foster a culture that puts learning first, where cheating is not perceived as an option. There are a few different actions you can take to help develop this culture:  
+
+Discuss academic integrity and KTH’s ethical guidelines with your students. The ethical guidelines in each course plan states: "In any assessment, every student shall honestly disclose any help received and sources used.". Remind your students of this and have an open discussion with them about generative AI and your specific course.
+Emphasise that the examination in itself is a learning opportunity. By cheating, they actually miss an opportunity to deepen and fortify their knowledge.
+Discuss with the students why the process is important and not only the final product.
+Discuss when and why it might be helpful to use generative AI and compare it to when it will not be helpful, but rather prohibited.
+Point out that they are here to learn, and cheating will hinder this process.
+Point out the risk for students to become too reliant on using generative AI. This might make them less able to think critically, solve problems or argue and reason. Hence, if they continuously overuse generative AI, they might not get the right skills to be equipped for their future.
+Further reading
+The general information on how to Prevent cheating and attempts to deceive.
+The PriU group about assessment and examination methods (2023). Promoting learning and preventing cheating. Report published 2023-03-31.
+Swiecki et al. (2022). Assessment in the age of artificial intelligence. Computers and Education: Artificial Intelligence, vol 3.
+
+Hinder and detect prohibited use of generative AI
+By adapting the implementation of an exam, you can hinder the use of generative AI and increase the likelihood of detection. Design questions that generative AI have a hard time answering and test them with an AI. Restrict the exam setting with proctored exam or complement the exam or project with oral presentations. You can also combine these actions with detection tools, although such tools are flawed. All approaches require you to set clear boundaries on what is prohibited use of generative AI.
+
+Set clear boundaries to reduce accidental prohibited use
+Communicate to your student what is allowed and what is not when it comes to using generative AI. Your students must know what is ok and not, or chances are that they will use AI in a way that is not ok without understanding it. Most students want to do the right thing, you as a teacher must help them by informing them.
+
+Decide your approach to generative AI and what you regard as prohibited use and communicate that, by showing an example, for instance. Generally, it is not a good idea to set a percentage limit on how much AI-generated text or code is allowed. Instead, you might want to discuss at what stage of the work process use is allowed and not.
+
+Create exams less sensitive to generative AI
+It is possible to create examinations less sensitive to generative AI. The main point is to not solely base your assessment on students’ final product (such as an essay or program code) since it is vulnerable to third-party assistance. If all or part of the product has been produced by an outsider, for example a person or an AI, the connection between process and product is broken. The product is then not the result of the student's learning process, and what is assessed is unrelated to the student's knowledge.
+
+You can make efforts to minimize the risk of outside influence by adapting the content of the exam or the exam setting. These methods make exams less sensitive to generative AI cheating and are presented in more detail below. For less vulnerable exam methods, read more about how to Prevent and discourage prohibited use of generative AI .
+
+Adapt your questions and instructions
+There are several different exam methods that are less vulnerable to cheating than for instance written home exams or unsupervised computer exams. You can read more about these on the page Prevent and discourage prohibited use of generative AI .
+
+However, it is not always possible to change the examination type, but it might be possible to adapt the wording - how you ask questions. Below are some tips on how you can adapt your questions. These are essential for written unsupervised exams, but useful for other types as well.
+
+Create questions with answers based on, or applied to, local, specific contexts, such as information specific to your course. Answering these types of questions require knowledge not available to outsiders, such as an AI.
+Create exam questions that require students to reflect or reason around, for example, a part of the course literature. An AI cannot easily answer since it does not have all the information required.
+Avoid using questions where the answer can be easily found on the internet, such as purely factual questions.
+Ask your students to explain a relationship or a connection, such as “If you change variable x, what will happen with variable y?”. This requires the students to explain and motivate their answer using knowledge that is not easily accessible to an AI.
+Test your questions with AI
+When you have created a set of questions or a quiz – try using ChatGPT or another generative AI and ask it to solve the problems or answer the questions. If the answers are useful for a student trying to cheat, then you know that your exam is vulnerable to cheating with AI tools. To hinder this, you can either change the question wording or adapt the setting in which you conduct the exam.
+
+Adapt the examination and the exam settings
+There are several ways to hinder prohibited aid from a generative AI when conducing an examination. You can control the settings and increase the level of monitoring, complement the exam with an oral presentation or use continuous assessment for ongoing processes. This will both hinder the use of generative AI and increase the likelihood of detection.  
+
+Control the exam setting
+The most common way to control the settings is to conduct a proctored examination. This can be done using proctoring software such as KTH Digicertus Exam or by having a proctor present during a written exam. The level of monitoring is high during proctored examination, which will hinder students from using generative AI. However, increasing monitoring is not the only way, there are several other types of examination forms that are less vulnerable to generative AI.  
+
+Complement the exam orally
+Instead of having proctored exams you can complement the current exam with an oral presentation. For instance, complement a written home exam with oral presentations of 1-2 randomly selected questions. The students must be prepared to present all questions and you will quickly notice if there is a discrepancy between their written and oral answers. Also, it will not be as time consuming as having the students orally present all exam questions.  
+
+Continuous assessment of an ongoing process
+Have your students send in several drafts so you can follow their process. Continuously assessing the progress makes it easier to spot prohibited aid using generative AI. This approach could be combined with short oral reports, where the students explain what they are doing and what they have problems with.
+
+A few words on detection tools
+Ever since generative AI became publicly available, teachers have requested methods to detect AI-generated material. Today there are many tools available online with the purpose of detecting if a text or code is AI-generated. However, none of these detection tools are 100 % accurate, with both false positive and false negative analyses as a result. Therefore, using detection tools cannot be the only way to hinder the prohibited use of generative AI. Thinking that a detection tool could solve all problems is problematic and will probably never be true. Generative AI technology evolves fast and detection tools that are “working” today may not do that within a month of writing this.  
+
+How detection tools work
+Generative AI applications are often so-called probability-based text models. This means that the generated text depends on the probability that a word follows the previous one and so on. Most humans do not write text based on probability, so there will be a difference in the produced text. This difference is the base of how most detection tools work. There are several problems regarding this. First off, it is not always a big difference, and shorter texts are harder to analyze. There are also several different ways to sidestep and trick the detection tools. In addition, the probability for certain words will change as the algorithms are improved continuously.
+
+What to do if you suspect prohibited use of AI?
+There are two types of actions to consider, pedagogical and disciplinary. Pedagogically you can handle suspected use of AI as any other suspected case of cheating. Let the student conduct a complementary examination orally or in a controlled setting. For reporting disciplinary actions, email the contact person for student disciplinary matters at your school.
+
+Further reading
+The PriU group about assessment and examination methods. (2023). Promoting learning and preventing cheating. Report published 2023-03-31.
+
+KTH's information on disciplinary matters.
+
+Rudolph, J., Tan, S., & Tan, S. (2023). ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?. Journal of Applied Learning and Teaching, 6(1).
+
+Ethical issues and legal matters
+The use of generative AI has several ethical and legal implications that must be considered and addressed, as with any other digital tool at KTH. However, for generative AI it is more difficult than usual due to the complexity of the large language models and the usefulness of the technology.
+
+What different issues can occur when using generative AI, and why do they need to be considered? We will address the most common ethical and legal issues linked to generative AI applications. Note that legal issues are often also ethically problematic, but the opposite is not always true. Find more practical hands-on tips on the page Use generative AI efficiently and ethically.
+
+You can find related links under “further reading” at the end of the page.
+
+Ethical issues
+While generative AI is a powerful technology, using it raises ethical concerns that must be considered.
+
+Concerns about created content
+Some of the ethical issues when creating content with generative AI are included in the following list:
+
+Distribution of inappropriate or harmful content. Generative AI lacks empathy and understanding of the content they create, which can cause harm in situations where such skills are required.
+Amplification of existing bias. Generative AI can amplify certain biases that exist in the data it is trained on, leading to unfair or discriminatory outcomes. It can also reinforce user’s biases by presenting them as truths.
+Truthfulness and accuracy. There is a risk of misinforming students, as generative AI can create false information in a seemingly confident way. Currently, there are no reliable tools that can screen AI-generated information for truthfulness.
+False identities and deepfakes. Pretending to be someone else is increasingly simple due to generative AI applications, as is creating false identities. Teaching students to use generative AI will therefore also raise awareness about deepfakes, which can have positive and negative consequences. What are deepfakes? (businessinsider.com).
+Other important concerns
+Even if the we solve the ethical concerns regarding the content, there are concerns with merely using generative AI. Here we list some of those concerns:
+
+Uncertainty and accountability. It can be difficult to explain the basic principles and inner workings of generative AI, and nearly impossible to understand why specific content was created. This can lead to uncertainty and mistrust in content created by generative AI and make it harder to see who is responsible and accountable for the content.
+Possible data privacy violations. As with any digital tool, data privacy and security issues must be considered before using it. Particularly when it comes to sensitive information or content created by students.
+Environmental impact. Like all digital tools, generative AI requires power to train and use. If the owners of an AI want to keep it up to date, they have to add more data and retrain the model, which is power-intensive. It will also take up more server space and therefore requires more power to operate.
+What can be done?
+Some of these concerns can be addressed as simply as properly informing students about them, while others require larger investments of time and energy. Overall, the potential risks and ethical considerations should be fully addressed before implementing generative AI in your course. For more practical support regarding ethical use on generative AI, go to Use generative AI efficiently and ethically.
+
+Note that since generative AI is a relatively new technology, ethical matters have not yet been fully explored. Future research should focus on addressing the unique challenges of generative AI. For example, better defining and measuring uncertainty in predictions, improving transparency, detecting biases, understanding the environmental impact, and putting in place effective safeguards against misuse.
+
+Legal issues concerning generative AI
+Legal issues can either concern the creation and training of machine learning models or the use of them. Sometimes it is hard to separate these two areas, since usage presumes an already trained model.  
+
+Intellectual property and copyright
+Generative AI has the potential to create unique and innovative content that is not possible with traditional methods. However, that content is based on works created by humans. The developers of the generative AI application may not have the rights to use or deliver the sources of the content on which the AI is based.
+
+There is also a question of whether copyright law protects content created using generative AI, as it is not created by a human. If it is not protected, is AI-generated and then human-modified content protected? There should also be more awareness raised about where the line should be drawn between AI-generated and human-created content.  
+
+GDPR
+There are several issues concerning data privacy laws such as GDPR and generative AI. Here we will briefly explain the main ones.  
+
+To follow GDPR, generative AI applications must allow their users to rectify, remove, and get access to any and all of their personal data. The main problem is that most large language models (LLMs), such as GPT-3, are trained on sets of publicly available data, often including personal data. There is no easy way to remove or rectify personal data from a trained AI model. Developers would have to re-train the model with new data, cleaned from all personal information, in order to address this issue properly. This would be both time- and resource consuming, and costly for the developers.  
+
+Another legal issue to consider is that according to GDPR, anyone who is processing personal data needs to have a valid legal basis to do so. Having publicly available LLMs implies that the creators have already handled personal data during the training of the model. Therefore, they need a valid legal basis for processing, but it is unclear if they do or if they have already violated the law.  
+
+Further reading
+Ethical issues:
+
+Generative AI Ethics: Top 6 Concerns (research.aimultiple.com)
+Navigating the Warped Realities of Generative AI (blackbird.ai)
+Copyright:  
+
+How to Navigate the Legal Issues of Using Generative AI to Create Content (kofirm.com)
+
+GDPR:  
+
+Unpicking the rules shaping generative AI (techcrunch.com)
+Ethical Considerations in Using Generative AI for GDPR Enforcement (aitechtrend.com)
+
+Generative AI – how will it affect you as a teacher?
+When the chatbot ChatGPT was launched in November 2022, generative AI technology became available to the public. This started a paradigm shift that will affect us as a school, government authority, and research center for a long time. But what exactly is generative AI technology? What opportunities and challenges come with this new technology, and how can we at KTH benefit from this paradigm shift?
+
+The language models GPT-3 and GPT-4
+ChatGPT is based on the GPT-3 model, developed and trained by the company OpenAI. The GPT-3 model consists of 175 billion parameters, and it is trained on data until 2020. The next-generation model, GPT-4, is available to paying users. It is expected to be even larger and will be able to analyze both text and images.
+
+What is generative AI technology?
+Today, various generative AI tools are available on the internet that can be used to create material according to the user's wishes, such as text, images, video, or code. For example, ChatGPT, Whisper, GitHub Copilot, and DALL.E 2. But what exactly is generative AI technology?
+
+Generative AI technologies are based on so-called probability-based machine learning models. These systems thus have no actual knowledge, but they predict, for example, what the next piece of text should contain based on the prompts they receive and statistical modeling of large data sets. The developers are forthcoming that their training data contains a lot of "bias" in that a large part of the texts are written in the Western world and in English. This also affects the material that is created.
+
+Not the first time that new technology has stirred the pot
+Technical achievements in information retrieval and computation are nothing new; in recent decades, we have developed systems that are used systematically in higher education. Introducing new technologies has always caused discussion and concern about how learning and assessment of various skills will be affected. Examples of technology that previously influenced are calculators, Wikipedia, and more. Modern discussions have revolved around tools such as Google Scholar for searching for relevant research publications or Grammarly as support in scientific writing. Despite this concern, using Grammarly is now encouraged in KTH's language courses.
+
+Generative AI technology during examinations
+Students have always had the opportunity to cheat (possibly for payment) with help from third parties who do not take the course. What is new is that this help does not have to come from a person but can be generated with AI technology, which makes it more accessible and cheaper. An examination based solely on assessing a final product (such as an essay or program code) is vulnerable to third-party assistance. The connection between process and product is broken if all or part of the product has been produced by an outsider, for example a person or AI technology. The product is then not the result of the student's learning process, and what is then assessed is unrelated to the student's learning. See below for examples of how to reduce the exam's vulnerability to third-party assistance.
+
+Is the legislation keeping up?
+The discussion is ongoing about how generative AI technology is affected by GDPR and copyright laws. However, the discussion is ongoing regarding whether ChatGPT and other generative AI technologies may cause problems regarding this type of legislation. At the time of writing (April 2023), EU is working on the creation of laws about AI, such as setting demands for increased transparency around how data is used.
+
+General Data Protection Regulation (GDPR)
+
+Using others teaching material
+
+New opportunities
+Generative AI technologies, and the app OpenUni in particular, can greatly help students. An example is creating a tool for note-taking during lessons or for summarizing a recorded lecture. A tool like this can help all students, but especially students with, for example, dyslexia or concentration difficulties. Tools of this type could replace some of the special adaptations currently required for some students entitled to Funka support.
+
+We asked ChatGPT about how universities should act regarding generative AI and received the following answer in April 2023:
+
+"Technical universities are likely to encourage students to use AI in their studies, as it is a valuable tool for solving complex problems and developing new technologies. Students who use AI in their studies may be required to follow certain guidelines or best practices to ensure that their work is ethical, transparent, and reproducible. In some cases, universities may offer courses or workshops to help students learn how to use AI effectively and responsibly. Ultimately, the goal is to help students develop the skills and knowledge they need to succeed in their chosen field, while also ensuring that they are using AI in a responsible and ethical manner."
+
+Approach to Generative AI technology and examination
+To begin with, we would like to refer you to the ethical guidelines in the course plans "On examination, each student must honestly report the help received and sources used." Remind your students of this and have an open discussion with them about these issues.
+
+Proctored written classroom exams are not the only way to prevent cheating and misleading using AI tools during an examination. KTH advocates diversity in examination forms, and many are no more vulnerable to cheating with the help of AI tools than written classroom exams. Some examples are oral examination, examination in seminar form with problem-solving on the blackboard, and supervised digital examination in the computer room using SEB (Safe Exam Browser). These examination forms can all be advantageously utilized as a continuous assessment during the course rather than as a comprehensive final examination.
+
+Furthermore, some forms of examination prevent and make cheating more difficult with AI tools, in addition to supervised examination. You can use oral examinations in many ways. One way is to check that the student can explain a previously submitted solution or their process. Step-by-step assignments, where multiple steps in the solution or development process are required, will make cheating with AI tools harder. When formulating home assignments, requiring students to provide references can be good. You can also ask questions in such a way that the answers must be based on or depend on specific local contexts, making cheating difficult with AI tools.
+
+Three areas have been identified where the exam may be challenging or require extra thought concerning generative AI: degree projects, programming assignments, and unsupervised distance exams.
+
+Example 1: Degree projects 
+Continuous supervision now becomes even more important than before to ensure development toward the learning goals. Generative AI tools such as ChatGPT can be used in the writing process. Still, it is important that this is stated in the report and that it is clear how these tools have contributed to the final result.
+
+Example 2: Programming assignments
+In all courses, students who use AI tools to generate code for a programming assignment must report this in the same way as someone who received help from a tutor or a source on the web (according to the ethical approach in the syllabus).
+
+In an introductory programming course, it may be forbidden to use AI tools to generate code for examining assignments but allowed to use AI tools to explain error messages or create test cases. In larger projects, several steps in the development process should be assessed (such as specification, prototypes at different stages, and the final product).
+
+Example 3: Unsupervised distance exams
+This type of examination can be vulnerable to generative AI technology if it lacks some follow-up supervised knowledge check. You can design the form of the examination or the assignments to make unethical use of AI tools harder. This can be done, for example, by the students having to use information only available in a course-specific context or by having them explain their solutions afterward.
+
+Closing words
+The purpose of learning is to equip oneself for one's future. Worries about cheating and misleading during examinations can sometimes be experienced as accusing our younger colleagues (students) of not taking the process and their own development seriously. At KTH, teachers and students must work together to create a culture that puts learning first, where cheating and misleading are not perceived as an option.
+
+In-depth reading resources 
+Backer et al. (2023). Programming Is Hard - Or at Least It Used to Be: Educational Opportunities and Challenges of AI Code Generation. Proceedings SIGCSE 2023, ACM.
+
+KTH's information on disciplinary matters. 
+
+The PriU group about assessment and examination methods. (2023). Promoting learning and preventing cheating. Report published 2023-03-31.  
+
+Rudolph, J., Tan, S., & Tan, S. (2023). ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?. Journal of Applied Learning and Teaching, 6(1).

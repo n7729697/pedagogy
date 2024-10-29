@@ -1,0 +1,21 @@
+The AI-shortcut requires re-thinking of examination
+17 March 2023
+
+Anders Törneholm
+Changes are ahead when it comes to testing students’ knowledge. The arrival of Chat GPT challenges both the university’s teachers and its disciplinary board.
+
+AI-generated image of robots in a classroom.
+Chat GPT provides a shortcut for students and at the moment this technology is difficult, if not impossible, to detect. Photographer:DALL-E
+Artificial intelligence helping students write essays and assignments is already a reality. One problem is that university plagiarism checks cannot identify texts not written by the students themselves. Although new tools for detection of AI generated texts are being developed, AI will continue to challenge teachers to find new ways of giving examinations.
+
+Karin Axelsson.Karin Axelsson is the Deputy Vice-Chancellor at Linköping University and responsible for LiUs education on bachelor, master and PhD levels.Charlotte Perhammar“AI is a technology that brings fantastic opportunities. We shouldn’t focus only on the risk of cheating brought on by AI, but also on how to benefit from this technology in our teaching and examinations,” says Karin Axelsson, deputy vice-chancellor at Linköping University and chair of its Disciplinary Board tasked with handling attempts at cheating, etc.
+
+Testing knowledge
+So far, the Disciplinary Board has not handled any cases relating to the use of Chat GPT. According to Karin Axelsson, this is because this technology is currently difficult, if not impossible, to detect.
+
+“Like all other education providers, LiU realises that Chat GPT presents new opportunities for students wishing to take a shortcut in certain types of examinations. Course coordinators should try to find solutions to how examination of texts not written in an examination hall can be complemented with other ways of testing students’ knowledge,” says Karin Axelsson.Professor Fredrik Heintz.Fredrik Heintz is Professor of Computer Science. His research focus is artificial intelligence.Anna Nilsen
+
+Another tool
+Fredrik Heintz, professor in the Department of Computer and Information Science, also thinks along those lines. He believes that meaningful examinations are still possible, but that they require a different setup. Ultimately, it’s all about testing the students’ knowledge.
+
+“You can liken this to the impact of the calculator on mathematics. Chat GPT is a tool that can write text. Hopefully, this will lead to more interesting tasks and new insights. This does challenge praxis but will ultimately be accepted, even though not everyone will like it,” says Fredrik Heintz.

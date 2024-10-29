@@ -1,0 +1,280 @@
+Generative Artificial Intelligence and learning in higher education
+
+favorite_border
+Save as favourite
+
+print
+Print
+
+toc
+Findon page
+The development of generative artificial intelligence has a major impact on examinations and teaching. Here you will find information and tips for teachers.
+
+Guidelines on the use of generative AI
+The group for educational development has been commissioned to produce a draft of guidelines for the use of generative AI at MidSweden University. The draft is aimed at teachers and students in undergraduate education (as a first step) and is intended to support the development of their own guidelines. The draft has been developed in collaboration with teacher representatives, the student unions, lawyers, the university library and the division of infrastructure. The draft was sent out for revision on ;ay 21, 2024 to the faculties, administration and student unions by the central director of education, to collect feedback and comments. Feedback on the proposal are awaited no later than September 12, 2024 and should be addressed to central education director Lennart Sauer. The draft, with feedback and comments, will then be adressed at the Education Council's meeting on October 1, 2024. 
+
+Available AI services
+At MidSweden University, all employees and all students have access to Microsoft Copilot (formerly Bing chat) via their miun account. This can be accessed via https://copilot.microsoft.com or in the Edge browser. In both cases, you log in with the miun account to use the service. It is also allowed to create an account with your miun.se email on ChatGPT and use it. Employees who need the paid version of ChatGPT can place an order in the service portal on approval by their manager. 
+
+Lunch seminars on AI
+During the academic year 23/24, the group for educational development has conducted lunch seminars with the aim of discussing and sharing experiences about generative AI and education. We now wish to collect your opinions and wishes on the lunch seminar series and possible continuation. We welcome input in our survey. 
+
+Do you have questions or want to book workshops on generative AI in higher education? Email PUkontakt@miun.se 
+
+Do you want support in relation to generative AI and teaching?
+In addition to the digital support material made available here, you can contact Educational Development at PUkontakt@miun.se or www.miun.se/boka-pu 
+We offer free advice, workshops and training that can be tailored to your wishes.
+
+Higher Education Examination
+
+favorite_border
+Save as favourite
+
+print
+Print
+
+toc
+Findon page
+Here you can read about how to develop examinations that are more legally secure, provide better learning and also make it more difficult to abuse generative AI.
+
+Develop examinations and learning
+Examination and knowledge check-ups are an important part of the learning process and a way for you as a teacher to develop your teaching. A knowledge taxonomy, such as Benjamin Bloom's revised taxonomy, can be helpful. There, knowledge is arranged in hierarchical levels. Based on the levels, examinations and lessons can be created to get the desired effect. Bloom's revised taxonomy has six steps and is about theoretical knowledge. The lowest, easiest step is to remember and the highest, most complex is to create. More complex assignments and examinations can make it more difficult to plagiarize or cheat in other ways.
+
+Another useful taxonomy is the John Biggs and Kevin Collis SOLO taxonomy. SOLO stands for Structure of the Observed Learning Outcomes and the taxonomy should describe the progression in the students' knowledge, from the simple (pre-structural/prestructural) to the complex (extended abstract).
+
+Bild som visar Blooms reviderade taxonomi och SOLO-taxonomin bredvid varandra. 
+
+Here are Bloom's revised and SOLO taxonomy next to each other, for comparison.
+
+Open-ended questions, constructed with active verbs from the higher levels of the taxonomies, where students must connect course material/literature to their own opinions, thoughts, experiences and explain and prove their knowledge, provide both deeper learning and are more difficult to plagiarize or cheat in other ways.
+
+In order for the student to succeed in the examination, clear and known assessment criteria are of the utmost importance. The examination, just like the course as a whole and the planned learning activities, must be designed so that they really measure the intended learning outcomes and also so that assessment is easy and legally. Read more here:
+
+Legally secure examination from UKÄ 
+Bergqvist, J Putting Practice on Paper: A Handbook in Writing Grading Criteria
+Laurillard, D. (2012). Teaching as a Design Science: Building Pedagogical Patterns for Learning and Technology. New York: Routledge.
+ 
+
+Using quizzes or different types of check-ups the form of questions via digital tools that allow for real-time visualization gives a good idea on the level of knowledge in a group. Based on the answers, teaching and materials can then be adapted. Working in this way is also time-efficient for the teacher. Quizzes have also been shown to have a very good effect on learning (see, for example, Case, J and Kennedy, D: Using Quizzes Effectively: Understanding the Effects of Quiz Timing on Student Motivation and Knowledge Retention). Having students take a test early on in a course, for example in the form of a self-correcting quiz, on what the course covers gives students a good picture of what they are going to learn and the teacher a greater chance of planning their teaching. Quizzes can be self-correcting and even anonymous. An AI service can be very helpful in creating quiz questions. The best results are obtained if you can upload material that will form the basis for the quiz questions. Questions created in this way should always be reviewed for accuracy. 
+
+Oral examination is a legally secure and effective way to examine up to 60-70 students, you  can ask follow-up questions and interact, which benefits the student and the learning. It is also cost-effective because more students pass the examination at the same time.
+
+Oral examination can be carried out in a variety of ways. Individually, in pairs or groups. Such as presentations, panel debates, simulations, role-plays or in the form of seminar discussions. AI can be used to create documentation, questions, case studies or texts that are used in the examination. The oral element can be preceded by a written submission or written examination, or these elements can follow up on the oral part. In both cases, it becomes more difficult to simply reproduce what someone else (or an AI service) produced. Encouraging questions and feedback from other students in connection with the implementation can be a good idea to get a dynamic knowledge check. Feedback can be followed up by revisions or comments.
+
+Initially, oral examination can be perceived as very time-consuming, but often you save the same amount of time on marking written examination assignments. To make it easier, it can be a good idea to make clear data for assessment that is used during the implementation, for example in the form of matrices based on the intended learning outcomes. Likewise, clear and equivalent instructions to students, for example in writing, usually give better results. Questions, cases, or assignments can be varied between individuals and groups for increased legal certainty. Oral examination can also be carried out digitally. Consider recording or, for example, allowing the student to supplement with a written compilation of sources that they may comment on during the examination. 
+
+Project-based examination can also be carried out in many ways and is excellent for following a process and using formative assessment. Here, for example, AI can be part of the process by allowing students to use AI services to generate something (text, code, images, and so on) that is evaluated and improved at various stages. This can be carried out individually or in groups. AI can be used throughout the project or in isolated parts. Collaboration on specific problems and development of solutions, with documentation in the form of individual logs with meta-reflections and links to course literature or other sources can provide valuable insight into the level of knowledge. 
+
+Other tips are to let the students write blogs/vlogs (video blogs), wikis, create films, e-portfolios, open-book examinations and to let the students create exam or quiz questions.
+
+Some overall tips for examinations:
+Focus on intended learning outcomes and syllabus when you create the examination.
+Be specific in instructions and requirements. Clarify what is expected in all parts of the examination - including before it and what resources may be used in each step.
+Have the process at the center - work with formative assessment during the course instead of, or together with, a summative assessment at the end of the course, such as a written exam or an oral examination. During the process, get to know the student's own voice, in both text and speech, as far as possible.
+Create complex examinations with several different parts where you examine in different ways. It also creates a more accessible examination where more students will be able to demonstrate their knowledge in the best way.
+Create original questions that require original answers - bring in context and make the examination important (for example, through real recipients).
+Personal reflections and credible descriptions of one's own experiences linked to literature and teaching.
+Link examinations to current events or things that have happened during the course (study visits, seminars, named guest lecturers, etc.).
+Use oral examinations - as a partial examination or as a follow-up to other types of examinations. See more below.
+Require references (including page references, regardless of the reference system) and set requirements for the references that should be present. Requirements can be specific course literature, specific edition and the like. 
+In some situations, a written exam is the best choice. It can be when it is about presenting facts or basic knowledge or writing a text that in itself is what is being examined.
+Oral examination can be used without changing the syllabus if it is used as a supplement to achieve a passing result after a written written examination or take-home examination, or as a supplement in case of suspicion of cheating, and regularly as a supplement even when there is no suspicion of cheating. In the most recent case, a random selection of a number of students is made. In all cases, it is important to inform students that this procedure exists and will be used.
+
+AI and examinations
+Examinations in higher education are often about writing texts, something that has caused concern about the development of generative AI. In this context, it is important to know that so-called detection services that claim to be able to identify AI-written text are not reliable. For example, read more in the study Testing of Detection Tools for AI-Generated Text. The study covers a number of tools and shows the same results as several other studies in the same area. The studies show that detection tools can give both false positives and false negatives. It is also not possible to ask any AI tool if it generated the text, as the answer is not to be trusted at all. 
+
+In the context of "AI and cheating", it is important to clearly communicate your view of what constitutes academic honesty to the students.   Talking about cheating and what it is is the most important step to prevent it. To be able to do that, you need to think through what knowledge the student must possess and what knowledge, for example, an AI tool can assist with without the student losing anything in their education. We will probably all work with AI in a completely different way in the future. Based on this, it is a good idea to test your examinations in an AI service and see what kind of answers you get. The quality of the answers is very dependent on how you prompt, which can both lull into false security and frighten. In addition to planning examinations with the higher levels of the taxonomies above in mind and based on the tips under "Overall tips for examinations", it is worth keeping in mind that cheating is not something new that appeared with generative AI.   It is easier to directly use AI to generate text, or plagiarize from a source,  if the assignment is intended to account for or explain something, than a text that requires the student to connect context, specific course literature and/or other literature with justifications about why this particular source has been chosen, own experiences and examples and analyze, evaluate and develop based on this. However, it is easy to use any generative AI tool to generate parts or entire texts that are then changed, for example with other AI tools or through your own processing. It is not possible to design completely "cheat-proof" examinations, but it is more difficult to cheat on supervised written examinations, oral examinations on campus and practical examinations such as laboratory sessions, VFU or construction of some form of physical artefact. Online oral exams or online exams are also relatively difficult to cheat on, but not at all impossible. The same applies to examination seminars and process writing where the supervisor is involved in the writing process. It's important to remember that cheating involves many methods other than AI-generated text, and it's nothing new. The best way to avoid cheating is to have an open and clear dialogue with students about what constitutes academic honesty and cheating. Have a policy or guidelines on academic honesty where the use of AI services is a part. Also to vary their forms of examination and be careful with the design of these. Also consider adjusting the syllabus with regard to cheating with generative AI services, for example so that examinations can be supplemented. 
+
+Text-generative AI has a harder time producing texts that contain idiomatic expressions, colloquialisms, dialectal expressions, spelling mistakes, and the type of linguistic errors that people with a mother tongue other than Swedish make (examples of such are prepositional errors, semantic errors, or errors in sentence structure). That being said, it is still important to know that the development of what generative AI tools are capable of producing is very fast and there is a big difference between free and paid versions of the tools. 
+
+Do you want support in the management of generative AI and examination?
+Contact Pedagogical Development at PUkontakt@miun.se or www.miun.se/boka-pu
+
+AI and learning ‑ for students at Mid Sweden University
+
+favorite_border
+Save as favourite
+
+print
+Print
+
+toc
+Findon page
+As a student, you have probably come across the concept of artificial intelligence (AI) in various contexts. In connection with studies at university, there is often talk of cheating with the help of AI, but AI can also be a great benefit in your studies.
+
+Generative AI and cheating
+To start off, it is important that you as a student know that academic dishonesty, or simply put cheating, can have major consequences. It is your responsibility to keep track of what is permissive and what can be considered cheating. Sometimes it can feel tricky to know what counts as cheating and what does not, and developing knowledge about this and a sense of what is called academic honesty (or integrity) is an important part of your studies. You should know that you are always responsible for what you write or say, and that you really understand and know what you claim to know in, for example, an exam or assignment. Read more about cheating and academic honesty below. 
+
+Introduction to generative AI and academic honesty
+Generative artificial intelligence is about so much more than the issue of cheating. Here you will get a basic introduction to generative AI and how students can think about the use of it. To begin with, AI tools can be an excellent tool for students. However, you need to be aware that you are always responsible for your own learning, meaning that an AI tool cannot learn things for you. You must be able to demonstrate and use the skills you acquire during your studies both then and in your future profession. An AI tool can help you in the learning process, but never replace your own understanding and skills. Academic honesty is an important concept to know. If you haven't come across that term, you can read more about it below. As a student, you also need to have knowledge of how AI tools work and whether, and how, using them in the course in question is allowed.
+ 
+
+If you have questions about the use of generative AI in courses you are taking and in examinations, your first point of contact is your course coordinator.
+
+Advice to students on the use of AI:
+You need to know if and how your teachers allow the use of generative AI in the course in question and in examinations. If the teacher has not said that it is allowed to use AI, you must assume that it is not allowed in your production of material or examinations. Ask your teacher rather than assume anything.
+You need to understand the opportunities and limitations of generative AI tools when it comes to learning. They can be a great help to you in your studies, but you should also be aware that it is you who must acquire the knowledge in the course and that you must always be able to account for the content you produce - that is, that you must understand and know what you produce and not pass off something you do not know or understand as your own.
+An AI service is not a source to take information from, and using such a service is not like searching the internet. Even AI services that are connected to the internet require you to critically examine what you find. Please watch this film produced by the University of Gothenburg on how a language model such as ChatGPT works. Be source critical.
+You always need to be able to account for how you have used generative AI tools.
+ou need to know the rules that apply to cheating and plagiarism and what penalties this can lead to. You can read about this, among other things, on the student web.
+Pages with information about your rights and obligations
+
+As a student at Mid Sweden University, you have access to the AI service Microsoft Copilot via your student account. You can access it when you are logged in with your miun account in the browser Edge or on https://copilot.microsoft.com/ where you also log in. Remember to always check with your teacher how you are allowed to use Copilot or other AI services. 
+
+Key questions to ask yourself when using generative AI tools:
+Is this permitted use in the context in which I intend to use the tool?
+Is this unreflective relief, that is, is this good for my learning? (Do you miss any learning by using the tool?)
+Are there language errors?
+Are there factual errors?
+Are there skewed perspectives or skewed values (bias)?
+Am I about to send sensitive information?
+
+Academic honesty
+In short, academic honesty means that you as a student are always honest in your academic work. This means, for example, that when you write any kind of text that is to be assessed by a teacher, or by other students, it should be your own words, thoughts and ideas. Don't copy someone else's text or words and say it's your own. This also applies to text written, in whole or in part, by an AI service. You must also cite the source, which means that if you use information, ideas or words from someone else, you must state where you got it from. This is called referencing or quoting. On tests and exams, you may only use the aids that are allowed. Do not attempt to look at someone else's answers or include unauthorized notes, or otherwise misrepresent your knowledge. Following these rules is important. Failure to do so could result in cheating or plagiarism, which could lead to serious consequences. It is always best to be honest in your work and to ask your teacher if you are unsure about anything. You can read more about plagiarism, i.e. using someone else's work as your own, references and copyright on the University Library's pages in Moodle. 
+
+ow can you as a student benefit from generative AI tools?
+
+favorite_border
+Save as favourite
+
+print
+Print
+There are many ways to use AI that are not cheating. Here are some tips on how you can use generative AI to help you study. However, you always need to keep academic honesty in mind.
+
+You can use generative AI tools to get help with your studies in different ways, provided you do it with knowledge and consideration. An important starting point when considering using any text generative AI tool is that you always need to have sufficient subject matter knowledge to determine whether what is written in the generated text is relevant. Compare against other sources and do not trust that what is true in the text is true. Conveying true facts is not generative AI's strength. There is also a big difference in the quality of output between different AI services. For example, using a service that is connected to the internet or uploading files with material that you know contain correct facts and then working on it is better and reduces the risk of inaccuracies. 
+
+Here are some examples of how generative AI can help:
+
+A personal study coach who never tires of your questions, you can ask whatever you want, whenever you want. Think of the AI tool as an extra teacher and ask questions the same way you would the teacher. Why is that? How is it connected? How does this work?
+Explanations based on your needs, in many different ways. Everyone learns in different ways and with the help of AI, you can get explanations adapted to how you learn. For example, ask them to describe something in simpler language, or make a bulleted list of the most important things to know.
+Correct texts. AI tools can help you correct spelling and grammar in your texts, but always ask for explanations as to why it corrects in a certain way, so you can learn and develop into a better writer. Keep in mind that it's not always okay to use AI tools in this way. If the task is to assess how good you are at writing in Swedish, you cannot, of course, ask AI to make any changes to your texts. If you are unsure whether it is appropriate, consult with your teacher or supervisor.
+Feedback on text structures, with explanations. Get feedback on the structure of your text, with explanations and suggestions.
+Example of genre (text type). Get as many examples of a particular text type as you want. How do you write academically, how do you write briefly for a poster, how do you write an instructional text aimed at children?
+Ideas and inspiration if you have writer's block. Let AI give you a kick in the butt to get you started - but keep in mind that what you submit or present should be your own work.
+Practice written and oral skills, such as arguing or reasoning. Ask the AI tool to debate against you or ask it to ask questions about things you need to develop.
+Translations into many different languages. Do you need something translated or maybe you have a different mother tongue? AI language models are good at translations.
+Extra training before exams and examinations - study questions, or being interrogated. You can input text or upload files and get questions based on the specific material, or get more general questions. Prompt the AI to act like a coach and not to give you the answers but to help you learn.
+Time planning, planning study plans. Use AI tools to plan your studies. 
+As a student at Mid Sweden University, you have access to Microsoft Copilot via your student account. You can access it when you are logged in with your miun account in the browser Edge or when you log in to https://copilot.microsoft.com/ There are a plethora of different AI tools and many are good at specific tasks, or can be selected for different modes. For example, in some internet-connected tools, you can choose a mode that only provides scientific search results. You can also, for example, find tools where you can get help to structure and break down how to study for an exam, or discuss specific topics without getting ready-made answers without more help to move forward in your own reasoning. A lot depends on how you prompt, i.e. what instructions you give the tool. Success factors are to be clear, specific, provide context, ask follow-up questions and develop, use keywords and, above all, to test your way forward. Imagine you're having a conversation with the AI tool. Here you can get more tips on how to prompt for better results. When using AI tools, it is important to remember not to give out personal data and to be aware of the risks involved. for example, bias, which exists. 
+
+The University of Michigan library has a page with great information on how you can use generative AI services to support both literature search and study. Keep in mind that all the tips on the page may not be applicable to your studies at Mid Sweden University. 
+
+Prompting ‑ Instructing a Generative AI Service
+
+favorite_border
+Save as favourite
+
+print
+Print
+
+toc
+Findon page
+Prompting is how you control generative AI tools. By inputting contextual information in the form of a prompt, the AI system's responses can be customized and you get better results.
+
+Prompt correctly to get the desired result
+Think of the AI as a conversation partner. The prompt acts as a start or clue that the model builds on to generate the desired text. The more detailed and specific the prompt used, the more precise the model's response will be. Prompts can be long and you can advantageously build your prompt in several steps to get a better result. Some AI services also allow you to upload files or set facts to be pulled from specific sources, improving the quality of what is generated. Language models "remember" different amounts, but generally have quite good "memory" and can therefore retain previous instructions and build on these. 
+
+Remember to always go through your AI-generated text and make sure that you can stand for what the text expresses. To present an AI-generated text as one's own is contrary to academic honesty, i.e. can be considered misleading in examinations (i.e. cheating).
+
+Writing prompts correctly is essential for achieving good results when using generative AI. Depending on the AI service you use, it may be possible to attach files, images or other material to the chat, as part of your instruction. Prompting for other types of generative AI, such as image generation, works in a similar way, but requires a little different - also depending on the service you use. 
+
+In your prompts, you can provide instructions for:
+
+Tone
+ "Write in an easy-to-understand way, so that a ten-year-old understands...", "Write more academically... ”
+Format
+"Be more specific", "Reply in a bulleted list with x number of sentences in each bullet", "Answer as a table with columns [a] [b] [c]".
+A specific task
+Code "program a program in Python that can read text and sort out duplicate words."
+Extract "Go through the text and find everything about X and summarize it in a bulleted list".
+Format "Start from the following, but rephrase it so that the text becomes a personal letter".
+Reinforcement
+"You are a world-leading writer and are going to write a text about...", "You are a very experienced teacher in... and will prepare..."
+Feedback
+"Rewrite what you just wrote, but rewrite the introduction so that it becomes more interesting", "Go through what you just wrote and correct the language and spelling", "Rewrite so that the tone of voice becomes friendlier".
+Roles
+Assign a role to the AI service, such as sounding board, critic, teacher... "Here is a list of ten suggestions for a theme party. Have I missed some amazing theme? Give me feedback on the ideas." "Be my leadership coach. Identify my strengths and weaknesses as a leader and give me practical advice to further develop. My goal is to become a better leader. Start the conversation with a question that makes me reflect on my leadership style."
+Work in a structured and planned manner
+Consider the following when using an AI service:
+
+1. Plan – what are you looking for? 
+2.Create a knowledge base - leverage the system's 'near-term memory' by uploading files, images, etc. 
+3.What should be supplied? What structure, length, style? What are your expectations? 
+4.After that: Start creating. Take part by part, change, adjust, etc.
+
+You can always ask the AI service to ask you questions based on what you want to achieve. An example of an introductory prompt is "I'm taking the course Social Studies A and will have an exam soon. The exam is about Swedish politics and administration, and comparing different political systems. I want help to create a plan for my studies based on the content of the attached file. I have four weeks until the exam. The planning must be detailed and based on the Pomodoro technique. What else do you need to know to help me with this?"
+
+Examples of instructions
+• Behave like mine... • Was my... • I am... • I need... • I need help with... • My goal is to... •Make... •Give me... •Generate...   •Reply according to the following format: ... • Avoid phrases like "..." • I just want you to ask me questions. • I don't want you to ask me any questions. • Your answer should not be longer than x words. • Ask a follow-up question after each answer. • Keep asking questions until you have all the information you need. • Answer in three sentences.
+
+Examples of prompts
+You are GPT-4, OpenAI's advanced language model. Today, your task is to generate prompts for GPT-4. Can you generate the best calls to action for ways to [what you want]?
+
+Start from this text [your original text]. Rewrite this text and summarize it in five points.
+
+Start from this text [your original text]. Rewrite this text to fit a picture on PowerPoint. The text must have a heading, subheading and three points with the most important information.
+
+Start from this text [your original text]. Rewrite this text so that it is more detailed and has a more academic language.
+
+Start from this text [your original text]. Rewrite this text so that it can be understood if you are 10 years old.
+
+Start with this CV [your CV] and this cover letter [your cover letter]. Rewrite my cover letter so that it meets the needs and requirements of this job advertisement [this job advertisement].
+
+Start from this blog post by me [your blog post] and this news article [link to news]. Write a new blog post, in the style of my blog post, but which is about the news article
+
+More about generative AI
+
+favorite_border
+Save as favourite
+
+print
+Print
+
+toc
+Findon page
+It is an important part of AI literacy and difgital competence to have knowledge of how generative language models such as ChatGPT and other generative AI work to understand the possibilities and limitations of the tools. Read more here.
+
+AI-genererad bild som visar en holografisk figur med ljusfenomen och projiceringar
+How does generative AI work?
+Simply put, large language models are trainied to predict likely combinations of sentences or images and completely ignore what is true or right. Producing factually correct content or presenting facts that is not what language models themselves are trained to do, but just to create text that looks good. They work in the same way as predictive text on the mobile, or on the computer, simply put. The University of Gothenburg has produced a film that explains how a language model like ChatGPT works in a good way. In itself, a language model is only good at putting together sentences that sound good, and it is thus not trained to account for facts, but the text may well contain inaccuracies. This is sometimes referred to as "hallucinating". Some language models are connected to the internet or allows the use of uploaded material, which makes the reliability much greater. 
+
+The training of the language models has been conducted on a very large amount of data from many different types of sources. Exactly which sources that have been used in training is not known. Based on the data used in the training and how generative language models work, source-critical use becomes extremely important. 
+
+Generative AI is more than just language models, it can also be image creation, videos, music, and more. Development is moving forward quickly and new variants are released continuously. Different AI tools have different merits and abilities.
+
+What is generative AI?
+Perhaps without knowing it, we all encounter artificial intelligence (AI) in different forms every day. AI is nothing new. When you unlock your phone with facial recognition, it's AI, or when you take photos with your phone, AI is used to figure out the best focus and settings, and when you use voice assistants like Google Home or Siri, AI is used to figure out what you want. You get recommendations for movies or series on streaming services, suggestions for answers to emails, and you (usually) avoid spam in your mailbox thanks to AI. Recently, however, the focus has come to be on what is known as generative AI, and above all language models such as ChatGPT.
+
+Generative AI is a form of artificial intelligence that is trained to generate output based on massive training data based on prompts/questions asked by a user. Examples of generative AI tools include ChatGPT, Dall-E, Elicit, GitHub Copilot, and Perplexity. AI in various forms and also generative AI is, and will remain, a part of our lives and we all need to relate to this. This includes being able to make wise and informed decisions and also make decisions about how and when AI can be used. It requires each of us to inform ourselves about what AI is and how it affects us in our various roles. Being able to handle this can be said to be part of what is called AI literacy, but is also part of digital competence and digitalization competence. Exploring and using generative AI yourself is a good way to develop both your digital skills and your digitalization skills. 
+
+For those of you who meet university students in teaching, this means, among other things, that you need to have insight into and knowledge about how your students will encounter AI in their future professional roles and therefore update course syllabi and teaching based on that. You also need to think through how you talk about generative AI services in your course and how students are expected, or not expected, to use these and how you can guide them in their use. This applies both to their own studies and during examinations. Clarify your stance on this and academic honesty in general, but also think about how you and your students can benefit from AI. It can be easy to fall into the trap of just thinking that students can potentially use generative AI services to write assignments and take-home exams, but this is about so much more than that. Be clear about your expectations regarding the use of AI. Below you will find material that you can tell your students about.
+
+Source criticism and bias
+For students, it is extra important to remember to be critical of sources and aware that there may be biases that have been reproduced in what is created with AI. Based on the data used in the training and how generative language models work, source critical use becomes extremely important because the models are only trained to generate a text that sounds good, or an image that looks good. This means that emphazis is not on correctness in the text or image. This means that the content can be distorted and misrepresent what is true. For example, AI tends to attribute certain occupations to people of certain genders, or certain characteristics to people of a certain nationality or skin color. By far the majority of the data that the models have been trained on comes from the English-speaking part of the world, and an anglicized view of the world is thus the dominant one when it comes to what is being created by AI tools right now. This is due to the data that the AI has been trained, which mirrors what exists in our world and since discrimination and biases exist, this will be found and in some parts even be enhanced by the AI. 
+
+MidSweden University library has produced material to help students with source criticism. You can find this in the learning platform Moodle and in MiunSkills, and you are also welcome to the library with questions and thoughts about source criticism. 
+
+Important questions to ask yourself when using language bots in relation to teaching:
+Is it good pedagogy to use AI in this way?
+Do you miss any learning by using the tool?
+Does this follow the applicable governing documents?
+Am I about to send sensitive information?
+Are there language errors?
+Are there factual errors?
+Are there skewed perspectives or bias?
+Don't lose sight of the purpose of what you're doing. Ask yourself regularly if what you are exploring actually leads to better teaching and learning. Not everything has to provide better teaching right away, but technology exploration should not be a purpose on its own. A tip when deciding whether an AI tool can be used or not is to use the acronym ROBOT: Reliability Objective Bias Ownership Type. Ask yourself if you can trust what you are generating, if it is objective or contains distorted information, who is responsible for the tool and what that means and what kind of tool it is - it may not be suitable for what you want to do. 
+
+Accounting for the use of generative AI
+When an AI tool is used, this should be accounted for. How this should be handled in different contexts is something every institution or department should discuss and talk about - and also communicate to students. However, it is not possible to designate an AI tool as a co-author of a publication, since a person, natural or legal, is always responsible for the content of the publication. When using a generative AI service in your work, it can be useful to think about the service that you  used as a colleague and to some extent compare it to peer review procedures. You are always responsible for the content you generate. Here you must also be aware that text generated with AI services can contain biases and inaccuracies. If students are not trained and made aware of this, the risk of them using AI in an unethical way increases. Read more about academic integrity and AI in ENAI Recommendations on the ethical use of AI in edcucation. Tell your students how to use generative AI, if you do. Reflect on and formulate your attitude towards students using AI in your course, for example in the study guide, in the course room, and during lessons.
+
+Are you a student and considering using AI? First, read more about generative AI, cheating and academic honesty and much more.
+
+Some tips for keeping up with AI developments
+Try out some AI tools. By testing for yourself, you can form your own idea of the possibilities and limitations. It is a goog idea to try several different tools in addition to ChatGPT.
+Book workshop or consultation, alone or together with colleagues, to get guidance on how you can work with AI in your particular subject, or what type of tools can suit what you want to do. Book by contacting Educational development at PUkontakt@miun.se or www.miun.se/boka-pu
+Have collegial discussions about how you, within the subject or programme, can think about AI as a resource, but also in examinations and how AI will affect your particular subject or field, as well as how you view the permitted and unauthorized use of AI tools. Also talk about how you will deal with students refusing to use AI (perhaps for ethical reasons, or something else).
+Test your exam assignments/questions/take-home exams with text-generating AI tools and discuss the results with colleagues. How can you change your examinations to ensure that they are legally secure and relevant based on course objectives and learning activities? Some hints on how you can think about examinations in order to design them in a way that increases academic integrity can be found below.
+Think about what is relevant knowledge in your subject and area, both today and tomorrow. What do students need to know?
+Teach source criticism. Students need to be aware of the risks associated with uncritically using AI services. Feel free to discuss and test together to educate and de-dramatize. A tip for working source critically is to let students compare information they find in different types of sources like AI tools, through googling and through literature and then discuss their experience. 
+Contact the group for educational development if you have questions or concerns about generative artificial intelligence and higher education. 
+

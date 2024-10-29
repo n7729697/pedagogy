@@ -1,0 +1,223 @@
+Generative artificial intelligence
+It is crucial for all members of the academic community to understand how GenAI functions, explore its opportunities and be aware of its limitations, in teaching and learning. This is essential to prepare students and lecturers for AI-driven workplaces while upholding academic integrity by adhering to the principles of responsibility, transparency, and fairness.
+
+Investigating the use of AI in teaching and learning is an active field of research and development. The Rectorate is involved in a number of projects, and internal ETH funding for new projects can be obtained via the Innovedum focus on AI in teaching and learning.
+
+Close all
+What does this mean for me as a student?
+Pursue training on how GenAI works, learn, and explore its potential for creativity, idea generation, personalised learning, or even coaching, and remain critical of its output, considering its limitations, ethical implications, and potential biases.
+
+Responsibility: You are responsible for the content of work you submit. Discuss with your lecturer whether and how you may use GenAI and how exactly you should cite it. Be aware to thoroughly check AI generated contributions for plagiarism. Performance assessments must be conducted independently and personally. GenAI may serve a supplementary role, helping you but not replacing your efforts.
+Transparency: Be transparent about your use of GenAI. Clearly state which tools you have used for which part of your work using the correct style guide.
+Fairness: Respect the privacy and copyright of the content with which you work. Refrain from disclosing copyrighted, private, or confidential information to commercial GenAI clients, unless expressly permitted.
+What does this mean for me as a lecturer?
+Seek to understand GenAI functionalities, its capabilities, and tools available. Adapt your teaching and assessment strategies accordingly. Explore how GenAI can support your work and assist you as a lecturer in the preparation, delivery and follow-up of lessons and performance assessments. Discuss acceptable or unacceptable use in your professional subject-specific context with your students. Ensure your course objectives reflect authentic competencies in a world that embraces AI.
+
+Responsibility: As a lecturer you are responsible for the content you provide to your students. This means that teaching materials created with GenAI must be subjected to quality control by you, including checking for possible bias. You determine whether and how GenAI may be used in your courses and for the respective assessments.
+Transparency: Clearly communicate to your students in what circumstances GenAI use is permitted and provide guidance on making its use transparent. Be a good role model and make the use of GenAI visible in your own documents, teaching materials, and whether it’s used for assessing student work.
+Fairness: Ensure that any GenAI tools you have used are compliant with data protection regulations and adhere to institutional policies, e.g., for evaluation or personalised feedback purposes.
+What position does ETH Zurich take regarding AI in teaching and learning?
+ETH Zurich promotes responsible usage of generative AI in education, encouraging ingenuity and innovative approaches while prioritising responsibility, transparency, and fairness by adhering to privacy and copyright regulations.
+
+ETH Zurich supports lecturers and students in acquiring advanced skills for working with generative AI by offering targeted courses.
+ETH Zurich promotes the development and embedding of AI technologies in teaching and learning as well as for academic and administrative work.
+ETH Zurich is equipping students and staff for the AI-supported labour market and societies of tomorrow.
+Legal aspects of GenAI uses are covered by the existing rules for performance assessments and, the “declaration of originality,” and other legal guidelines. Violations such as use of unauthorised aids or non-disclosure of their use will continue to be subject to external pagedisciplinary action.
+ETH Zurich advocates a proactive approach to the use of generative AI (GenAI) within educational contexts, emphasising the
+responsible use of this technology among students and lecturers. It is crucial for all members of the academic community to
+understand how GenAI functions, explore its opportunities and be aware of its limitations, in teaching and learning. This is
+essential to prepare students and lecturers for AI-driven workplaces while upholding academic integrity by adhering to the
+principles of responsibility, transparency, and fairness.
+What does this mean for me as a student?
+Pursue training on how GenAI works, learn, and explore its potential for creativity, idea generation, personalised learning, or
+even coaching, and remain critical of its output, considering its limitations, ethical implications, and potential biases.
+Responsibility: You are responsible for the content of work you submit. Discuss with your lecturer whether and how
+you may use GenAI and how exactly you should cite it. Be aware to thoroughly check AI generated contributions for
+plagiarism. Performance assessments must be conducted independently and personally. GenAI may serve a
+supplementary role, helping you but not replacing your efforts.
+Transparency: Be transparent about your use of GenAI. Clearly state which tools you have used for which part of
+your work using the correct style guide.
+Fairness: Respect the privacy and copyright of the content with which you work. Refrain from disclosing copyrighted,
+private, or confidential information to commercial GenAI clients, unless expressly permitted.
+What does this mean for me as a lecturer?
+Seek to understand GenAI functionalities, its capabilities, and tools available. Adapt your teaching and assessment strategies
+accordingly. Explore how GenAI can support your work and assist you as a lecturer in the preparation, delivery and follow-up
+of lessons and performance assessments. Discuss acceptable or unacceptable use in your professional subject-specific
+context with your students. Ensure your course objectives reflect authentic competencies in a world that embraces AI.
+Responsibility: As a lecturer you are responsible for the content you provide to your students. This means that
+teaching materials created with GenAI must be subjected to quality control by you, including checking for possible
+bias. You determine whether and how GenAI may be used in your courses and for the respective assessments.
+Transparency: Clearly communicate to your students in what circumstances GenAI use is permitted and provide
+guidance on making its use transparent. Be a good role model and make the use of GenAI visible in your own
+documents, teaching materials, and whether it’s used for assessing student work.
+Fairness: Ensure that GenAI tools are compliant with data protection regulations and adhere to institutional policies,
+e.g., for evaluation or personalised feedback purposes.
+
+What position does ETH Zurich take regarding AI in teaching and learning?
+ETH Zurich promotes responsible usage of generative AI in education, encouraging ingenuity and innovative approaches while
+prioritising responsibility, transparency, and fairness by adhering to privacy and copyright regulations.
+1. ETH Zurich supports lecturers and students in acquiring advanced skills for working with generative AI by offering
+targeted courses.
+2. ETH Zurich promotes the development and embedding of AI technologies in teaching and learning as well as for
+academic and administrative work.
+3. ETH is equipping students and staff for the AI-supported labour market and societies of tomorrow.
+4. Legal aspects of GenAI uses are covered by the existing rules for performance assessments and the “declaration of
+originality”. Violations such as use of unauthorised aids or non-disclosure of their use will continue to be subject to
+disciplinary action.
+ETH continuously monitors the developments in GenAI and the emerging ethical and regulatory standards. Therefore, these
+guidelines will be adapted at regular intervals to provide teaching staff and students with the necessary frameworks for the
+responsible use of GenAI.
+
+Welcoming Generative AI into Our Classrooms
+The recent launch of generative artificial intelligence models, like ChatGPT, are eliciting an energetic variety of responses from instructors everywhere, ranging from consternation to cautious optimism. It is likely we are witnessing a novel and permanent disruption in the classroom activities of higher education. While it will take several months (years?) to fully assess the extent of this continually developing disorder, we are faced, in a few short weeks, with the beginning of a new semester. During the past three years, though, we’ve certainly learned how to pay attention to new challenges and how to pivot to meet them directly.
+
+The inescapable reality is that ChatGPT and other AI writers are here, and students are going to use them. Trying to prevent the use of these new tools is likely to be a losing battle. We may be dismayed with students who will simply use these platforms in order to achieve an acceptable grade without actually engaging in original thought or work. We may sympathize, to some degree, with students who use these tools to complete more assignments in less time. Consider, too, our dawning awareness that current plagiarism detection software cannot completely detect AI-generated material. Further, consider that AI writers will likely improve in efficacy as rapidly (if not more so) as the technology of any detection software. The appeal of this new resource – either in wholesome or shady ways – is undeniable.
+
+Even a few minutes’ thought about the use of AI writers quickly gives rise to sweeping questions of (nearly) existential scope. Is plagiarism our prime concern as we view the proliferation of AI writers among our student populations? Should we stop students from utilizing these easily accessible resources? Is that goal remotely achievable? Where do we draw lines between identifying someone’s original work amid the array of commonly accepted digital technologies already available? Who among us has not relied on the ubiquitous “auto-correct” when typing; or accepted wording suggestions in our text messages? What attention should we give to the inherently visible flaws among AI writers? How are we to be concerned about their evident lack of inclusivity?
+
+How do we describe our evaluation of quality? Are there differences in degree among possible methods for producing, say, a loaf of bread? Consider some possibilities: A world-class baker employing her years of experience and skill, working with locally-sourced ingredients; A home baker preparing bread ‘from scratch’; A home baker using a boxed mix and a bread machine; An automated factory assembly line producing Wonder Bread. Do these various venues constitute differences only in degree, or do the variable circumstances result in substantive differences? An analogy, perhaps, as we seek to understand our own and our students’ engagement with AI writers.
+
+While everyone’s entanglement with AI writers is unavoidable, this situation represents a unique and optimistic moment for deeply refining our approach to classroom work of all kinds. Though (of course!) creating additional work for instructors, this is a prime opportunity to highlight our ongoing care for student learning, academic well-being, and the authenticity and validity of our learning outcomes. Over the next few weeks of IAP, and by way of introduction, we will examine some broader questions here. These questions are especially critical and relevant as we all seek to establish a workable foundation for engaging in the long term with AI technologies across MIT classrooms and learning spaces.
+
+Broader Questions & Upcoming Posts
+
+Part II. How can we use these AI tools to support and enhance student learning?
+
+Can these tools help us to more effectively meet existing desired goals for learning outcomes?
+How might these tools prompt us to reconsider goals for student learning? 
+Are there levels of higher-order thinking that we’d like students to achieve, and if so, can AI tools help them get there?
+Does the technology enable students to engage more meaningfully and authentically with the course material and/or the discipline overall? 
+How can we redesign our assignments and assessments to leverage these tools to better support authentic and meaningful student learning?
+Part III: Academic Integrity | Student Data Privacy | Accessibility & Equity
+
+Here, we outline a few issues to consider and address before the beginning of the semester.
+
+How 'smart' is it generative AI?
+The system is not 'intelligent’ in the human sense, but it has been shown to perform well in a number of standardised tests.
+
+For example, OpenAI has tested the first version of GPT-4 on a variety of external pageBenchmarks. Or there is an attempt to create an external pageRating of LLMs, on the capabilities of the various models. Experts agree that the external pagecapabilities will continue to increase in order to achieve good results in various benchmark tests.
+
+How do generative AI-models learn?
+The models are trained using large amounts of data. Each model available in this way has a last status on which it was trained. After this, training is usually no longer carried out, but the content is enriched with current data.
+
+For example, after a user inputs information in the form of a question, an internet serach is triggered. The results obtained are fed back into the LLM (lare language model) as an additional prompt. Or after an input, a comparison is made with currently stored data before this is passed on to the LLM as a whole.
+
+It is important to emphasise that although the models do not continue to train, any data that is passed on to an LLM can be used for future training purposes unless this is explicitly excluded in the terms of use.
+
+What data is used to train LLMs?
+The data consists of publicly available data sources, but certainly also content from the internet. The companies do not currently disclose exactly which data was used for training. However, it is known that the amount of data required is so huge that as many data sources as possible are used.
+
+In addition, unless explicitly restricted, all current access data (requests, uploaded files) can be used for future training sessions. Caution is required here and attention must be paid to the terms of use.
+
+Is using GenAI plagiarism?
+Technically and legally speaking: no. Plagiarism is the unrecognised copying or use of another person's intellectual property. As long as artificial intelligence is not assigned a personality, using this tool is technically no more plagiarism than doing a Google Scholar search, using Grammarly or DeepL, or using R or Python to perform large calculations.
+
+However, the outputs of generative AI need to be scrutinised very closely for possible plagiarism. In addition, depending on the use of GenAI, the usage should be correctly cited.
+
+Is it possible to detect the use of GenAI?
+No, not reliably. GenAI answers are the result of a probabilistic algorithm and are therefore generally not reproducible. The answers are not simply fragments of the text corpus used for training and therefore the answer passages cannot be found using Google.
+
+Can GenAI evaluate and grade?
+In any case, it is not allowed at ETH Zurich to assign grades completely automatically; AI could help with scoring, but the grade must always be assigned by a human. GenAI tools can create plausible-sounding grades and justifications for given rubrics and grading scales. It is recommended that the chosen procedure is always discussed with the students and disclosed at all times.
+
+The possible applications of generative AI are diverse and range from summaries, translations and idea creation to concrete content generation and critical scrutiny. The focus here is on how these tools can be used gainfully in teaching, how the application should be documented and what possible changes result for teaching.
+
+Applications
+Generative AI offers great potential to support teaching and learning, prepare content didactically, scrutinise it critically and save time if used correctly. The following is a small collection of concrete application possibilities to inspire your own creativity.
+
+When using generative AI, it is important to always ensure that academic integrity is maintained by adhering to the principles of responsibility, transparency and fairness.
+
+Close all
+Support in course preparation
+In the preparation of courses, generative AI offers numerous application possibilities to facilitate the work, improve the didactic preparation and also save time. Here are some concrete ideas for prompting:
+
+Formulation of learning objectives
+"Formulate three concrete learning objectives for first-semester Bachelor's students in the Department of Physics in the ‘Students are able to ...’ formulation for the following course content: ....."
+Drafting a rubric
+"Design a rubric with five evaluation criteria. The criteria are rated as exceeded, fulfilled and not fulfilled. Each assessment value should be formulated in detail. The rubric is used for a semester course on the topic ... and the project work is to be assessed. The content objectives of the project work are ...."
+Planning for workshops
+"Create a schedule for a project-based workshop lasting three hours for Master's students. This involves working on a specific project. The theoretical content has already been taught and is available online. The following content objectives are to be achieved: ..."
+Formulation of assignments
+"Summarise the following content in the three most important key statements. Then formulate an assignment for 30 minutes of group work on these key messages. The target group is fourth-semester students with a health science background. The results should be presented creatively; give examples. Content: ..."
+Creation of questions
+"Design two questions that would stimulate a discussion on the following topic..." or "Create three clicker questions with four possible answers each on the following content: ..."
+Use during implementation
+During the course, the use of generative AI can be encouraged, discussed and critically scrutinised. It is important to seek discussion with the students and address the topic directly.
+
+Possible concrete application scenarios for the students could be, for example:
+
+"Create a list of five pros and five cons for your idea using generative AI."
+"Check your arguments with the help of generative AI by having them critically scrutinised."
+"Generate three additional practice exercises on the content discussed."
+"Have a summary written and discuss the result to see if the most important points have been captured correctly."
+Generative AI and performance assessments
+In the existence of generative AI tools, it is also important to review and reconsider the validity of the performance assessments used. The principle that students are always responsible for their submitted work remains central and it must therefore always be clarified how AI tools are to be used and how they are correctly referenced (further information on this can be found under Academic Integrity).
+
+Preparation:
+
+Have the tasks been checked for their validity in view of the general availability of generative AI?
+What kind of performance assessments promote skills development and preparation for AI-driven jobs of the future?
+Realisation:
+
+Have the framework conditions for students been clearly defined as to how and which AI tools may be used?
+Is equal access guaranteed when using AI tools?
+Post-processing:
+
+How can generative AI be used gainfully for lecturers and students in the follow-up process?
+Is the use of AI tools always transparent?
+The article external pageAugmented Course Design: Using AI to Boost Efficiency and Expand Capacity contains some further ideas on the integration of GenAI into teaching and learning. Also the guide external pageHandlungsempfehlungen für den didaktischen Einsatz von generativer KI in der Hochschullehre as well as the brochure external pageSmarter Education with AI: A guide for teachers and other educational professionals share specific information on the use of AI-based applications in teaching at tertiary level.
+
+Potential for change
+There are already a variety of application scenarios for generative AI in teaching. However, this technology also harbours the potential to fundamentally change the entire education system. Students need to be prepared for the AI-supported workplaces of the future, and this will not only change the skills to be learnt, but also the way in which teaching and learning take place.
+
+In the age of generative artificial intelligence, it is all the more important to uphold academic integrity at all times by ensuring that lecturers, students and staff adhere to the principles of responsibility, transparency and fairness.
+
+Integrity as an attitude
+The principle of scientific integrity not only applies to research, but should also be actively practised in teaching. Generative AI blurs the previously known boundaries between fact and fiction. This is why the ‘human-in-the-loop’ is always needed to validate and scrutinise results and check for biases. This responsible and transparent approach is a cornerstone of academic integrity.
+
+Close all
+Taking responsibility
+The creator of content is always responsible for its correctness and quality. This principle continues to apply and relates to course materials and documents, but also, for example, to learning records and academic papers. In view of the existence of generative AI, it is all the more important to fulfil this responsibility at all times and to set an example for others.
+
+Texts and ideas generated by AI are based on probabilities with no link to reality. The task of establishing this connection lies with the user.
+Generative AI can make mistakes, draw false conclusions and also reference incorrectly. It is up to the user to check this in detail for correctness.
+The output of GenAI is based on the training data used and the programmed algorithms. Biases can therefore occur at any time, which must be carefully checked by the user.
+Other important points of a responsible attitude can also be found under good scientific practice and at the ETH AI Ethics Policy network, which participates in the global dialogue on the responsible use of AI.
+
+Creating transparency
+The use of generative AI should be made transparent at all times. This applies not only to academic work, but also, for example, to course materials, presentations or the use of generative AI for assessment or feedback. The following basic rules should therefore be observed:
+
+Be explicit about which content or parts of materials and work have been created with the help of generative AI.
+Create transparency regarding the use of AI-based tools in lessons.
+Discuss the use of GenAI for feedback and assessment openly.
+Maintaining fairness
+It is important to respect the privacy and copyright of the content being worked with. AI tools require a large amount of data in order to train the underlying models. Input by the user is often reused for training and it is therefore crucial to know the respective data protection regulations and to handle protected materials correctly in accordance with them.
+
+If data is passed on to AI-based tools or released for them, it must be clarified in advance that no rights are being violated.
+For private or non-publicly available data, only tools that guarantee data protection regulations should be used (see also tools & licences).
+Scientific work
+Lecturers are encouraged to establish rules and guidelines regarding the use of generative artificial intelligence for assignments, projects and assessments in their courses. There are no universally applicable solutions, so clear communication between lecturers and students is all the more important. The definition of these rules can also be part of the discussion within the course, through which pragmatic and fair solutions can be jointly developed and subsequently documented.
+
+Close all
+Referencing when using generative AI
+In course materials and scientific papsers, care should generally be taken to correctly refer to the source of content and specifically also of image material. This must also always be correctly indicated when images and texts are generated by generative AI.
+
+The various citation styles have issued guidelines for referencing AI tools, for example for external pageAPA, external pageMLA or external pageChicago style (further guidelines can be found at external pageIEEE Style Manual and external pageHarvard referencing). Detailed information is available on the external pageCite Them Right platform licensed by the ETH Library. A good overview of when and how to refer correctly can be found at external pageGuidelines 'Citing AI Tools' (Universität Basel, Schweiz) or external pageCitation and Writing Guidance for Generative AI Use in Academic Work (Dudley Knox Library Monterey, USA).
+
+Declaration of originality
+ETH Zurich's declarations of originality were adapted to include a passage on the use of artificial intelligence. These now include three options with the following focus on the use of generative artificial intelligence:
+
+Generative AI technologies were not used.
+Generative AI was used and labelled.
+Generative AI was used and not labelled in consultation with the person in charge.
+The choice of option should always be clearly defined in advance or agreed between lecturers and students. Option 3 is only recommended in special cases where generative AI is an integral part of a work and therefore does not need to be labelled directly.
+
+DownloadDeclaration of originality for Bachelor and Master's degree students (PDF, 183 KB)
+DownloadDeclaration of originality for Doctoral students (PDF, 725 KB)
+Avoiding plagiarism
+From a legal perspective, nothing has changed with regard to scientific integrity and plagiarism. The ETH Library explains how to deal with the new circumstances under Plagiarism and Artificial Intelligence (AI).
+
+Technical recognition of output generated using generative AI is currently unreliable and will probably remain so in the future. Trust in such a method is therefore not appropriate.
+
+Scientific writing
+The development of generative AI requires a critical reflection on the role of writing in education and science. Responsible action by researchers, teachers and students is necessary in order to exploit the potential of the technology and minimise risks at the same time. In the discussion paper external pageWissenschaftliches Schreiben im Zeitalter von KI gemeinsam verantworten (Hochschulforum Digitalisierung) these aspects are examined from different angles.

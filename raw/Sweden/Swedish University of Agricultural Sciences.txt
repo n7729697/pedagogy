@@ -1,0 +1,356 @@
+AI in higher education
+Last changed: 18 June 2024
+The launch of Open AI's ChatGPT in the autumn of 2022 has given us new opportunities/challenges and yet another new digital competence for us to handle.
+
+Today, there are several chatbots that can answer advanced questions and quickly create texts, images, etc. based on various requests. The position of Chat GPT, possibly the most known chatbot, is being challenged by, among others, Amazon's Bedrock and Bard from Google. In addition, generative AI is currently being integrated into Office 365, Microsoft Bing and Google's search tools.
+
+Below are some concepts that may be useful to know.
+
+AI-typAI.png	
+Artificial intelligence (AI) is the ability of computer programs to mimic the natural intelligence of humans.
+
+	
+Generative AI is a branch of artificial intelligence (AI) that focuses on creating new content based on training data for example text, images, sound, video, music, etc.
+
+AI-typLLM.png	
+Large Language Models (LLM)
+(ChatGPT is based on GPT* )
+LLM is the machinery that allows today's AI services to generate text
+
+*GPT = Generative Pre-Trained Transformer.
+
+AI-typMLLM.png	
+Multimodal LLM (MLLM) is an AI model that can process and generate multiple types of data, such as text and images.
+
+ 
+
+AI is developing rapidly and is affecting us in higher education to an ever-increasing degree. AI support will be part of everyone's everyday life and there are many opportunities but also challenges and risks.
+
+Until the autumn of 2023, much of the universities' focus has been on how we can manage the risks with AI and Cheating, but now we need to talk about how AI will affect all the "pieces of the pie" in the picture on the right.
+
+
+Read more about AI support in the headings below.
+	
+AI and cheating
+	
+AI support for teachers
+	
+AI support for students
+	
+AI support for accessibility and Funka
+	
+AI support for PhD students
+	
+AI support for administrators
+Important to know
+To support you in using AI services, SLU's legal counsel have put together some key advice to consider when using AI in your work.
+
+If you test new AI services, don't forget:
+
+Currently, you often need to create private accounts to explore many of the new AI services on the market (and several cost money).
+
+Critical thinking: Be aware that AI-generated material may contain inaccuracies, distortions, bias, and copyrighted material.
+
+Security awareness: Pay attention to security aspects when testing AI systems.
+
+Privacy protection: Be careful about what information you share with AI to prevent the spread of sensitive and proprietary information.
+
+AI and cheating
+Last changed: 13 December 2023
+
+If a student uses unauthorized aid during the exam or plagiarizes material, it is cheating. As a teacher, being clear about what is allowed in terms of generative AI on an exam or similar is therefore increasingly important.
+
+According to the Education Handbook, teaching staff should prevent cheating and plagiarism by:
+
+conscious pedagogy
+clear instructions for assignments and independent work (degree theses)
+well-thought-out examination forms
+inform about and use plagiarism tracking services
+What types of AI aid should then be allowed for students? Once upon a time, being able to spell correctly was an important generic skill, but today the use of the spelling function in Word or similar programs is probably seen as relatively uncontroversial. (Note that most of the spelling tools features will also be based on AI).
+
+In addition, generative AI is currently being integrated into Office 365, Microsoft Bing and Google's search tools and more. This means that in many cases the students will not even know that they have used AI.
+
+Can we continue with home exams?
+The home exam where the students have to write a PM or similar has never been completely legally secure. Letting others (friends, "kind" parents or commercial players) write the student's essays has been around for a very long time. Already in Linnaeus' time, you could buy a written thesis.
+
+However, it has now become fast, easy and accessible for everyone to be able to get a relatively well-written text in seconds. Therefore, think carefully about whether you can really continue to use the home exam as a form of examination? If, as a teacher, you still want to continue with home exams, use complex forms of examination, i.e. feel free to combine a home exams with an oral examination.
+
+Are our plagiarism check systems not working?
+No, existing plagiarism control systems such as Ouriginal can't find AI generated text. Original texts are written every time a person uses a chatbot, so it is not plagiarism in the usual sense. However, there is software that claims to be able recognize AI-written text.
+
+Software to detect AI written text? 
+In a recent study, 12 of the most common detection systems on the market were examined and the conclusion was that they were not very reliable. (Weber-Wulff et. al., 2023). 
+
+There are also always ways to get around technology-assisted control systems and most students probably won't just let an AI write the entire text for a home exam or similar. Rather, it is about an AI-facilitated writing process where the user alternately writes himself, alternately together with the AI ​​support. (Pettersson Sword, 2023) 
+
+But how will AI and chatbots affect the way we teach? 
+Future will, but what is clear is that AI is here to stay. The issue of AI and cheating can best be addressed by:    
+
+Well thought through and complex examination strategies.
+A good information process (for both teachers and students).
+Also remember that AI will be an obvious part of the students' future professional life, so we must also learn together to handle it in a sensible way and see how we can utilize and integrate the technology in teaching without it simultaneously leading to cheating.
+
+Checklist to reduce the risk of cheating with the help of AI! 
+Inform yourself about the possibilities of AI!   
+ 
+Inform the students that you, as a teacher, are aware of the possibilities of AI support and discuss with the students about rules and norms for academic writing    
+
+Make sure you are clear about when using AI is allowed and how the students are supposed to report if they use AI in an ssignment.    
+
+Emphasize the importance of source criticism, both in general and in an AI context!    
+
+Think through what and how you want to assess. For example, are you assessing subject knowledge or the ability to write?    
+
+Use complex forms of examination, i.e. combine different examination methods such as PM and oral examination.    
+
+Let the students be co-creators of the exam where the students develop and write questions, answers and assessment criteria. The teacher then selects what is used in the exam.    
+
+Shift the focus from summative to formative assessment, i.e. follow the students' learning process and assess not only the end result but milestones in the process towards the learning goals!    
+
+Use part-time seminars where the students can describe how they intend to structure the material and how they went about finding their sources. Let them present their half-finished essays to your teacher and their classmates.   
+ 
+Look for changed language in the essays. Does the student usually express him- or herself in this way or do you see major changes within a submitted assignment or compared to previously submitted assignments?
+
+Examining the ability to write? If you want to examine the students' ability to write well-structured texts with good language on their own, it may be wise to use a supervised classroom exam where the students do not have access to the internet and AI support    
+
+Be sure to follow up on students' references and make sure they also include page references in their citations. Not all chatbots provide credentials. In addition, they sometimes also generate made-up references (it's called the chatbot is hallucinating)    
+
+Link the writing assignments to other parts of the course such as excursions, labs, seminars, lectures. The more specific details about a specific course session element required in the task, the more difficult it will be for the AI ​​tools to write a good text    
+
+Ask students to be more personal in their writing and/or
+write logbooks about their learning and the tasks on the course
+describe what they learned during the course, and how this knowledge can help them in their future professions?
+Finally, try to integrate AI into teaching in a constructive way!
+
+AI support for teachers
+Last changed: 30 July 2024
+
+AI can support you as a teacher in many ways.
+
+Make time: By supporting you in administrative tasks such as course planning and scheduling etc.
+
+Help you create different types of learning materials and adapt them to different groups of students (texts, images, videos, etc.).
+
+Make suggestions for new variants of exam questions.
+
+Writing support: AI can help with writing, proofread what has been written and suggest changes.
+
+Summarise many texts quickly: It is possible to upload many texts and ask AI to summarise them.
+
+Translate text from other languages: Texts in almost any language can be quickly translated. NB. Text translated with AI tools must always be revised before it is published or disseminated.
+
+Collect and analyse data in your learning platform: The analyses can show if certain students appear to be at risk of dropping out because they are falling behind in their studies. This type of system is called Early Warning Systems (EWS).
+Finally, AI can support you in achieving your learning outcomes.
+But it is also very important that you have knowledge of risks and limitations and how you can use AI in an ethical, responsible and inclusive way. 
+
+When you test new AI services, don't forget:
+
+Currently you often need to create private accounts to explore many of the new AI services on the market (and several cost money).
+
+Critical thinking: Be aware that AI-generated material may contain inaccuracies, distortions, bias, and copyrighted material.
+
+Security awareness: Pay attention to security aspects when testing AI systems.
+
+Privacy protection: Be careful about what information you share with AI to prevent the spread of sensitive and proprietary information.
+
+AI support for students
+Last changed: 18 June 2024
+
+AI can support you in your studies in many ways,
+
+For example:
+
+Act as a "virtual study companion" ("or learning companion") and help you with structure and study planning. The AI ​​support can act as a discussion partner and can help you cope with your studies.
+
+Practice and feedback: AI can give you the opportunity to practise your skills and get instant feedback, helping you improve and develop your skills over time.
+
+Writing support: AI can help you in your writing, for example by giving advice on structure, proofread what has been written and suggest changes and more.
+
+Summarise many texts quickly: It is possible to upload many texts and ask AI to summarise them.
+
+Act as a virtual note-taking support if you find it difficult to take notes while listening to a lecture. AI can both transcribe audio recordings in their entirety and summarise the audio recording/recording in shorter points.
+
+Explain difficult texts: If you have difficulty understanding a text, AI can help.
+
+Translate texts from other languages: Texts in almost any language can be translated quickly. NB. Text translated with AI tools must always be revised before it is published or disseminated.
+
+Suggest analysis methods: For example, different statistical methods.
+Finally, AI can support you in reaching your study goals. But it is also very important that you have knowledge of risks and limitations and how you can use AI in an ethical, responsible and inclusive way.
+
+Be especially careful to find out how (or if) you are allowed to use AI in different courses and course elements. Also be prepared to be able to report how you used AI in your submissions and more.
+
+When you test new AI services, don't forget:    
+
+Currently you often need to create private accounts to explore many of the new AI services on the market (and several cost money).
+
+Critical thinking: Be aware that AI-generated material may contain inaccuracies, distortions, bias, and copyrighted material.
+
+Security awareness: Pay attention to security aspects when testing AI systems.
+
+Privacy protection: Be careful about what information you share with AI to prevent the spread of sensitive and proprietary information.
+ 
+AI support for accessibility and Funka
+Last changed: 18 June 2024
+
+AI can play an important role in improving accessibility on the web and also support students with disabilities in several ways.
+
+For example:
+
+Shorten the lead time it takes for you as a teacher to produce customised course material.
+
+Facilitate the work of subtitling recorded material, so that the requirements according to the EU accessibility directive. Subtitling is especially important for people with hearing loss.
+
+Translate text, speech and images into different languages ​​and formats, which can facilitate communication between teachers and students with different linguistic and cultural backgrounds.
+
+Facilitate students with various types of disabilities, for example by:
+Automatic image description: AI can be used to automatically generate descriptions of images on web pages.
+Text translation, capitalisation and synthetic speech: AI can be used to translate text on web pages into different languages, generate synthetic speech and more. NB. Text translated with AI tools must always be revised before it is published or disseminated.
+Act as a "virtual study companion" ("or learning companion") who helps you as a student with the structure and planning of your studies. The AI ​​support can act as a discussion partner and can help you cope with your studies.
+
+Explain difficult texts: If you have difficulty understanding a text, AI can help.
+
+Act as a virtual note-taking support if you, as a student, find it difficult to take notes while listening to a lecture. AI can both transcribe audio recordings in their entirety and summarise the audio recording/recording in shorter points.
+
+Summarise many texts quickly: It is possible to upload many texts and ask AI to summarise them.
+The DOS Act, the Swedish law based on the EU's accessibility directive, entered into force on 1 January 2019. The DOS Act requires digital content to be:
+
+possible to perceive, regardless of any impairment of, for example, vision or hearing
+manageable, that is, possible to interact with
+understandable and
+robust, i.e. able to be used with a wide range of different user programs, such as browsers or technical aids.
+Finally, AI can support work with accessibility and provide support to students with disabilities. But at the same time, it is very important to be aware of risks and limitations and how you can use AI in an ethical, responsible and inclusive way.
+
+When you test new AI services, do not forget:    
+
+Currently you often need to create private accounts to explore many of the new AI services on the market (and several cost money).
+
+Critical thinking: Be aware that AI-generated material may contain inaccuracies, distortions, bias, and copyrighted material.
+
+Security awareness: Pay attention to security aspects when testing AI systems.
+
+Privacy protection: Be careful about what information you share with AI to prevent the spread of sensitive and proprietary information.
+ 
+AI support for PhD students
+Last changed: 18 June 2024
+
+AI can support doctoral students in several ways:
+
+Report writing support: AI can help when writing a research paper or report.
+
+Develop research questions: AI can support you when you want to develop your research questions for a specific study.
+
+Summarize many articles quickly: You can upload many articles and ask AI to summarize them.
+
+Explain difficult articles: If you need help understanding a research article, you can ask AI to help you.
+
+Translate articles from other languages. Now you can get help reading research articles in almost any language.
+
+Suggest analysis methods: For example, different statistical methods.
+
+Trend analysis: AI can help identify emerging trends and potential areas of research in a particular field.
+
+Report writing support: AI can help develop reports for various purposes.
+
+Support for writing different types of applications: AI can help you write an application by suggesting structure and important keywords, language review and more.
+Finally, AI can support you in achieving your study goals. But it is also very important that you have knowledge of risks and limitations and how you can use AI in an ethical, responsible and inclusive way.
+
+Be especially careful to find out how (or if) you are allowed to use AI in different doctoral courses and course elements. Also be prepared to be able to report how you used AI in your research.
+
+When you test new AI services, don't forget:
+
+Currently you often need to create private accounts to explore many of the new AI services on the market (and several cost money).
+
+Critical thinking: Be aware that AI-generated material may contain inaccuracies, distortions, bias, and copyrighted material.
+
+Security awareness: Pay attention to security aspects when testing AI systems.
+
+Privacy protection: Be careful about what information you share with AI to prevent the spread of sensitive and proprietary information.
+
+AI support for administrators
+Last changed: 18 June 2024
+
+AI can support you as an administrator in several ways.
+
+Automation or RPA (Robotic Process Automation) can free up time by taking over all or parts of your simpler repetitive tasks using robotics and artificial intelligence. It is suitable for repetitive, administrative work that must be carried out based on clear rules and routines.
+
+Above all, AI can become a "virtual assistant" for you and make it easier to:
+
+tag and find the right information
+compile information and documents from texts and emails
+facilitate the use of, for example, Word, Excel and Powerpoint  
+quickly and easily search in complex manuals and regulations  
+analyse data and provide data for different types of strategies  
+produce visual material for, for example, recruitment fairs  
+create/translate/adapt content to different languages ​​and cultural contexts
+help to quickly and easily generate content (texts, images, video, news articles and blog posts, etc. 
+Custom chatbots can also free time by answering questions from students, teachers and other administrators regarding, for example:
+
+Study guidance
+Admission issues
+Student housing
+Regulations, handbooks, manuals and more
+Finally, AI can support you in your administrative work. But it is also very important that you have knowledge of risks and limitations and how you can use AI in an ethical, responsible and inclusive way.   
+
+When you test new AI services, don't forget:
+
+Currently you often need to create private accounts to explore many of the new AI services on the market (and several cost money).
+
+Critical thinking: Be aware that AI-generated material may contain inaccuracies, distortions, bias, and copyrighted material.
+
+Security awareness: Pay attention to security aspects when testing AI systems.
+
+Privacy protection: Be careful about what information you share with AI to prevent the spread of sensitive and proprietary information.
+ 
+AI & Academic Integrity
+Last changed: 05 March 2024
+
+AI-based text bots such as ChatGPT raise a number of questions about academic integrity, as AI can produce increasingly sophisticated texts.
+
+Introduction 
+AI is developing rapidly and is now also affecting higher education more and more. AI support will be part of everyone's everyday life and there are many possibilities but also risks involved. Recently, information has spread about the ChatGPT robot, that can answer advanced questions and quickly create well-formulated texts based on various requests. (However, there are a number of other bots such as Google's Bard, Perplexity and others). 
+
+What is truly new about this? 
+A home exam where the students have to write a PM or similar has never been completely legally secure. Letting others (friends, "kind" parents or commercial players) write the student's essays has been happening for a very long time. Already in Linnaeus' time, you could buy a written thesis. 
+
+However, it has now become fast, easy and accessible for everyone to be able to get a relatively well-written text in seconds. In addition, several of these chat bots are currently being integrated for example into Office 365, Microsoft BING and Google's search tools. 
+
+Are our plagiarism check systems not working? 
+No, existing plagiarism check systems like Ouriginal cannot find AI texts! Every time a person uses a chatbo, original texts are written, so there is no plagiarism in the usual sense. However, software that can recognize AI-written text is coming. However, there are always ways to get around technology-assisted control systems, so we probably should not rely exclusively on them. 
+
+How should we deal with this? 
+AI is here to stay so the issue needs serious management. Our point of view is that it is best handled through good information work (for both teachers and students), review of the university's policies and guidelines, and above all through well-thought-out examination strategies. Remember that AI-supported writing will be part of the students' future professional life, so we must also learn to handle it in a sensible way and see how we can use and integrate the technology in teaching without it leading to cheating. 
+
+How will AI and chatbots affect the way we teach? 
+Below you will find some things you can do right now!
+
+Inform yourselves about the possibilities of AI!
+Emphasize the importance of evaluation of sources!
+What do you wants to assess and how are you going to do it? Is it the knowledge connected to the subject or is it the ability to write?
+If it is the students' ability to write well-structured texts using correct language, it may be wise to use classroom exams where there is no access to the internet or AI support.
+Use oral examination more.
+Try combining different examination methods such as PM writing and oral examination
+Let the students be co-creators of the exam - the students develop and write questions, answers and assessment criteria. The teacher then selects what to use at the exam.
+Try to shift the focus from summative to formative assessment, i.e. follow the students' learning process and assess not only the end result but milestones in the process towards the learning objectives!
+Use part-time seminars where the students can describe how they intended to structure the material and how they went about finding their sources. Let them present their half-finished essays to the teacher and their classmates, etc.
+Look for changed language in the essays. Is this the normal way of expression?
+Be sure to follow up on students' references and make sure they also include page references in their citations. Not all chatbots provide references. Perplexity as an example often provide very simple references without page references. It also sometimes generates pure nonsense texts.
+Let the writing assignments connect to other parts of the course such as excursions, labs, seminars and lectures. The more specific details about a specific course required in the task, the more difficult it will be for the AI ​​tools to write a good text.
+Ask the students to be more personal in their writing or, for example, write logbooks about their learning and the tasks in the course. Allowing students to adopt a "meta-perspective" on their learning can be difficult for an AI to handle. For example, what has the student learned during the course, and how will this knowledge help them in their future professions?
+Finally, try to integrate AI into teaching in a constructive way! Among other things, students can practice looking for sources that support the factual background in an AI-written text and thereby increase their information literacy.
+Watch the AI seminar from 230503:
+AI & AI (Artificial Intelligence and Academic Integrity)
+Associate professor Sonja Bjelobaba is researcher at the Centre for Research Ethics & Bioethics as well as an associate professor at the Department of Modern Languages the Uppsala university.
+
+
+Read more / Links
+Testing of Detection Tools for AI-Generated Text, June 2023
+
+What impact do new AI tools have on education?, Umeå University
+
+On AI and assessment, Uppsala university
+
+ChatGPT and Artificial Intelligence in higher education. A Quick Start Guide (UNESCO)
+
+ChatGPT and AI Text Generators: Should Academia Adapt or Resist? | Harvard Business Publishing Education, February 2023
+
+European University Associations utlåtande kring AI, February 2023

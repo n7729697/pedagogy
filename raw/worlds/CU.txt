@@ -1,0 +1,104 @@
+Advancing knowledge and technology is one of the key objectives of pursuing
+postgraduate study and conducting innovative research. The mismatch between the
+speed by which knowledge and technologies evolves compared to that of regulations
+and policies has raised several concerns in the academic and research communities.
+Accordingly, it is important to strike a balance between the benefits and risks of
+adopting and adapting emerging knowledge and technologies.
+Generative artificial intelligence (AI) is one of the recent advances that has been
+evolving much faster than most organizations can comprehend and control.
+Generative artificial intelligence (AI) uses machine learning (ML) to respond to prompts
+inputted by the user. Several technologies have emerged over the last few years
+including, for instance, the text generator ChatGPT and the image generator DALL-E
+2, and Stable Diffusion.
+Recently, the use of generative AI in education, and more specifically, in research, has
+raised a great concern in academia from both ethical and scientific perspectives. Some
+recent efforts have emerged to attempt to develop policies, regulations, and guidelines
+for the various academic stakeholders (researchers, students, faculty staff) to ensure
+that the use of generative AI in academic does not violate the norms and standards
+that have been long established and enforced.
+This document represents the first attempt for the Faculty of Computers and Artificial
+Intelligence- Cairo University (FCAI-CU) to develop its policy for using generative AI
+technologies in teaching and research. In doing so, this living document serves as
+initial guidelines that will be adopted for the Academic Year 2023-2024. New versions
+will be issued as the technology matures and we gain more understanding of the
+benefits and risks of using generative AI in education. This document is based on
+various guidelines and policies developed at Stanford, Toronto, and Deakin University.2. Policy Development Approach
+FCAI-CU, as in all international academic institutes, is keen to progressively develop
+its policy and regulations for using generative AI in teaching and research. As it
+progresses, the policy should not prevent innovative use and exploration of the
+potential of generative AI in teaching and research; while at the same time ensures
+highest academic standards and adherence to FCAI-CU code of ethics and research
+regulations.
+To this end, this document serves as a set of guidelines for using generative AI in
+teaching and research at FCAI-CU. While this initial version is being adopted at FCAICU, regular feedback will be collected from all stakeholders on the use of the
+guidelines. In addition, we will continue to monitor and analyze polices and regulations
+that evolve in worldwide academic institutes. Eventually, a new version of this
+document will be released in the near future followed by continuous improvement
+cycles to evolve the document as novel technologies evolve over time.
+3. Key Guidelines for Using Generative AI in Teaching and Research
+The following are the key initial guidelines for using generative AI in teaching and
+research in FCAI-CU for postgraduate studies.
+3.1 Scope of the Guidelines
+These guidelines applies to all courses taught at postgraduate level including
+diplomas, Master, and Doctorate programs. It applies to coursework, projects,
+research proposals, and thesis and dissertations, and related scientific publications.
+For scientific publications, researchers will need to consult the publisher policy for any
+further regulations imposed on the use of generative AI and related technologies.
+3.2 Coursework
+ Instructors are free to decide whether to allow or prevent the use of generative
+AI in their courses. Instructors shall clearly indicate in course syllabus the rules
+they see appropriate for the use of generative AI in the various activities of the
+coursework.
+ In the absence of clear instructions on the use of generative AI in the
+coursework, the use of such tools should be treated as an assistance from
+another person and evaluated based on the regular policies and regulations for
+such case.
+ In all cases, students are responsible for clearly understand the course policy
+on using generative AI. When they are in doubt, students must ask their
+instructors for clarification.
+ Students should acknowledge the use of generative AI using the suggested
+citation in Section 3.4 below.
+3.3 Research Proposals, Thesis, and Dissertations
+The bottom-line, any use of generative AI tools at any step in the process of graduate
+thesis research, writing, and publication must always take place with full transparency
+and in adherence to the norms and highest standards of research ethics, intellectualproperty, and accountability. The following key guidelines represent the minimum
+expectations for graduate researchers at FCAI-CU when using generative AI tools in
+their research.
+ Supervisors must agree in advance how any generative AI tools will be used at
+any stage of the thesis/dissertations development. Such agreement must be in
+writing using unambiguous statements and well-defined scope of use. The
+original approval document shall be kept in the student file at postgraduate
+office with clear timestamp log for the document generation.
+ If the use of generative AI tools is approved by supervisor(s), it must be clear
+to the student what evidence they need to provide to demonstrate their own
+contributions and how they made use of any AI tools, and how their work will
+be assessed by the supervisor and committee.
+ Unauthorized use of generative AI tools for scholarly work shall be treated as
+research misconduct, and hence, police and regulations for academic research
+misconduct will be applied.
+ Students are fully responsible for contents generated by AI that they decide to
+include in their thesis. Students must be able to explain and defend any use of
+generative AI, as well as the contents of the thesis during their
+thesis/dissertation defense.
+ Any use of generative AI tools must be appropriately acknowledged (See
+Section 3.4 for more details). This includes the use of generative AI tools in
+searching, designing, outlining, drafting, writing, or editing the
+thesis/dissertation, or in producing audio or visual content for the
+thesis/dissertation, and may include other uses of generative AI.
+ students working with sensitive types of data (e.g., confidential information
+related to specific areas or industry partnership, human/individual data) are
+responsible for the risk of using such data with third party generative AI tools If
+such data is revealed or disclosed. Students must take appropriate measures
+to protect the data and/or obtain written approvals from relevant stakeholders
+before submitting the data to the third party tools.
+ Supervisors are highly discouraged to give permissions to their students to use
+generative AI tools in writing their thesis/dissertation. This is because learning
+the practices of scientific scholarly writing is crucial for graduate students. The
+use of generative AI tools could adversely impact the development of these
+writing skills.
+3.4 Referencing Guidelines
+The following guidelines are adopted from Deakin University guide on referencing:
+ Provide details of the owner/publisher of the AI tool and the year of publication.
+You might also provide further details of how you used the AI tool, for example
+a transcript on inputs/outputs, in an appendix.
+

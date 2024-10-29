@@ -1,0 +1,80 @@
+As generative AI (GenAI) becomes more widespread, accessible and easy to use, it will continue to impact the way we engage in teaching, learning, and assessment in higher education.
+
+UCL has opted to promote ethical and transparent engagement with GenAI tools rather than seek to ban them.  
+
+Discussing GenAI with your students is essential to help develop a shared understanding of its appropriate use and to support students in building critical AI literacy. This toolkit provides guidance for having these conversations with your students.  
+
+What is GenAI?  
+Artificial Intelligence is a field of scientific research and development. It includes subfields such as machine learning which uses algorithms to analyse huge amounts of data.  
+
+GenAI is a recent example of neural networks trained on massive datasets to generate new content from simple prompts. Large language models (LLMs) such as ChatGPT (Open AI), Bard (Google), or Claude (Anthropic) can generate text in multiple languages and styles. Other generative programs generate images, video, audio, and code from text instructions. 
+
+To find out more, read about our introduction to GenAI. 
+
+UCL’s policy on GenAI 
+Some higher education institutions have banned the use of GenAI technologies. However, we believe that these tools are potentially transformative as well as disruptive, that they will feature in many academic and professional workplaces.  
+
+Rather than seek to prohibit them, we will support students to use these tools effectively, ethically, and transparently. Departments and/or module leaders should decide what use of GenAI is appropriate in their assessment. They should refer to new guidance, found on the UCL's Feedback and Assessment sharepoint site [UCL users only]. 
+
+While these tools are powerful and easy to use, they can also provide misleading or incorrect information. Students should always be strongly encouraged to take a critical approach to use of any output from a GenAI, as these tools not only generate superficial, inaccurate and unhelpful outputs, but may also undermine the learning process. They can create shortcuts that reduce the need for a student’s critical engagement, which is key to deep and meaningful learning. It is important that students understand the difference between reasonable and unreasonable use of these technologies. 
+
+There is no simple solution to the challenges created by GenAI in learning, teaching, and assessment. It is important that staff familiarise themselves with the opportunities and risks posed by these technologies and discuss with students within their disciplinary and educational context. 
+
+GenAI and assessment 
+By focussing on the responsible and appropriate use of GenAI, we should consider why we are assessing students, what we want students to learn, and how students can demonstrate their learning.
+
+Consider your module learning outcomes. What do you want your students to achieve with this assessment? What core skills do you intend for them to develop? Will the use of GenAI help or hinder students from achieving their learning goals? Make sure you consider the diverse learning needs of your student cohort when you are thinking about how your students might achieve their learning goals.
+Consider how exactly students may or may not use GenAI for your assessment in order to meet learning outcomes. Most students do not want to short-cut their learning. They want you to be clear and explicit on how they can and cannot use GenAI. 
+UCL has developed three categories to provide guidance for when and how students can use GenAI in their assessments. These categories are to help you clarify expectations with your students. Each category describes a general approach with examples. You may adapt these categories, offer additional clarification, and include different examples. The three categories are: 
+Students are not allowed to use GenAI for their assessment (beyond what is specified in the UCL Academic Manual)
+Students are permitted to use GenAI tools for specific purposes to assist with their assessment
+GenAI is an integral part of the assessment and students are encouraged to use it extensively.  
+Departments, programme leaders, and/or module tutors must decide which category to employ for their assessments in advance.  
+
+4. Ensure that your decision is communicated and explained to students. Assessment cover sheets could include a statement for students to declare “I have read, understood and abided by the restrictions on the use of generative AI for this assignment.” 
+
+Discuss use of GenAI with your students 
+To support teaching staff to facilitate a discussion with students on GenAI we have produced a template student-facing slide deck. The slides introduce GenAI, guidance on its use in assessments, and include prompts for discussions and interactive teaching moments. The slides are merely a template and should be adapted for use with your department or programme.
+
+How should I use these slides? 
+The slides are designed as a 1-hour lecture. This lecture could be delivered live in induction week, later in term 1 within a core module, or circulated to students as an asynchronous video.  
+
+How are the slides structured? 
+The slides are structured in four parts. You will be required to edit the template for content and clarity. Slides with a stone-coloured background provide guidance for the educator and should be deleted.  
+
+1. What is Artificial Intelligence?  
+The first section (slides 4-11) provides a general introduction to genAI and includes mentimeter discussion prompts on its limitations and ethical considerations. The mentimeter slides are available as a template from mentimeter.com (login with your UCL SSO and search AI and You). 
+
+2. Is it appropriate to use AI tools in your education?
+This section (slides 12-21) provides three optional examples of “teaching moments” that you might consider for your session. You will likely only have time for one or two of these “teaching moments.” You will need to edit these slides to remove the instructions and to provide your own examples.  
+
+Option 1 (slides 13-14) is an example mentimeter discussion of student perspectives on the use of different tools in their disciplinary context.
+
+Option 2 (slides 15-16) suggests a discussion on ethical usage of GenAI using mentimeter or mural.
+
+Option 3 (slides 17-21) provides two examples, one from History and one from Physics, on how to critique an AI-generated output (critical discussion is in the notes box).
+
+3. What are UCL’s rules on academic integrity and AI?   
+This section (slides 22-27) includes an overview of UCL’s AI and Assessment Categories. You should delete the categories that do not apply to your module/programme. Ensure you are clear to students when and how they can or cannot use GenAI. The section also includes guidance for students on how to acknowledge their use of GenAI, if this has been permitted in the module/programme.  
+
+4. Next steps 
+The final section (slides 28-30) will include links to further resources from UCL and elsewhere, as well as suggestions for how students might productively make use of GenAI to support their learning, and an opportunity for questions. 
+
+How do I obtain the mentimeter slides? 
+The mentimeter can be found as a template. Log-in to mentimeter.com with your UCL SSO. Click on “Shared templates” and search for “AI and You”. You will then be able to create your own version of the mentimeter.  
+
+Where can I find out more about building GenAI into my teaching and assessment? 
+You should contact your Faculty Learning Technologist, Digital Assessment Advisor or your HEDS Faculty Partnership Team. 
+
+Further help
+Visit UCL's GenAI hub for educators.
+
+Explore UCL student perspectives on GenAI:
+
+Student focus groups: Chandler, J. (2023) Student Perspectives on Ethical Usage of AI at UCL.  
+Short video interviews with students on how they use AI tools and academic integrity and AI literacy on MediaCentral
+Familiarise yourself with UCL’s guidance for students on Engaging with AI in Your Education.
+
+Review UCL’s guidance on how to acknowledge and reference AI.
+
+
