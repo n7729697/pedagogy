@@ -16,7 +16,6 @@ python3 preprocess.py data/text_files output --plot
 output/
 ├── example_file.csv           # CSV file with word counts and TF-IDF scores
 ├── example_file_wordcloud.png  # Optional word cloud image
-
 ```
 Modify the preprocessing steps (like additional stopwords) by editing the `unwanted_words` set in the script.
 
